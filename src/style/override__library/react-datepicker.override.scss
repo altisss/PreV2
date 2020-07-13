@@ -1,0 +1,80 @@
+// ghi đè css của thư viện react-datepicker
+
+// import thư viện
+@import "../../../node_modules/react-datepicker/dist/react-datepicker.css";
+// ghi đè css 
+
+.react-datepicker {
+  .react-datepicker__current-month,
+  .react-datepicker-time__header {
+    font-size: 1rem;
+  }
+  .react-datepicker__day-name,
+  .react-datepicker__day,
+  .react-datepicker__time-name {
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    font-size: 1rem;
+  }
+}
+
+.react-datepicker-popper {
+  z-index: 301 !important;
+}
+
+
+.form-group {
+  .react-datepicker-wrapper {
+    display: block;
+    .react-datepicker__input-container {
+      display: block;
+    }
+  }
+}
+
+
+
+.confirm-order {
+  .date1 .react-datepicker-wrapper,
+  .date2 .react-datepicker-wrapper {
+    flex: 0 0 75%;
+    max-width: 75%;
+    position: relative;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .date1 .react-datepicker-popper {
+    transform: translate3d(60px, -27px, 0px) !important;
+  }
+  .date2 .react-datepicker-popper {
+    transform: translate3d(62px, -20px, 0px) !important;
+  }
+}
+
+
+.wizard-modal {
+  .react-datepicker {
+    .react-datepicker__day-name,
+    .react-datepicker__day,
+    .react-datepicker__time-name {
+      width: 20px;
+      height: 15px;
+      line-height: 15px;
+      font-size: 1rem;
+    }
+  }
+  .react-datepicker__input-container {
+    display: block;
+  }
+  .css-vj8t7z {
+    height: 30px;
+    min-height: 30px;
+  }
+
+  .ReactTable {
+    font-size: 1rem;
+  }
+
+}

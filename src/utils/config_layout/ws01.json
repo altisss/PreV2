@@ -1,0 +1,68 @@
+{
+    "global": {},
+    "floating": {},
+    "borders": [],
+    "layout": {
+        "type": "row",
+        "weight": 100,
+        "children": [
+            {
+                "type": "row",
+                "weight": 33,
+                "children": [
+                    {
+                        "type": "tabset",
+                        "weight": 100,
+                        "height": 500,
+                        "selected": 0,
+                        "children": [
+                            {
+                                "type": "tab",
+                                "name": "common_index_chart_info",
+                                "component": "common_index_chart_info0",
+                                "config": {
+                                    "component": "common_index_chart_info0",    
+                                    "index1": 0,
+                                    "index2": 1
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "tabset",
+                        "selected": 0,
+                        "children": [
+                            {
+                                "type": "tab",
+                                "name": "add_order",
+                                "component": "add_order0",
+                                "config": {
+                                    "component": "add_order0",
+                                    "index1": 5,
+                                    "index2": 0
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "tabset",
+                "weight": 67,
+                "selected": 0,
+                "children": [
+                    {
+                        "type": "tab",
+                        "name": "sb_priceboard",
+                        "component": "sb_priceboard0",
+                        "config": {
+                            "component": "sb_priceboard0",
+                            "index1": 0,
+                            "index2": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,139 @@
+// Element Table
+.table-striped {
+    tr {
+        height: 24px;
+
+    }
+    tbody tr:nth-of-type(even) {
+        background-color: var(--secondary__table__background);
+        &:hover {
+            background-color: var(--hover__table__background);
+        }
+    }
+
+    tbody tr:nth-of-type(odd) {
+        background-color: var(--third__table__background);
+        &:hover {
+            background-color: var(--hover__table__background);
+        }
+    }
+
+}
+.table-bordered {
+    border-color: var(--main__border__color);
+    thead, tfoot {
+        background-color: var(--main__table__background);
+        th, tr, td {
+            border-color: var(--main__border__color);
+            border-bottom: unset !important;
+            border-top: unset !important;
+        }
+    }
+    tbody {
+        th, tr, td {
+            // border-color: var(--main__border__color);
+
+            border-color: var(--main__border__color);
+            border-right: 1px solid var(--main__border__color);
+            border-bottom: unset !important;
+            border-top: unset !important;
+        }
+    }
+}
+
+//------------------------
+
+
+
+.table-sm td, .table-sm th {
+    padding: .1rem;
+}
+.tablenowrap td {
+    white-space: nowrap;
+}
+
+// .scroll-bottom::-webkit-scrollbar-track
+// {
+//     box-shadow: inset 0 0 6px #999;
+// 	-webkit-box-shadow: inset 0 0 6px #999;
+//     background-color: var(--component__gray);
+//     border-radius: 6px;
+// }
+
+// .scroll-bottom::-webkit-scrollbar
+// {
+//     width: 6px;
+//     height: 6px;
+// 	background-color: var(--component__light);
+// }
+
+// .scroll-bottom::-webkit-scrollbar-thumb
+// {
+//     box-shadow: inset 0 0 6px #999;
+// 	-webkit-box-shadow: inset 0 0 6px #999;
+//     background-color: var(--component__deep_gray);
+//     border-radius: 6px;
+// }
+// .table-responsive::-webkit-scrollbar-track
+// {
+//     box-shadow: inset 0 0 6px #999;
+// 	-webkit-box-shadow: inset 0 0 6px #999;
+// 	background-color: var(--component__gray);
+// }
+
+// .table-responsive::-webkit-scrollbar
+// {
+//     width: 6px;
+//     height: 6px;
+// 	background-color: var(--component__light);
+// }
+
+// .table-responsive::-webkit-scrollbar-thumb
+// {
+//     box-shadow: inset 0 0 6px #999;
+// 	-webkit-box-shadow: inset 0 0 6px #999;
+//     background-color: var(--component__deep_gray);
+//     border-radius: 8px;
+// }
+
+.table-hover tbody tr:hover {
+    color: unset;
+    background-color: rgba(0,0,0,.075);
+}
+.table-sm td, .table-sm th {
+    padding: .1rem;
+}
+.table_sticky.table_sticky_row2 {
+    thead tr:nth-child(2) th {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 20px;
+    }
+}
+.table_sticky {
+    thead tr:first-child th {
+       position: -webkit-sticky;
+       position: sticky;
+       top: -1px;
+       background-color: var(--main__table__background);
+   }
+}
+
+.card-body.table-history-index-height {
+    max-height: calc(100vh - 395px);
+    padding: 0;
+}
+
+.card-body.table-index-height {
+    padding: 0;
+}
+.table-overview-market .card {
+    margin-top: 10px;
+}
+.table-fix-width {
+    width: calc(100% + 1px)!important;
+}
+.table-responsive {
+    overflow: unset;
+    -webkit-overflow-scrolling: unset;
+}

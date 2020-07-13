@@ -1,0 +1,40 @@
+#market__list-index {
+    padding-top: 4px; 
+    height: 36px;
+    transform: none;
+    display: flex;
+    padding-left: 0;
+    
+    li a {
+      font-size: 1.2rem;
+    }
+
+    .index-sidebar {
+      &:hover {
+        background-color: var(--component__green);
+      }
+      .active {
+        background-color: var(--component__green);
+      }
+    }
+
+    .dropdown-menu {
+      z-index: 1000;
+      max-height: 200px;
+      overflow: auto;
+      overflow-x: hidden;
+      background-color: var(--sidebar__background__color);
+      color: var(--main__content__color);
+    }
+    .dropdown {
+      padding: 0.5rem 0;
+      padding-left: 20px;
+      margin: 0;
+      &:hover {
+        .dropdown-menu {
+          transform: translate3d(0px, 20px, 0px);
+          display: block !important;
+        }
+      }      
+    }
+}

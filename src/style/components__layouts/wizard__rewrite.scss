@@ -1,0 +1,82 @@
+// Bắt đầu từ thẻ body 
+
+@import '../tools/mixins';
+
+body {
+
+    .nav-tabs .nav-link {
+        border: unset;
+        color: inherit;
+        font-size: 1.1rem;
+    }
+
+    .table_priceboard {
+        color: var(--color__table_pb);
+        font-size: 1.1rem;
+        line-height: 140%;
+    }
+
+    .blueColor {
+        color: var(--state__floor__color) !important;
+    }
+    .redColor {
+        color: var(--state__down__color) !important;
+    }
+    .sellBackGround {
+        background-color: var(--state__down__color) !important;
+        // color: var(--main__content__color);
+        color: #dee2e6;
+    }
+
+    .buyBackGround {
+        // color: var(--main__content__color);
+        color: #dee2e6;
+        background-color: #17a290;
+    }
+
+    .color-icon {
+        color: var(--main__content__color);
+    }
+
+
+    .price_basic_over {
+        color: var(--state__up__color);
+    }
+    .price_basic_less {
+        color: var(--state__down__color);
+    }
+    .price_ceil_color {
+        color: var(--state__ceil__color);
+    }
+    .price_floor_color {
+        color: var(--state__floor__color);
+    }
+    .price_basic_color {
+        color: var(--state__basic__color);
+    }
+    .buyColor {
+        color: var(--state__up__color);
+    }
+    .sellColor {
+        color: var(--state__down__color);
+    }
+    .text-button {
+        color: var(--state__floor__color) !important;
+    }
+    .room-own.active {
+        background-color: var(--secondary__background__color);
+    }
+
+    // màn hình login, signup, forget password
+
+    // .input-group.input-group-login {
+    //     border: 1px solid var(--component__light);
+    //     option {
+    //         background-color: var(--secondary__background__color);
+    //     }
+    // }
+
+    .loading {
+        color: var(--main__content__color);
+    }
+}

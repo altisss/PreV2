@@ -1,0 +1,51 @@
+  /*-- start css for vote modal --*/
+
+  .vote-modal .table-commentList {
+    width: 100%;
+  }
+  .vote-modal .table-commentList  tr:nth-child(even) {
+    background-color: var(--main__background__color);
+  }
+  .vote-modal .table-commentList  tr > td {
+    padding: 0 5px;
+  }
+
+  .vote-modal .starts-vote {
+    font-size: 2rem;
+    color: var(--state__floor__color);
+    cursor: pointer;
+  }
+
+  .vote-modal .label-comment-list {
+    color: var(--main__content__color);
+    cursor: pointer;
+  }
+
+  .vote-modal .div-over-table {
+    max-height: 200px;
+    overflow: auto;
+    overflow-x: hidden;
+    border: 1px dotted rgb(103, 101, 101);
+    border-radius: 4px;
+  }
+
+  .vote-modal .user-name {
+    color: var(--main__content__color);
+  }
+
+  .vote-modal .vote-time {
+    color: #a99a9a;
+    font-size: 1rem;
+    text-align: right;
+  }
+
+  .vote-modal .show-more {
+    text-align: right;
+    color: var(--secondary__content__color);
+  }
+  .vote-modal .content-comment {
+    font-style: italic;
+    padding: 0 20px;
+    color: var(--main__content__color);
+    font-size: 1rem;
+  }

@@ -1,0 +1,92 @@
+// Form Element
+
+.form-cash-transaction {
+    width: 420px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+// .form-cash-transaction .card-body { 
+//     background-color: var(--secondary__background__color);
+//     border: solid 1px #867d00;
+// }
+
+.flexlayout__layout .card-body { 
+    background-color: var(--form__background);
+    // border: solid 1px #867d00;
+}
+
+select.form-control ,input.form-control {
+    background-color: var(--main__background__color);
+    border: 1px solid var(--main__border__color);
+    border-radius: 4px;
+    color: inherit;
+    // height: 30px !important;
+    padding: 2px 5px;
+}
+
+.form-control {
+    background-color: inherit;
+    border: 1px solid var(--main__border__color);
+    border-radius: 4px;
+    color: inherit;
+    height: 26px !important;
+    padding: 2px 5px;
+    padding-top: 4px;
+}
+
+.form-control.disabled {
+    background: inherit;
+    color: var(--main__content__color);
+    border: 0;
+}
+
+
+.form-control-custom {
+    // background-color: var(--secondary__background__color);
+    background-color: var(--altisss_button);
+    border-color: var(--main__content__color);
+    color: inherit;
+}
+
+.form-control.input-login {
+    background-color: inherit;
+    border: 0;
+}
+
+.form-control[disabled],
+fieldset[disabled] .form-control {
+  cursor: unset;
+  background-color: inherit;
+}
+
+.form-group.row {
+  margin-bottom: 5px;
+}
+
+.card.form-cash-transaction {
+    border: 1px solid var(--third__border__color);
+}
+
+.modal-login {
+  select {
+    border: unset;
+  }
+}
+
+.form-group label {
+  margin: auto 0;
+  font-size: 1rem;
+}
+.input-group-sm > .form-control, .form-control-sm {
+  font-size: 1rem;
+}
+.input-group-sm > .form-control {
+  padding: unset;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  padding-right: 0.2rem;
+  padding-left: 0.2rem;
+}

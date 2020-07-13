@@ -1,0 +1,126 @@
+{
+    "name": "PreV2",
+    "description": "Premium V2.0 - A product of Altisss.vn",
+    "version": "2.0.0",
+    "private": true,
+    "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^1.2.27",
+        "@fortawesome/free-solid-svg-icons": "^5.12.1",
+        "@fortawesome/react-fontawesome": "^0.1.8",
+        "@matsun/reactiscapslockactive": "^1.1.0",
+        "@testing-library/jest-dom": "^4.2.4",
+        "@testing-library/react": "^9.3.2",
+        "@testing-library/user-event": "^7.1.2",
+        "bootstrap": "^4.4.1",
+        "chart.js": "2.8.0",
+        "chartjs-plugin-datalabels": "^0.7.0",
+        "d3-format": "^1.4.4",
+        "easy-bem": "^1.0.2",
+        "electron-is-dev": "^1.1.0",
+        "electron-store": "^5.2.0",
+        "electron-updater": "^4.3.1",
+        "flexlayout-react": "^0.3.6",
+        "font-awesome": "^4.7.0",
+        "i18next": "^13.1.2",
+        "jquery": "3.4.1",
+        "lightweight-charts": "^3.1.2",
+        "moment": "^2.27.0",
+        "node-sass": "^4.14.1",
+        "prop-types": "^15.7.2",
+        "react": "^16.13.1",
+        "react-bootstrap": "^1.0.1",
+        "react-bootstrap-range-slider": "^0.3.2",
+        "react-chartjs-2": "2.7.6",
+        "react-countdown-circle-timer": "1.0.3",
+        "react-csv": "^2.0.3",
+        "react-datepicker": "^2.14.1",
+        "react-dom": "^16.13.1",
+        "react-google-charts": "3.0.11",
+        "react-hotkeys": "^2.0.0",
+        "react-i18next": "^9.0.2",
+        "react-icons": "3.7.0",
+        "react-number-format": "4.0.6",
+        "react-perfect-scrollbar": "^1.5.8",
+        "react-popout": "^1.0.2",
+        "react-router-dom": "^5.1.2",
+        "react-scripts": "3.4.0",
+        "react-select": "^3.1.0",
+        "react-stockcharts": "^0.7.8",
+        "react-table": "6.9.0",
+        "react-table-hoc-fixed-columns": "2.1.0",
+        "react-tabs": "^3.1.1",
+        "react-tiny-popover": "3.4.5",
+        "react-toastify": "5.0.1",
+        "reactstrap": "^8.4.1",
+        "socket.io": "^2.3.0",
+        "styled-components": "4.0.0",
+        "yarn": "^1.22.4"
+    },
+    "author": "Altisss.vn <support@altisss.vn> (http://altisss.com)",
+    "repository": "https://github.com/altisss/PreV2.git",
+    "build": {
+        "publish": {
+            "provider": "github"
+        },
+        "appId": "com.altisss.premium",
+        "productName": "Premium",
+        "copyright": "Copyright © 2019 Altisss",
+        "win": {
+            "target": [
+                "nsis"
+            ],
+            "requestedExecutionLevel": "requireAdministrator"
+        },
+        "nsis": {
+            "uninstallDisplayName": "altiss trading premium",
+            "license": "license.txt",
+            "oneClick": false,
+            "allowToChangeInstallationDirectory": true
+        },
+        "files": [
+            "*.js",
+            "build",
+            "node_modules"
+        ],
+        "directories": {
+            "buildResources": "build"
+        }
+    },
+    "main": "public/electron.js",
+    "homepage": "./",
+    "scripts": {
+        "react-start": "rescripts start",
+        "react-build": "rescripts build",
+        "react-test": "rescripts test",
+        "react-eject": "react-scripts eject",
+        "electron-build": "electron-builder --win",
+        "electron-build-mac": "electron-builder",
+        "release": "yarn react-build && yarn electron-builder --publish=always",
+        "build": "yarn react-build && yarn electron-build",
+        "build-mac": "yarn react-build && yarn electron-build-mac",
+        "start": "concurrently \"PORT=3000 && BROWSER=none&&yarn react-start\" \"wait-on http://localhost:3000 && electron .\"",
+        "start-mac": "yarn react-start wait-on http://localhost:3000 && electron .",
+        "package": "electron-builder build --mac --win -c.extraMetadata.main=build/electron.js"
+    },
+    "eslintConfig": {
+        "extends": "react-app"
+    },
+    "browserslist": [
+        ">0.2%",
+        "not dead",
+        "not ie <= 11",
+        "not op_mini all"
+    ],
+    "devDependencies": {
+        "@rescripts/cli": "^0.0.13",
+        "@rescripts/rescript-env": "^0.0.11",
+        "concurrently": "^5.2.0",
+        "css-loader": "^3.4.2",
+        "electron": "^8.0.1",
+        "electron-builder": "^22.3.2",
+        "style-loader": "^1.1.3",
+        "typescript": "^3.7.5",
+        "wait-on": "^4.0.0"
+    },
+    "license": "MIT"
+}

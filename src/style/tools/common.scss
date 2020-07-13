@@ -1,0 +1,24 @@
+// import  "./_vars";
+// import  "_mixins";
+
+@import "./_vars";
+@import "_mixins";
+.invisible {
+  opacity: 0;
+}
+
+.view-enter {
+  @include smooth-fade-in-up(0s, 0.5s, ease-in);
+   z-index: 1;
+ }
+
+// fix
+.panel-heading {
+  z-index: 1 !important;
+}
+
+// fix
+.well {
+    padding: 7px;
+}
+

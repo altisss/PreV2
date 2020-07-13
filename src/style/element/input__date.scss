@@ -1,0 +1,37 @@
+  // type date
+  /* Removes the clear button from date inputs */
+  input[type="date"]::-webkit-clear-button {
+    display: none;
+  }
+
+  /* Removes the spin button */
+  input[type="date"]::-webkit-inner-spin-button {
+    display: none;
+  }
+
+  /* Always display the drop down caret */
+  input[type="date"]::-webkit-calendar-picker-indicator {
+    color: var(--main__content__color);
+  }
+
+  /* A few custom styles for date inputs */
+  input[type="date"] {
+    appearance: none;
+    -webkit-appearance: none;
+    color: var(--main__content__color);
+    font-size: 1.5rem;
+    border: 1px solid var(--secondary__background__color);
+    background: var(--secondary__background__color);
+    border-radius: 4px;
+    padding: 5px;
+    display: inline-block !important;
+    visibility: visible !important;
+    width: 100%;
+  }
+
+  input[type="date"]:focus {
+    color: var(--main__content__color);
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+  }

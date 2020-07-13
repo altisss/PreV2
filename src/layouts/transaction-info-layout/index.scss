@@ -1,0 +1,12 @@
+
+.TransactionInfo__layout {
+  div {
+    // display: inline-block;
+  }
+  .ReactTable .rt-table {
+    overflow: unset;
+  }
+  .ReactTable {
+    overflow: auto;
+  }
+}

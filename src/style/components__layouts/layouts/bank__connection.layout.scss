@@ -1,0 +1,36 @@
+.bank-connection {
+  .custom-control-label::before {
+    background-color: rgba(85, 85, 85, 0.7);
+  }
+  .custom-control-label::after {
+    // top: -0.05rem;
+    // height: 26px;
+  }
+  .custom-control-input:checked ~ .custom-control-label::before {
+    background-color: rgba(85, 85, 85, 0.7);
+    border-color: rgba(85, 85, 85, 0.7);
+  }
+  .popover-search {
+    background: inherit;
+    color: var(--main__content__color);
+
+    td label {
+      padding: 1px 15px 15px 25px;
+      color: var(--main__content__color);
+      white-space: nowrap;
+    }
+
+    td:hover label {
+      color: var(--main__content__color);
+    }
+
+    td .check {
+      border: 3px solid var(--main__content__color);
+      margin-top: -30px;
+    }
+
+    td:hover .check {
+      border: 3px solid var(--main__content__color);
+    }
+  }
+}

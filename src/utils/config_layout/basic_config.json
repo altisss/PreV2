@@ -1,0 +1,23 @@
+{
+	"global": {
+		"tabSetEnableMaximize": false
+	},
+	"floating": {},
+	"borders": [
+		],
+	"layout":{
+		"type": "row",
+		"weight": 100,
+		"children": [
+			{
+				"type": "tabset",
+				"weight": 50,
+				"selected": 0,
+				"id": "#default",
+				"children": [
+					
+				]
+			}
+		]
+  }
+}

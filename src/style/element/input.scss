@@ -1,0 +1,6 @@
+input {
+    &.form-control {
+        background-color: var(--secondary__background__color);
+        border: 1px solid var(--main__border__color);
+    }
+}

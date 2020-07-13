@@ -1,0 +1,6566 @@
+[
+    {
+      "value": "YTC",
+      "label": "YTC - UPC - Cổ phiếu Công ty cổ phần Xuất nhập khẩu Y tế Thành phố Hồ Chí Minh"
+    },
+    {
+      "value": "YRC",
+      "label": "YRC - UPC - Cổ phiếu Công ty cổ phần Đường sắt Yên Lào"
+    },
+    {
+      "value": "YEG",
+      "label": "YEG - HOSE - Cổ phiếu Công ty cổ phần Tập đoàn Yeah1"
+    },
+    {
+      "value": "YBM",
+      "label": "YBM - HOSE - Co phieu Cong ty co phan Khoang san cong nghiep Yen Bai"
+    },
+    {
+      "value": "YBC",
+      "label": "YBC - UPC - Cổ phiếu CTCP Xi măng & Khoáng sản Yên Bái"
+    },
+    {
+      "value": "XPH",
+      "label": "XPH - UPC - Công ty cổ phần Xà phòng Hà Nội"
+    },
+    {
+      "value": "XMD",
+      "label": "XMD - UPC - Công ty Cổ phần Xuân Mai - Đạo Tú"
+    },
+    {
+      "value": "XMC",
+      "label": "XMC - UPC - Cổ phiếu CTCP Bê tông & Xây dựng Vinaconex Xuân Mai"
+    },
+    {
+      "value": "XLV",
+      "label": "XLV - UPC - Co phieu Cong ty co phan Xay lap va Dich vu Song Da"
+    },
+    {
+      "value": "XHC",
+      "label": "XHC - UPC - Cổ phiếu Công ty cổ phần Xuân Hòa Việt Nam"
+    },
+    {
+      "value": "XDH",
+      "label": "XDH - UPC - Co phieu Cong ty co phan Dau tu Xay dung Dan dung Ha Noi"
+    },
+    {
+      "value": "X77",
+      "label": "X77 - UPC - Cổ phiếu Công ty cổ phần Thành An 77"
+    },
+    {
+      "value": "X26",
+      "label": "X26 - UPC - Co phieu Cong ty co phan 26"
+    },
+    {
+      "value": "X20",
+      "label": "X20 - HNX - Cổ phiếu Công ty cổ phần X20"
+    },
+    {
+      "value": "X18",
+      "label": "X18 - UPC - Cổ phiếu Công ty cổ phần Xi măng X18"
+    },
+    {
+      "value": "WTN",
+      "label": "WTN - UPC - Cổ phiếu Công ty cổ phần Cấp thoát nước Tây Ninh"
+    },
+    {
+      "value": "WTC",
+      "label": "WTC - UPC - Cổ phiếu CTCP Vận tải Thủy - Vinacomin"
+    },
+    {
+      "value": "WSS",
+      "label": "WSS - HNX - Cổ phiếu CTCP Chứng khoán Phố Wall"
+    },
+    {
+      "value": "WSB",
+      "label": "WSB - UPC - Cổ phiếu CTCP Bia Sài Gòn - Miền Tây"
+    },
+    {
+      "value": "WCS",
+      "label": "WCS - HNX - Cổ phiếu CTCP Bến xe Miền Tây"
+    },
+    {
+      "value": "VXP",
+      "label": "VXP - UPC - Cổ phiếu Công ty cổ phần Thuốc Thú y Trung ương VETVACO"
+    },
+    {
+      "value": "VXB",
+      "label": "VXB - HNX - Cổ phiếu CTCP Vật liệu Xây dựng Bến Tre"
+    },
+    {
+      "value": "VWS",
+      "label": "VWS - UPC - Cổ phiếu Công ty cổ phần Nước và Môi trường Việt Nam"
+    },
+    {
+      "value": "VVN",
+      "label": "VVN - UPC - Cổ phiếu Tổng công ty cổ phần Xây dựng Công nghiệp Việt Nam"
+    },
+    {
+      "value": "VTX",
+      "label": "VTX - UPC - Cổ phiếu Công ty cổ phần Vận tải Đa phương thức Vietranstimex"
+    },
+    {
+      "value": "VTV",
+      "label": "VTV - HNX - Cổ phiếu CTCP VICEM Vật tư Vận tải Xi măng"
+    },
+    {
+      "value": "VTS",
+      "label": "VTS - HNX - Cổ phiếu CTCP Viglacera Từ Sơn"
+    },
+    {
+      "value": "VTP",
+      "label": "VTP - UPC - Cổ phiếu Tổng công ty Cổ phần Bưu chính Viettel"
+    },
+    {
+      "value": "VTO",
+      "label": "VTO - HOSE - Cổ phiếu CTCP Vận tải xăng dầu VITACO"
+    },
+    {
+      "value": "VTM",
+      "label": "VTM - UPC - Cổ phiếu Công ty cổ phần Vận tải và Đưa đón thợ mỏ - Vinacomin"
+    },
+    {
+      "value": "VTL",
+      "label": "VTL - HNX - Cổ phiếu CTCP Thăng Long"
+    },
+    {
+      "value": "VTK",
+      "label": "VTK - UPC - Công ty cổ phần Tư vấn Thiết kế Viettel"
+    },
+    {
+      "value": "VTJ",
+      "label": "VTJ - HNX - Cổ phiếu Công ty cổ phần Thương mại và Đầu tư Vi na ta ba"
+    },
+    {
+      "value": "VTI",
+      "label": "VTI - UPC - Cổ phiếu CTCP Sản xuất - Xuất nhập khẩu Dệt may"
+    },
+    {
+      "value": "VTH",
+      "label": "VTH - HNX - Công ty cổ phần Dây cáp điện Việt Thái"
+    },
+    {
+      "value": "VTG",
+      "label": "VTG - UPC - Cổ phiếu Công ty cổ phần Du lịch tỉnh Bà Rịa – Vũng Tàu"
+    },
+    {
+      "value": "VTE",
+      "label": "VTE - UPC - Cổ phiếu CTCP Viễn thông Điện tử VINACAP"
+    },
+    {
+      "value": "VTC",
+      "label": "VTC - HNX - Cổ phiếu CTCP Viễn thông VTC"
+    },
+    {
+      "value": "VTB",
+      "label": "VTB - HOSE - Cổ phiếu CTCP Điện tử Tân Bình"
+    },
+    {
+      "value": "VTA",
+      "label": "VTA - UPC - Cổ phiếu CTCP Vitaly"
+    },
+    {
+      "value": "VT8",
+      "label": "VT8 - UPC - Cổ phiếu công ty cổ phần dịch vụ vận tải ô tô số 8"
+    },
+    {
+      "value": "VT1",
+      "label": "VT1 - UPC - Cổ phiếu CTCP Vật tư Bến Thành"
+    },
+    {
+      "value": "VST",
+      "label": "VST - UPC - Cổ phiếu CTCP Vận tải & Thuê tàu biển Việt Nam"
+    },
+    {
+      "value": "VSP",
+      "label": "VSP - UPC - Cổ phiếu CTCP Vận tải biển & Bất động sản Việt Hải"
+    },
+    {
+      "value": "VSN",
+      "label": "VSN - UPC - Cổ phiếu Công ty cổ phần Việt Nam Kỹ nghệ Súc sản"
+    },
+    {
+      "value": "VSM",
+      "label": "VSM - HNX - Cổ phiếu Công ty cổ phần Container miền Trung"
+    },
+    {
+      "value": "VSI",
+      "label": "VSI - HOSE - Cổ phiếu CTCP đầu tư và xây dựng cấp thoát nước"
+    },
+    {
+      "value": "VSH",
+      "label": "VSH - HOSE - Cổ phiếu CTCP Thuỷ điện Vĩnh Sơn – Sông Hinh"
+    },
+    {
+      "value": "VSG",
+      "label": "VSG - UPC - Cổ phiếu CTCP Container Phía Nam"
+    },
+    {
+      "value": "VSF",
+      "label": "VSF - UPC - Co phieu Tong Cong ty Luong thuc Mien Nam _ Cong ty co phan"
+    },
+    {
+      "value": "VSE",
+      "label": "VSE - UPC - Co phieu Cong ty co phan Dich vu Duong cao toc Viet Nam"
+    },
+    {
+      "value": "VSC",
+      "label": "VSC - HOSE - Cổ phiếu CTCP Container Việt Nam"
+    },
+    {
+      "value": "VSA",
+      "label": "VSA - HNX - Cổ phiếu Công ty cổ phần Đại lý Hàng hải Việt Nam"
+    },
+    {
+      "value": "VRG",
+      "label": "VRG - UPC - Cổ phiếu Công ty cổ phần Phát triển Đô thị và Khu công nghiệp Cao su Việt Nam"
+    },
+    {
+      "value": "VRE",
+      "label": "VRE - HOSE - Cổ phiếu Công ty cổ phần Vincom Retail"
+    },
+    {
+      "value": "VRC",
+      "label": "VRC - HOSE - Cổ phiếu CTCP Xây lắp & Địa ốc Vũng Tàu"
+    },
+    {
+      "value": "VQC",
+      "label": "VQC - UPC - Cổ phiếu CTCP Giám định Vinacomin"
+    },
+    {
+      "value": "VPW",
+      "label": "VPW - UPC - Cổ phiếu Công ty cổ phần Cấp thoát nước số 1 Vĩnh Phúc"
+    },
+    {
+      "value": "VPS",
+      "label": "VPS - HOSE - Cổ phiếu Công ty cổ phần Thuốc sát trùng Việt Nam"
+    },
+    {
+      "value": "VPR",
+      "label": "VPR - UPC - Cổ phiếu Công ty cổ phần In và thương mại Vina"
+    },
+    {
+      "value": "VPK",
+      "label": "VPK - HOSE - Cổ phiếu CTCP Bao bì Dầu thực vật"
+    },
+    {
+      "value": "VPI",
+      "label": "VPI - HOSE - Cổ phiếu Công ty cổ phần Đầu tư Văn Phú - Invest"
+    },
+    {
+      "value": "VPH",
+      "label": "VPH - HOSE - Cổ phiếu CTCP Vạn Phát Hưng"
+    },
+    {
+      "value": "VPG",
+      "label": "VPG - HOSE - Cổ phiếu Công ty cổ phần Đầu tư Thương mại Xuất nhập khẩu Việt Phát"
+    },
+    {
+      "value": "VPD",
+      "label": "VPD - HOSE - Cổ phiếu Công ty cổ phần Phát triển Điện lực Việt Nam"
+    },
+    {
+      "value": "VPC",
+      "label": "VPC - UPC - Cổ phiếu CTCP Đầu tư & Phát triển năng lượng Việt Nam"
+    },
+    {
+      "value": "VPB",
+      "label": "VPB - HOSE - Cổ phiếu Ngân hàng Thương mại cổ phần Việt Nam Thịnh Vượng"
+    },
+    {
+      "value": "VPA",
+      "label": "VPA - UPC - Cổ phiếu Công ty cổ phần Vận tải hóa dầu VP"
+    },
+    {
+      "value": "VOS",
+      "label": "VOS - HOSE - Cổ phiếu CTCP Vận tải biển Việt Nam"
+    },
+    {
+      "value": "VOC",
+      "label": "VOC - UPC - Cổ phiếu Tổng Công ty Công nghiệp dầu thực vật Việt Nam – CTCP"
+    },
+    {
+      "value": "VNY",
+      "label": "VNY - UPC - Cổ phiếu Công ty cổ phần Thuốc Thú Y Trung Ương I"
+    },
+    {
+      "value": "VNX",
+      "label": "VNX - UPC - Cổ phiếu CTCP Quảng cáo & Hội chợ Thương mại"
+    },
+    {
+      "value": "VNT",
+      "label": "VNT - HNX - Cổ phiếu CTCP Giao nhận vận tải Ngoại Thương"
+    },
+    {
+      "value": "VNS",
+      "label": "VNS - HOSE - Cổ phiếu CTCP Ánh Dương Việt Nam"
+    },
+    {
+      "value": "VNR",
+      "label": "VNR - HNX - Cổ phiếu Tổng CTCP tái bảo hiểm quốc gia Việt Nam"
+    },
+    {
+      "value": "VNP",
+      "label": "VNP - UPC - Công ty Cổ phần Nhựa Việt Nam"
+    },
+    {
+      "value": "VNN",
+      "label": "VNN - UPC - Cổ phiếu CTCP Đầu tư Vietnamnet"
+    },
+    {
+      "value": "VNM",
+      "label": "VNM - HOSE - Cổ phiếu CTCP Sữa Việt Nam"
+    },
+    {
+      "value": "VNL",
+      "label": "VNL - HOSE - Cổ phiếu CTCP Giao Nhận Vận Tải & Thương Mại"
+    },
+    {
+      "value": "VNI",
+      "label": "VNI - UPC - Cổ phiếu CTCP Đầu tư bất động sản Viên Nam"
+    },
+    {
+      "value": "VNH",
+      "label": "VNH - UPC - Cổ phiếu CTCP Đầu tư Việt Việt Nhật"
+    },
+    {
+      "value": "VNG",
+      "label": "VNG - HOSE - Công ty cổ phần Du lịch Thành Thành Công"
+    },
+    {
+      "value": "VNF",
+      "label": "VNF - HNX - Cổ phiếu CTCP Vận tải Ngoại thương"
+    },
+    {
+      "value": "VNE",
+      "label": "VNE - HOSE - Cổ phiếu Tổng CTCP Xây dựng điện Việt Nam"
+    },
+    {
+      "value": "VND",
+      "label": "VND - HOSE - Cổ phiếu CTCP Chứng khoán VNDIRECT"
+    },
+    {
+      "value": "VNC",
+      "label": "VNC - HNX - Cổ phiếu CTCP Tập đoàn Vinacontrol"
+    },
+    {
+      "value": "VNB",
+      "label": "VNB - UPC - Cổ phiếu Công ty cổ phần Sách Việt Nam"
+    },
+    {
+      "value": "VNA",
+      "label": "VNA - UPC - Cổ phiếu CTCP Vận tải biển Vinaship"
+    },
+    {
+      "value": "VMS",
+      "label": "VMS - HNX - Cổ phiếu CTCP Phát triển Hàng hải"
+    },
+    {
+      "value": "VMI",
+      "label": "VMI - HNX - Công ty cổ phần Khoáng sản và Đầu tư VISACO"
+    },
+    {
+      "value": "VMG",
+      "label": "VMG - UPC - Cổ phiếu CTCP thương mại & dịch vụ dầu khí Vũng Tàu"
+    },
+    {
+      "value": "VMD",
+      "label": "VMD - HOSE - Cổ phiếu CTCP Y Dược phẩm Vimedimex"
+    },
+    {
+      "value": "VMC",
+      "label": "VMC - HNX - Cổ phiếu CTCP VIMECO"
+    },
+    {
+      "value": "VMA",
+      "label": "VMA - UPC - Cổ phiếu CTCP Công nghiệp Ô tô - Vinacomin"
+    },
+    {
+      "value": "VLW",
+      "label": "VLW - UPC - Cổ phiếu Công ty cổ phần Cấp nước Vĩnh Long"
+    },
+    {
+      "value": "VLP",
+      "label": "VLP - UPC - Cổ phiếu Công ty cổ phần Công trình Công cộng Vĩnh Long"
+    },
+    {
+      "value": "VLG",
+      "label": "VLG - UPC - Cổ phiếu Công ty cổ phần Vinalines Logistics - Việt Nam"
+    },
+    {
+      "value": "VLF",
+      "label": "VLF - UPC - Cổ phiếu CTCP Lương thực thực phẩm Vĩnh Long"
+    },
+    {
+      "value": "VLC",
+      "label": "VLC - UPC - Cổ phiếu Tổng công ty chăn nuôi Việt Nam - CTCP"
+    },
+    {
+      "value": "VLB",
+      "label": "VLB - UPC - Cổ phiếu Công ty cổ phần Xây dựng và sản xuất vật liệu xây dựng Biên Hòa"
+    },
+    {
+      "value": "VLA",
+      "label": "VLA - HNX - Cổ phiếu CTCP Đầu tư & Phát triển Văn Lang"
+    },
+    {
+      "value": "VKP",
+      "label": "VKP - UPC - Cổ phiếu CTCP Nhựa Tân Hóa"
+    },
+    {
+      "value": "VKD",
+      "label": "VKD - UPC - Cổ phiếu Công ty cổ phần nước khoáng Khánh Hòa"
+    },
+    {
+      "value": "VKC",
+      "label": "VKC - HNX - Cổ phiếu CTCP Cáp nhựa Vĩnh Khánh"
+    },
+    {
+      "value": "VJC",
+      "label": "VJC - HOSE - Cổ phiếu Công ty cổ phần Hàng không VIETJET"
+    },
+    {
+      "value": "VIX",
+      "label": "VIX - HNX - Cổ phiếu CTCP Chứng khoán IB"
+    },
+    {
+      "value": "VIW",
+      "label": "VIW - UPC - Cổ phiếu Tổng công ty Đầu tư Nước và Môi trường Việt Nam - CTCP"
+    },
+    {
+      "value": "VIT",
+      "label": "VIT - HNX - Cổ phiếu CTCP Viglacera Tiên Sơn"
+    },
+    {
+      "value": "VIS",
+      "label": "VIS - HOSE - Cổ phiếu CTCP Thép Việt Ý"
+    },
+    {
+      "value": "VIR",
+      "label": "VIR - UPC - Cổ phiếu CTCP Du lịch Quốc tế Vũng Tàu"
+    },
+    {
+      "value": "VIP",
+      "label": "VIP - HOSE - Cổ phiếu CTCP Vận tải Xăng dầu VIPCO"
+    },
+    {
+      "value": "VIN",
+      "label": "VIN - UPC - Công ty cổ phần Giao nhận Kho vận Ngoại thương Việt Nam"
+    },
+    {
+      "value": "VIM",
+      "label": "VIM - UPC - Cổ phiếu CTCP Khoáng sản Viglacera"
+    },
+    {
+      "value": "VIH",
+      "label": "VIH - UPC - Cổ phiếu Công ty cổ phần Viglacera Hà Nội"
+    },
+    {
+      "value": "VIG",
+      "label": "VIG - HNX - Cổ phiếu CTCP Chứng khoán Thương mại & Công nghiệp Việt Nam"
+    },
+    {
+      "value": "VIF",
+      "label": "VIF - UPC - Cổ phiếu Tổng công ty Lâm nghiệp Việt Nam - Công ty cổ phần"
+    },
+    {
+      "value": "VIE",
+      "label": "VIE - HNX - Cổ phiếu CTCP Công nghệ Viễn thông VI TE CO"
+    },
+    {
+      "value": "VID",
+      "label": "VID - HOSE - Cổ phiếu CTCP Đầu tư Phát triển Thương mại Viễn Đông"
+    },
+    {
+      "value": "VIC",
+      "label": "VIC - HOSE - Cổ phiếu Tập đoàn Vingroup - Công ty CP"
+    },
+    {
+      "value": "VIB",
+      "label": "VIB - UPC - Cổ phiếu Ngân hàng Thương mại cổ phần Quốc tế Việt Nam"
+    },
+    {
+      "value": "VHM",
+      "label": "VHM - HOSE - Co phieu Cong ty co phan Vinhomes"
+    },
+    {
+      "value": "VHL",
+      "label": "VHL - HNX - Cổ phiếu CTCP Viglacera Hạ Long"
+    },
+    {
+      "value": "VHH",
+      "label": "VHH - UPC - Cổ phiếu Công ty cổ phần Đầu tư Kinh doanh nhà Thành Đạt"
+    },
+    {
+      "value": "VHG",
+      "label": "VHG - UPC - Cổ phiếu CTCP ĐẦU TƯ CAO SU QUẢNG NAM"
+    },
+    {
+      "value": "VHF",
+      "label": "VHF - UPC - Cổ phiếu CTCP Xây dựng & Chế biến lương thực Vĩnh Hà"
+    },
+    {
+      "value": "VHE",
+      "label": "VHE - HNX - Co phieu Cong ty co phan Duoc lieu va Thuc pham Viet Nam"
+    },
+    {
+      "value": "VHD",
+      "label": "VHD - UPC - Cổ phiếu Công ty Cổ phần Đầu tư Phát triển Nhà và Đô thị Vinaconex"
+    },
+    {
+      "value": "VHC",
+      "label": "VHC - HOSE - Cổ phiếu CTCP Vĩnh Hoàn"
+    },
+    {
+      "value": "VGV",
+      "label": "VGV - UPC - Cổ phiếu Tổng công ty tư vấn xây dựng Việt Nam – CTCP"
+    },
+    {
+      "value": "VGT",
+      "label": "VGT - UPC - Cổ phiếu Tập đoàn Dệt may Việt Nam"
+    },
+    {
+      "value": "VGS",
+      "label": "VGS - HNX - Cổ phiếu CTCP Ống thép VG pipe"
+    },
+    {
+      "value": "VGR",
+      "label": "VGR - UPC - Co phieu Cong ty co phan Cang Xanh Vip"
+    },
+    {
+      "value": "VGP",
+      "label": "VGP - HNX - Cổ phiếu CTCP Cảng rau quả"
+    },
+    {
+      "value": "VGL",
+      "label": "VGL - UPC - Cổ phiếu Công ty Cổ phần Mạ kẽm công nghiệp Vingal-Vnsteel"
+    },
+    {
+      "value": "VGI",
+      "label": "VGI - UPC - Co phieu Tong Cong ty co phan Dau tu Quoc te Viettel"
+    },
+    {
+      "value": "VGG",
+      "label": "VGG - UPC - Cổ phiếu Tổng Công ty cổ phần May Việt Tiến"
+    },
+    {
+      "value": "VGC",
+      "label": "VGC - HOSE - Cổ phiếu Tổng Công ty Viglacera – CTCP"
+    },
+    {
+      "value": "VFR",
+      "label": "VFR - UPC - Cổ phiếu CTCP Vận tải & Thuê tàu"
+    },
+    {
+      "value": "VFG",
+      "label": "VFG - HOSE - Cổ phiếu CTCP Khử trùng Việt Nam"
+    },
+    {
+      "value": "VFC",
+      "label": "VFC - UPC - Cổ phiếu CTCP Vinafco"
+    },
+    {
+      "value": "VET",
+      "label": "VET - UPC - Cổ phiếu Công ty cổ phần Thuốc Thú y Trung ương NAVETCO"
+    },
+    {
+      "value": "VES",
+      "label": "VES - UPC - Cổ phiếu CTCP Đầu tư & Xây dựng điện Mêca Vneco"
+    },
+    {
+      "value": "VEF",
+      "label": "VEF - UPC - Cổ phiếu Công ty cổ phần Trung tâm Hội chợ Triển lãm Việt Nam"
+    },
+    {
+      "value": "VEE",
+      "label": "VEE - UPC - Cổ phiếu Công ty cổ phần Thiết bị điện Cẩm Phả"
+    },
+    {
+      "value": "VEC",
+      "label": "VEC - UPC - Cổ phiếu Tổng Công ty cổ phần Điện tử và Tin học Việt Nam"
+    },
+    {
+      "value": "VEA",
+      "label": "VEA - UPC - Cổ phiếu Tổng công ty Máy động lực và Máy nông nghiệp Việt Nam - CTCP"
+    },
+    {
+      "value": "VE9",
+      "label": "VE9 - HNX - Cổ phiếu CTCP Đầu tư và Xây dựng VNECO 9"
+    },
+    {
+      "value": "VE8",
+      "label": "VE8 - HNX - Cổ phiếu CTCP Xây dựng Điện Vneco 8"
+    },
+    {
+      "value": "VE4",
+      "label": "VE4 - HNX - Cổ phiếu CTCP Xây dựng điện VNECO4"
+    },
+    {
+      "value": "VE3",
+      "label": "VE3 - HNX - Cổ phiếu CTCP Xây dựng điện VNECO 3"
+    },
+    {
+      "value": "VE2",
+      "label": "VE2 - HNX - Cổ phiếu CTCP Xây dựng Điện VNECO2"
+    },
+    {
+      "value": "VE1",
+      "label": "VE1 - HNX - Cổ phiếu CTCP Xây dựng điện VNECO1"
+    },
+    {
+      "value": "VDT",
+      "label": "VDT - UPC - Cổ phiếu CTCP Lưới Thép Bình Tây"
+    },
+    {
+      "value": "VDS",
+      "label": "VDS - HOSE - Cổ phiếu CTCP chứng khoán Rồng Việt"
+    },
+    {
+      "value": "VDP",
+      "label": "VDP - HOSE - Cổ phiếu CTCP Dược phẩm Trung ương VIDIPHA"
+    },
+    {
+      "value": "VDN",
+      "label": "VDN - UPC - Cổ phiếu CTCP Vinatex Đà Nẵng"
+    },
+    {
+      "value": "VDM",
+      "label": "VDM - UPC - Co phieu Vien Nghien cuu Det May _ Cong ty co phan"
+    },
+    {
+      "value": "VDL",
+      "label": "VDL - HNX - Cổ phiếu CTCP Thực phẩm Lâm Đồng"
+    },
+    {
+      "value": "VDB",
+      "label": "VDB - UPC - Co phieu Cong ty co phan Van tai va Che bien Than Dong Bac"
+    },
+    {
+      "value": "VCX",
+      "label": "VCX - UPC - CTCP XI MĂNG YÊN BÌNH"
+    },
+    {
+      "value": "VCW",
+      "label": "VCW - UPC - Cổ phiếu Công ty cổ phần Đầu tư Nước sạch Sông Đà"
+    },
+    {
+      "value": "VCT",
+      "label": "VCT - UPC - Cổ phiếu CTCP Tư vấn Xây dựng Vinaconex"
+    },
+    {
+      "value": "VCS",
+      "label": "VCS - HNX - Cổ phiếu Công ty cổ phần Đá Thạch anh Cao cấp VCS"
+    },
+    {
+      "value": "VCR",
+      "label": "VCR - HNX - Cổ phiếu CTCP Đầu tư & Phát triển Du lịch Vinaconex"
+    },
+    {
+      "value": "VCP",
+      "label": "VCP - UPC - Cổ phiếu CTCP Đầu tư Xây dựng & Phát triển Năng lượng Vinaconex"
+    },
+    {
+      "value": "VCM",
+      "label": "VCM - HNX - Cổ phiếu CTCP Nhân Lực và Thương Mại Vinaconex"
+    },
+    {
+      "value": "VCI",
+      "label": "VCI - HOSE - Cổ phiếu Công ty cổ phần Chứng khoán Bản Việt"
+    },
+    {
+      "value": "VCG",
+      "label": "VCG - HNX - Cổ phiếu Tổng CTCP Xuất Nhập Khẩu & Xây Dựng Việt Nam"
+    },
+    {
+      "value": "VCF",
+      "label": "VCF - HOSE - Cổ phiếu CTCP Vinacafe Biên Hòa"
+    },
+    {
+      "value": "VCE",
+      "label": "VCE - UPC - Cổ phiếu Công ty cổ phần Xây lắp môi trường"
+    },
+    {
+      "value": "VCC",
+      "label": "VCC - HNX - Cổ phiếu CTCP Vinaconex 25"
+    },
+    {
+      "value": "VCB",
+      "label": "VCB - HOSE - Cổ phiếu Ngân hàng TMCP Ngoại thương Việt Nam"
+    },
+    {
+      "value": "VCA",
+      "label": "VCA - UPC - Cổ phiếu Công ty Cổ phần Thép VICASA - VNSTEEL"
+    },
+    {
+      "value": "VC9",
+      "label": "VC9 - HNX - Cổ phiếu CTCP xây dựng số 9"
+    },
+    {
+      "value": "VC7",
+      "label": "VC7 - HNX - Cổ phiếu CTCP Xây dựng số 7"
+    },
+    {
+      "value": "VC6",
+      "label": "VC6 - HNX - Cổ phiếu Công ty cổ phần Xây dựng và Đầu tư Visicons"
+    },
+    {
+      "value": "VC5",
+      "label": "VC5 - UPC - Cổ phiếu CTCP Xây dựng số 5"
+    },
+    {
+      "value": "VC3",
+      "label": "VC3 - HNX - Cổ phiếu CTCP Xây dựng số 3"
+    },
+    {
+      "value": "VC2",
+      "label": "VC2 - HNX - Cổ phiếu CTCP Xây Dựng Số 2"
+    },
+    {
+      "value": "VC1",
+      "label": "VC1 - HNX - Cổ phiếu CTCP xây dựng số 1"
+    },
+    {
+      "value": "VBH",
+      "label": "VBH - UPC - Cổ phiếu CTCP Điện tử Bình Hòa"
+    },
+    {
+      "value": "VBG",
+      "label": "VBG - UPC - Cổ phiếu Công ty cổ phần Địa chất Việt Bắc - TKV"
+    },
+    {
+      "value": "VBC",
+      "label": "VBC - HNX - Cổ phiếu CTCP Nhựa - Bao bì Vinh"
+    },
+    {
+      "value": "VBB",
+      "label": "VBB - UPC - Cổ phiếu Ngân hàng Thương mại cổ phần Việt Nam Thương Tín"
+    },
+    {
+      "value": "VAV",
+      "label": "VAV - UPC - Cổ phiếu Công ty cổ phần VIWACO"
+    },
+    {
+      "value": "VAT",
+      "label": "VAT - HNX - Cổ phiếu Công ty cổ phần VT Vạn Xuân"
+    },
+    {
+      "value": "VAF",
+      "label": "VAF - HOSE - Cổ phiếu Công ty cổ phần Phân lân nung chảy Văn Điển"
+    },
+    {
+      "value": "V21",
+      "label": "V21 - HNX - Cổ phiếu CTCP Vinaconex 21"
+    },
+    {
+      "value": "V15",
+      "label": "V15 - UPC - Cổ phiếu CTCP Xây dựng số 15"
+    },
+    {
+      "value": "V12",
+      "label": "V12 - HNX - Cổ phiếu CTCP Xây dựng số 12"
+    },
+    {
+      "value": "V11",
+      "label": "V11 - UPC - Cổ phiếu CTCP xây dựng số 11"
+    },
+    {
+      "value": "USD",
+      "label": "USD - UPC - Co phieu Cong ty co phan Cong trinh Do thi Soc Trang"
+    },
+    {
+      "value": "USC",
+      "label": "USC - UPC - Cổ phiếu Công ty cổ phần Khảo sát và Xây dựng - USCO"
+    },
+    {
+      "value": "UPH",
+      "label": "UPH - UPC - Cổ phiếu Công ty cổ phần Dược phẩm TW 25"
+    },
+    {
+      "value": "UPC",
+      "label": "UPC - UPC - Cổ phiếu CTCP Phát triển công viên cây xanh & Đô thị Vũng Tàu"
+    },
+    {
+      "value": "UNI",
+      "label": "UNI - HNX - Cổ phiếu CTCP Viễn Liên"
+    },
+    {
+      "value": "UMC",
+      "label": "UMC - UPC - Cổ phiếu Công ty cổ phần Công trình đô thị Nam Định"
+    },
+    {
+      "value": "UIC",
+      "label": "UIC - HOSE - Cổ phiếu CTCP Đầu tư phát triển Nhà & Đô thị IDICO"
+    },
+    {
+      "value": "UEM",
+      "label": "UEM - UPC - Cổ phiếu CTCP Cơ điện Uông Bí - Vinacomin"
+    },
+    {
+      "value": "UDJ",
+      "label": "UDJ - UPC - Cổ phiếu CTCP Phát triển Đô thị"
+    },
+    {
+      "value": "UDC",
+      "label": "UDC - HOSE - Cổ phiếu CTCP Xây dựng & Phát triển Đô thị tỉnh Bà Rịa - Vũng Tàu"
+    },
+    {
+      "value": "UCT",
+      "label": "UCT - UPC - Cổ phiếu Công ty cổ phần Đô thị Cần Thơ"
+    },
+    {
+      "value": "TYA",
+      "label": "TYA - HOSE - Cổ phiếu CTCP Dây & Cáp điện Taya Việt Nam"
+    },
+    {
+      "value": "TXM",
+      "label": "TXM - HNX - Cổ phiếu CTCP Vicem Thạch cao Xi măng"
+    },
+    {
+      "value": "TW3",
+      "label": "TW3 - UPC - Cổ phiếu Công ty cổ phần Dược Trung ương 3"
+    },
+    {
+      "value": "TVW",
+      "label": "TVW - UPC - Cổ phiếu Công ty cổ phần Cấp thoát nước Trà Vinh"
+    },
+    {
+      "value": "TVU",
+      "label": "TVU - UPC - Cổ phiếu Công ty cổ phần Công trình Đô thị Trà Vinh"
+    },
+    {
+      "value": "TVT",
+      "label": "TVT - HOSE - Cổ phiếu Tổng công ty Việt Thắng - CTCP"
+    },
+    {
+      "value": "TVS",
+      "label": "TVS - HOSE - Cổ phiếu Công ty cổ phần Chứng khoán Thiên Việt"
+    },
+    {
+      "value": "TVP",
+      "label": "TVP - UPC - Cổ phiếu CTCP Dược phẩm TV. Pharm"
+    },
+    {
+      "value": "TVN",
+      "label": "TVN - UPC - Cổ phiếu Tổng công ty Thép Việt Nam - CTCP"
+    },
+    {
+      "value": "TVM",
+      "label": "TVM - UPC - Cổ phiếu CTCP Tư vấn Đầu tư Mỏ và Công nghiệp - Vinacomin"
+    },
+    {
+      "value": "TVH",
+      "label": "TVH - UPC - Co phieu Cong ty co phan Tu van Xay dung cong trinh Hang hai"
+    },
+    {
+      "value": "TVG",
+      "label": "TVG - UPC - Cổ phiếu CTCP Tư vấn Đầu tư & Xây dựng Giao thông vận tải"
+    },
+    {
+      "value": "TVD",
+      "label": "TVD - HNX - Cổ phiếu CTCP Than Vàng Danh - Vinacomin"
+    },
+    {
+      "value": "TVC",
+      "label": "TVC - HNX - Cổ phiếu Công ty cổ phần Tập đoàn quản lý tài sản Trí Việt"
+    },
+    {
+      "value": "TVB",
+      "label": "TVB - HOSE - Cổ phiếu Công ty cổ phần Chứng khoán Trí Việt"
+    },
+    {
+      "value": "TVA",
+      "label": "TVA - UPC - Cổ phiếu Công ty cổ phần Sứ Viglacera Thanh Trì"
+    },
+    {
+      "value": "TV4",
+      "label": "TV4 - HNX - Cổ phiếu CTCP Tư vấn Xây dựng Điện 4"
+    },
+    {
+      "value": "TV3",
+      "label": "TV3 - HNX - Cổ phiếu CTCP Tư vấn Xây dựng Điện 3"
+    },
+    {
+      "value": "TV2",
+      "label": "TV2 - HOSE - Cổ phiếu CTCP Tư vấn Xây dựng Điện 2"
+    },
+    {
+      "value": "TV1",
+      "label": "TV1 - UPC - Cổ phiếu CTCP Tư vấn Xây dựng điện 1"
+    },
+    {
+      "value": "TUG",
+      "label": "TUG - UPC - Cổ phiếu Công ty cổ phần Lai dắt và vận tải Cảng Hải Phòng"
+    },
+    {
+      "value": "TTZ",
+      "label": "TTZ - HNX - Cổ phiếu CTCP Đầu tư Xây dựng và Công nghệ Tiến Trung"
+    },
+    {
+      "value": "TTV",
+      "label": "TTV - UPC - Cổ phiếu Công ty cổ phần Thông tin Tín hiệu Đường sắt Vinh"
+    },
+    {
+      "value": "TTT",
+      "label": "TTT - HNX - CTCP Du lịch Thương mại Tây Ninh"
+    },
+    {
+      "value": "TTS",
+      "label": "TTS - UPC - Cổ phiếu Công ty cổ phần Cán thép Thái Trung"
+    },
+    {
+      "value": "TTR",
+      "label": "TTR - UPC - Cổ phiếu CTCP Du lịch Thương mại & Đầu tư"
+    },
+    {
+      "value": "TTP",
+      "label": "TTP - UPC - Cổ phiếu CTCP Bao bì Nhựa Tân Tiến"
+    },
+    {
+      "value": "TTN",
+      "label": "TTN - UPC - Cổ phiếu Công ty cổ phần Công nghệ và Truyền thông Việt Nam"
+    },
+    {
+      "value": "TTL",
+      "label": "TTL - HNX - Cổ phiếu Tổng Công ty Thăng Long - CTCP"
+    },
+    {
+      "value": "TTJ",
+      "label": "TTJ - UPC - Cổ phiếu Công ty cổ phần Thủy Tạ"
+    },
+    {
+      "value": "TTH",
+      "label": "TTH - HNX - Cổ phiếu Công ty cổ phần Thương mại và Dịch vụ Tiến Thành"
+    },
+    {
+      "value": "TTG",
+      "label": "TTG - UPC - Cổ phiếu CTCP May Thanh Trì"
+    },
+    {
+      "value": "TTF",
+      "label": "TTF - HOSE - Cổ phiếu CTCP Tập đoàn Kỹ nghệ gỗ Trường Thành"
+    },
+    {
+      "value": "TTE",
+      "label": "TTE - HOSE - Co phieu Cong ty co phan Dau tu Nang luong Truong Thinh"
+    },
+    {
+      "value": "TTD",
+      "label": "TTD - UPC - Cổ phiếu Công ty cổ phần Bệnh viện tim Tâm Đức"
+    },
+    {
+      "value": "TTC",
+      "label": "TTC - HNX - Cổ phiếu CTCP Gạch men Thanh Thanh"
+    },
+    {
+      "value": "TTB",
+      "label": "TTB - HOSE - Cổ phiếu Công ty cổ phần Tập đoàn Tiến Bộ"
+    },
+    {
+      "value": "TST",
+      "label": "TST - HNX - Cổ phiếu CTCP Dịch vụ Kỹ thuật Viễn thông"
+    },
+    {
+      "value": "TSJ",
+      "label": "TSJ - UPC - Cổ phiếu Công ty cổ phần Du lịch Dịch vụ Hà Nội"
+    },
+    {
+      "value": "TSG",
+      "label": "TSG - UPC - Cổ phiếu Công ty cổ phần Thông tin tín hiệu đường sắt Sài Gòn"
+    },
+    {
+      "value": "TSD",
+      "label": "TSD - UPC - Cổ phiếu Công ty cổ phần Du lịch Trường Sơn COECCO"
+    },
+    {
+      "value": "TSC",
+      "label": "TSC - HOSE - Cổ phiếu CTCP Vật tư kỹ thuật nông nghiệp Cần Thơ"
+    },
+    {
+      "value": "TSB",
+      "label": "TSB - HNX - Cổ phiếu CTCP Ắc quy Tia Sáng"
+    },
+    {
+      "value": "TS5",
+      "label": "TS5 - UPC - Co phieu Cong ty co phan Truong Son 145"
+    },
+    {
+      "value": "TS4",
+      "label": "TS4 - HOSE - Cổ phiếu CTCP Thủy sản số 4"
+    },
+    {
+      "value": "TS3",
+      "label": "TS3 - UPC - Co phieu Cong ty co phan Truong Son 532"
+    },
+    {
+      "value": "TRT",
+      "label": "TRT - UPC - Cổ phiếu Công ty cổ phần Trúc Thôn"
+    },
+    {
+      "value": "TRS",
+      "label": "TRS - UPC - Cổ phiếu Công ty cổ phần Vận tải và Dịch vụ Hàng hải"
+    },
+    {
+      "value": "TRC",
+      "label": "TRC - HOSE - Cổ phiếu CTCP Cao su Tây Ninh"
+    },
+    {
+      "value": "TRA",
+      "label": "TRA - HOSE - Cổ phiếu CTCP Traphaco"
+    },
+    {
+      "value": "TQW",
+      "label": "TQW - UPC - Co phieu Cong ty co phan Cap thoat nuoc Tuyen Quang"
+    },
+    {
+      "value": "TQN",
+      "label": "TQN - UPC - Cổ phiếu Công ty cổ phần Thông Quảng Ninh"
+    },
+    {
+      "value": "TPS",
+      "label": "TPS - UPC - Cổ phiếu Công ty cổ phần Bến bãi Vận tải Sài Gòn"
+    },
+    {
+      "value": "TPP",
+      "label": "TPP - HNX - Cổ phiếu CTCP Nhựa Tân Phú"
+    },
+    {
+      "value": "TPH",
+      "label": "TPH - HNX - Cổ phiếu CTCP In Sách Giáo Khoa tại TP Hà Nội"
+    },
+    {
+      "value": "TPC",
+      "label": "TPC - HOSE - Cổ phiếu CTCP Nhựa Tân Đại Hưng"
+    },
+    {
+      "value": "TPB",
+      "label": "TPB - HOSE - NGAN HANG TMCP TIEN PHONG"
+    },
+    {
+      "value": "TOW",
+      "label": "TOW - UPC - Co phieu Cong ty co phan Cap nuoc Tra Noc - O Mon"
+    },
+    {
+      "value": "TOT",
+      "label": "TOT - UPC - Cổ phiếu Công ty cổ phần Vận tải Transimex"
+    },
+    {
+      "value": "TOP",
+      "label": "TOP - UPC - Cổ phiếu Công ty cổ phần Phân phối Top One"
+    },
+    {
+      "value": "TNW",
+      "label": "TNW - UPC - Cổ phiếu Công ty cổ phần Nước sạch Thái Nguyên"
+    },
+    {
+      "value": "TNT",
+      "label": "TNT - HOSE - Cổ phiếu CTCP Tài Nguyên"
+    },
+    {
+      "value": "TNS",
+      "label": "TNS - UPC - Cổ phiếu Công ty cổ phần Thép tấm lá Thống Nhất"
+    },
+    {
+      "value": "TNP",
+      "label": "TNP - UPC - Cổ phiếu Công ty cổ phần Cảng Thị Nại"
+    },
+    {
+      "value": "TNM",
+      "label": "TNM - UPC - Cổ phiếu CTCP Xuất nhập khẩu & Xây dựng Công trình"
+    },
+    {
+      "value": "TNI",
+      "label": "TNI - HOSE - Cổ phiếu Công ty cổ phần Tập đoàn Thành Nam"
+    },
+    {
+      "value": "TNG",
+      "label": "TNG - HNX - Cổ phiếu CTCP Đầu tư & Thương mại TNG"
+    },
+    {
+      "value": "TND",
+      "label": "TND - UPC - Cổ phiếu Công ty cổ phần Than Tây Nam Đá Mài-Vinacomin"
+    },
+    {
+      "value": "TNC",
+      "label": "TNC - HOSE - Cổ phiếu CTCP Cao su Thống Nhất"
+    },
+    {
+      "value": "TNB",
+      "label": "TNB - UPC - Cổ phiếu CTCP Thép Nhà Bè -VNSTEEL"
+    },
+    {
+      "value": "TNA",
+      "label": "TNA - HOSE - Cổ phiếu CTCP Thương Mại Xuất Nhập Khẩu Thiên Nam"
+    },
+    {
+      "value": "TN1",
+      "label": "TN1 - HOSE - Co phieu Cong ty co phan Thuong mai Dich vu TNS Holdings"
+    },
+    {
+      "value": "TMX",
+      "label": "TMX - HNX - Cổ phiếu CTCP Thương mại Xi măng"
+    },
+    {
+      "value": "TMW",
+      "label": "TMW - UPC - Cổ phiếu CTCP Tổng hợp Gỗ Tân Mai"
+    },
+    {
+      "value": "TMT",
+      "label": "TMT - HOSE - Cổ phiếu CTCP Ô tô TMT"
+    },
+    {
+      "value": "TMS",
+      "label": "TMS - HOSE - Cổ phiếu Công ty cổ phần TRANSIMEX"
+    },
+    {
+      "value": "TMP",
+      "label": "TMP - HOSE - Cổ phiếu CTCP Thủy điện Thác Mơ"
+    },
+    {
+      "value": "TMG",
+      "label": "TMG - UPC - Cổ phiếu Công ty cổ phần Kim loại màu Thái Nguyên - Vimico"
+    },
+    {
+      "value": "TMC",
+      "label": "TMC - HNX - Cổ phiếu CTCP  Thương mại Xuất nhập khẩu Thủ Đức"
+    },
+    {
+      "value": "TMB",
+      "label": "TMB - HNX - Cổ phiếu Công ty cổ phần Kinh doanh Than Miền Bắc - Vinacomin"
+    },
+    {
+      "value": "TLT",
+      "label": "TLT - UPC - Cổ phiếu CTCP Gạch men Viglacera Thăng Long"
+    },
+    {
+      "value": "TLP",
+      "label": "TLP - UPC - Cổ phiếu Tổng công ty Thương mại Xuất nhập khẩu Thanh Lễ - CTCP"
+    },
+    {
+      "value": "TLI",
+      "label": "TLI - UPC - TLI - Cong ty co phan May Quoc Te Thang Loi"
+    },
+    {
+      "value": "TLH",
+      "label": "TLH - HOSE - Cổ phiếu CTCP Tập đoàn Thép Tiến Lên"
+    },
+    {
+      "value": "TLG",
+      "label": "TLG - HOSE - Cổ phiếu CTCP Tập đoàn Thiên Long"
+    },
+    {
+      "value": "TLD",
+      "label": "TLD - HOSE - Cổ phiếu Công ty cổ phần Đầu tư Xây dựng và Phát triển Đô thị Thăng Long"
+    },
+    {
+      "value": "TL4",
+      "label": "TL4 - UPC - Cổ phiếu Tổng công ty Xây dựng Thủy Lợi 4 - Công ty cổ phần"
+    },
+    {
+      "value": "TKU",
+      "label": "TKU - HNX - Cổ phiếu CTCP Công nghiệp Tung Kuang"
+    },
+    {
+      "value": "TKC",
+      "label": "TKC - HNX - Cổ phiếu CTCP Xây dựng & Kinh doanh Địa ốc Tân Kỷ"
+    },
+    {
+      "value": "TJC",
+      "label": "TJC - HNX - Cổ phiếu CTCP Dịch vụ Vận tải & Thương mại"
+    },
+    {
+      "value": "TIX",
+      "label": "TIX - HOSE - Cổ phiếu CTCP Sản xuất Kinh doanh XNK Dịch vụ & Đầu tư Tân Bình"
+    },
+    {
+      "value": "TIS",
+      "label": "TIS - UPC - Cổ phiếu CTCP Gang thép Thái Nguyên"
+    },
+    {
+      "value": "TIP",
+      "label": "TIP - HOSE - Cổ phiếu CTCP Phát triển Khu Công nghiệp Tín Nghĩa"
+    },
+    {
+      "value": "TIG",
+      "label": "TIG - HNX - Cổ phiếu CTCP Tập đoàn Đầu tư Thăng Long"
+    },
+    {
+      "value": "TIE",
+      "label": "TIE - UPC - Cổ phiếu CTCP TIE"
+    },
+    {
+      "value": "TID",
+      "label": "TID - UPC - Cổ phiếu Công ty cổ phần Tổng công ty Tín Nghĩa"
+    },
+    {
+      "value": "THW",
+      "label": "THW - UPC - Cổ phiếu Công ty cổ phần Cấp nước Tân Hòa"
+    },
+    {
+      "value": "THU",
+      "label": "THU - UPC - Cổ phiếu Công ty cổ phần Môi trường và Công trình đô thị Thanh Hóa"
+    },
+    {
+      "value": "THT",
+      "label": "THT - HNX - Cổ phiếu CTCP Than Hà Tu - Vinacomin"
+    },
+    {
+      "value": "THS",
+      "label": "THS - HNX - Cổ phiếu CTCP Thanh Hoa - Sông Đà"
+    },
+    {
+      "value": "THR",
+      "label": "THR - UPC - Cổ phiếu Công ty cổ phần Đường sắt Thuận Hải"
+    },
+    {
+      "value": "THN",
+      "label": "THN - UPC - Cổ phiếu Công ty cổ phần Cấp nước Thanh Hóa"
+    },
+    {
+      "value": "THI",
+      "label": "THI - HOSE - Cổ phiếu Công ty cổ phần Thiết bị điện"
+    },
+    {
+      "value": "THG",
+      "label": "THG - HOSE - Cổ phiếu CTCP Đầu tư và Xây dựng Tiền Giang"
+    },
+    {
+      "value": "THB",
+      "label": "THB - HNX - Cổ phiếu CTCP Bia Thanh Hoá"
+    },
+    {
+      "value": "TH1",
+      "label": "TH1 - UPC - Cổ phiếu CTCP Xuất nhập khẩu Tổng hợp 1 Việt Nam"
+    },
+    {
+      "value": "TGP",
+      "label": "TGP - UPC - Cổ phiếu CTCP Trường Phú"
+    },
+    {
+      "value": "TGG",
+      "label": "TGG - HOSE - CTCP XD&DT TRUONG GIANG"
+    },
+    {
+      "value": "TFC",
+      "label": "TFC - HNX - Cổ phiếu Công ty cổ phần Trang"
+    },
+    {
+      "value": "TET",
+      "label": "TET - HNX - Cổ phiếu CTCP Vải sợi may mặc Miền Bắc"
+    },
+    {
+      "value": "TEL",
+      "label": "TEL - UPC - Cổ phiếu Công ty cổ phần Phát triển công trình Viễn thông"
+    },
+    {
+      "value": "TEG",
+      "label": "TEG - HOSE - Cổ phiếu Công ty cổ phần Bất động sản và Xây dựng Trường Thành"
+    },
+    {
+      "value": "TEC",
+      "label": "TEC - UPC - Cổ phiếu Ngân hàng TMCP Techcombank"
+    },
+    {
+      "value": "TDW",
+      "label": "TDW - HOSE - Cổ phiếu CTCP Cấp nước Thủ Đức"
+    },
+    {
+      "value": "TDT",
+      "label": "TDT - HNX - Cổ phiếu Công ty cổ phần Đầu tư và Phát triển TDT"
+    },
+    {
+      "value": "TDS",
+      "label": "TDS - UPC - Cổ phiếu Công ty Cổ phần Thép Thủ Đức - VNSTEEL"
+    },
+    {
+      "value": "TDP",
+      "label": "TDP - UPC - Co phieu Cong ty co phan Thuan Duc"
+    },
+    {
+      "value": "TDN",
+      "label": "TDN - HNX - Cổ phiếu CTCP Than Đèo Nai - Vinacomin"
+    },
+    {
+      "value": "TDM",
+      "label": "TDM - HOSE - Cổ phiếu Công ty cổ phần Nước Thủ Dầu Một"
+    },
+    {
+      "value": "TDH",
+      "label": "TDH - HOSE - Cổ phiếu CTCP Phát triển nhà Thủ Đức"
+    },
+    {
+      "value": "TDG",
+      "label": "TDG - HOSE - Cổ phiếu Công ty cổ phần Dầu khí Thái Dương"
+    },
+    {
+      "value": "TDC",
+      "label": "TDC - HOSE - Cổ phiếu CTCP Kinh doanh & Phát triển Bình Dương"
+    },
+    {
+      "value": "TDB",
+      "label": "TDB - UPC - Cổ phiếu Công ty cổ phần Thủy điện Định Bình"
+    },
+    {
+      "value": "TCW",
+      "label": "TCW - UPC - Cổ phiếu Công ty cổ phần Kho vận Tân Cảng"
+    },
+    {
+      "value": "TCT",
+      "label": "TCT - HOSE - Cổ phiếu CTCP Cáp treo Núi Bà Tây Ninh"
+    },
+    {
+      "value": "TCS",
+      "label": "TCS - HNX - Cổ phiếu CTCP Than Cao Sơn - TKV"
+    },
+    {
+      "value": "TCR",
+      "label": "TCR - HOSE - Cổ phiếu CTCP Công Nghiệp Gốm sứ Taicera"
+    },
+    {
+      "value": "TCO",
+      "label": "TCO - HOSE - Cổ phiếu CTCP Vận tải đa phương thức Duyên Hải"
+    },
+    {
+      "value": "TCM",
+      "label": "TCM - HOSE - Cổ phiếu CTCP Dệt may - Đầu tư - Thương mại Thành Công"
+    },
+    {
+      "value": "TCL",
+      "label": "TCL - HOSE - Cổ phiếu CTCP Đại lý Giao nhận Vận tải Xếp dỡ Tân Cảng"
+    },
+    {
+      "value": "TCK",
+      "label": "TCK - UPC - Cổ phiếu Tổng công ty cơ khí xây dựng - CTCP"
+    },
+    {
+      "value": "TCJ",
+      "label": "TCJ - UPC - Cổ phiếu Công ty cổ phần Tô Châu"
+    },
+    {
+      "value": "TCI",
+      "label": "TCI - UPC - Co phieu Cong ty co phan Chung khoan Thanh Cong"
+    },
+    {
+      "value": "TCH",
+      "label": "TCH - HOSE - Cổ phiếu Công ty cổ phần Đầu tư Dịch vụ Tài chính Hoàng Huy"
+    },
+    {
+      "value": "TCD",
+      "label": "TCD - HOSE - Cổ phiếu Công ty cổ phần Đầu tư Phát triển Công nghiệp và Vận tải"
+    },
+    {
+      "value": "TCB",
+      "label": "TCB - HOSE - Cổ phiếu Ngân hàng Thương mại cổ phần Kỹ thương Việt Nam"
+    },
+    {
+      "value": "TC6",
+      "label": "TC6 - HNX - Cổ phiếu CTCP Than Cọc Sáu - Vinacomin"
+    },
+    {
+      "value": "TBX",
+      "label": "TBX - HNX - Cổ phiếu CTCP  Xi măng Thái Bình"
+    },
+    {
+      "value": "TBT",
+      "label": "TBT - UPC - Cổ phiếu CTCP Xây dựng Công trình Giao thông Bến Tre"
+    },
+    {
+      "value": "TBN",
+      "label": "TBN - UPC - Cổ phiếu Công ty cổ phần Thoát nước và Xử lý nước thải Bắc Ninh"
+    },
+    {
+      "value": "TBD",
+      "label": "TBD - UPC - Cổ phiếu Tổng Công ty Thiết bị điện Đông Anh – Công ty cổ phần"
+    },
+    {
+      "value": "TBC",
+      "label": "TBC - HOSE - Cổ phiếu CTCP Thủy điện Thác Bà"
+    },
+    {
+      "value": "TB8",
+      "label": "TB8 - UPC - Cổ phiếu Công ty cổ phần Sản xuất và kinh doanh Vật tư Thiết bị - VVMI"
+    },
+    {
+      "value": "TAW",
+      "label": "TAW - UPC - Cổ phiếu Công ty cổ phần Cấp nước Trung An"
+    },
+    {
+      "value": "TAR",
+      "label": "TAR - HNX - Co phieu Cong ty co phan Nong nghiep Cong nghe cao Trung An"
+    },
+    {
+      "value": "TAP",
+      "label": "TAP - UPC - Cổ phiếu Công ty cổ phần Đô thị Tân An"
+    },
+    {
+      "value": "TAN",
+      "label": "TAN - UPC - Cổ phiếu công ty cổ phần Cà Phê Thuận An"
+    },
+    {
+      "value": "TAG",
+      "label": "TAG - UPC - Cổ phiếu CTCP Thế giới số Trần Anh"
+    },
+    {
+      "value": "TAC",
+      "label": "TAC - HOSE - Cổ phiếu CTCP Dầu thực vật Tường An"
+    },
+    {
+      "value": "TA9",
+      "label": "TA9 - HNX - Cổ phiếu Công ty Cổ phần Xây lắp Thành An 96"
+    },
+    {
+      "value": "TA6",
+      "label": "TA6 - UPC - Cổ phiếu Công ty cổ phần Đầu tư và Xây lắp Thành An 665"
+    },
+    {
+      "value": "TA3",
+      "label": "TA3 - UPC - Co phieu Cong ty co phan Dau tu va Xay lap Thanh An 386"
+    },
+    {
+      "value": "T12",
+      "label": "T12 - UPC - Cổ phiếu Công ty cổ phần Thương mại dịch vụ Tràng Thi"
+    },
+    {
+      "value": "SZL",
+      "label": "SZL - HOSE - Cổ phiếu CTCP SONADEZI Long Thành"
+    },
+    {
+      "value": "SZE",
+      "label": "SZE - UPC - Cổ phiếu Công ty cổ phần Môi trường Sonadezi"
+    },
+    {
+      "value": "SZC",
+      "label": "SZC - HOSE - Cổ phiếu Công ty cổ phần Sonadezi Châu Đức"
+    },
+    {
+      "value": "SWC",
+      "label": "SWC - UPC - Cổ phiếu Tổng CTCP Đường Sông Miền Nam"
+    },
+    {
+      "value": "SVT",
+      "label": "SVT - HOSE - Cổ phiếu CTCP Công nghệ Sài Gòn Viễn Đông"
+    },
+    {
+      "value": "SVN",
+      "label": "SVN - HNX - Cổ phiếu CTCP SOLAVINA"
+    },
+    {
+      "value": "SVL",
+      "label": "SVL - UPC - Cổ phiếu Công ty cổ phần Nhân lực Quốc tế Sovilaco"
+    },
+    {
+      "value": "SVI",
+      "label": "SVI - HOSE - Cổ phiếu CTCP bao bì Biên Hòa"
+    },
+    {
+      "value": "SVH",
+      "label": "SVH - UPC - Cổ phiếu Công ty cổ phần Thủy điện Sông Vàng"
+    },
+    {
+      "value": "SVG",
+      "label": "SVG - UPC - Cổ phiếu Công ty cổ phần Hơi Kỹ nghệ Que Hàn"
+    },
+    {
+      "value": "SVC",
+      "label": "SVC - HOSE - Cổ phiếu CTCP Dịch vụ Tổng hợp Sài Gòn"
+    },
+    {
+      "value": "SUM",
+      "label": "SUM - UPC - Cổ phiếu Công ty cổ phần Đo đạc và Khoáng sản"
+    },
+    {
+      "value": "STW",
+      "label": "STW - UPC - Co phieu Cong ty co phan Cap nuoc Soc Trang"
+    },
+    {
+      "value": "STV",
+      "label": "STV - UPC - Cổ phiếu CTCP Chế tác đá Việt Nam"
+    },
+    {
+      "value": "STU",
+      "label": "STU - UPC - Cổ phiếu CTCP Môi trường & Công trình đô thị Sơn Tây"
+    },
+    {
+      "value": "STT",
+      "label": "STT - UPC - Cổ phiếu CTCP vận chuyển Sài Gòn Tourist"
+    },
+    {
+      "value": "STS",
+      "label": "STS - UPC - Cổ phiếu CTCP Dịch vụ Vận tải Sài Gòn"
+    },
+    {
+      "value": "STP",
+      "label": "STP - HNX - Cổ phiếu CTCP Công nghiệp Thương mại Sông Đà"
+    },
+    {
+      "value": "STL",
+      "label": "STL - UPC - Cổ phiếu CTCP Sông Đà- Thăng Long"
+    },
+    {
+      "value": "STK",
+      "label": "STK - HOSE - Cổ phiếu Công ty cổ phần Sợi Thế Kỷ"
+    },
+    {
+      "value": "STG",
+      "label": "STG - HOSE - Cổ phiếu CTCP Kho vận Miền Nam"
+    },
+    {
+      "value": "STC",
+      "label": "STC - HNX - Cổ phiếu CTCP Sách & Thiết bị trường học TP Hồ Chí Minh"
+    },
+    {
+      "value": "STB",
+      "label": "STB - HOSE - Cổ phiếu Ngân hàng TMCP Sài Gòn Thương Tín"
+    },
+    {
+      "value": "ST8",
+      "label": "ST8 - HOSE - Cổ phiếu CTCP Siêu Thanh"
+    },
+    {
+      "value": "SSU",
+      "label": "SSU - UPC - Cổ phiếu Công ty cổ phần Môi trường Đô thị Sóc Sơn"
+    },
+    {
+      "value": "SSN",
+      "label": "SSN - UPC - Cổ phiếu CTCP Xuất nhập khẩu Thủy sản Sài Gòn"
+    },
+    {
+      "value": "SSM",
+      "label": "SSM - HNX - Cổ phiếu CTCP Chế tạo kết cấu thép VNECO.SSM"
+    },
+    {
+      "value": "SSI",
+      "label": "SSI - HOSE - Cổ phiếu CTCP Chứng khoán Sài Gòn"
+    },
+    {
+      "value": "SSG",
+      "label": "SSG - UPC - Cổ phiếu CTCP Vận tải biển Hải Âu"
+    },
+    {
+      "value": "SSF",
+      "label": "SSF - UPC - Cổ phiếu CTCP Giày Sài Gòn"
+    },
+    {
+      "value": "SSC",
+      "label": "SSC - HOSE - Cổ phiếu CTCP Giống cây trồng Miền Nam"
+    },
+    {
+      "value": "SRT",
+      "label": "SRT - UPC - Cổ phiếu Công ty cổ phần Vận tải Đường sắt Sài Gòn"
+    },
+    {
+      "value": "SRF",
+      "label": "SRF - HOSE - Cổ phiếu CTCP Kỹ nghệ Lạnh"
+    },
+    {
+      "value": "SRC",
+      "label": "SRC - HOSE - Cổ phiếu CTCP Cao su Sao Vàng"
+    },
+    {
+      "value": "SRB",
+      "label": "SRB - UPC - Cổ phiếu CTCP Tập đoàn SARA"
+    },
+    {
+      "value": "SRA",
+      "label": "SRA - HNX - Cổ phiếu CTCP Sara Việt Nam"
+    },
+    {
+      "value": "SQC",
+      "label": "SQC - UPC - Cổ phiếu CTCP Khoáng sản Sài Gòn - Quy Nhơn"
+    },
+    {
+      "value": "SPV",
+      "label": "SPV - UPC - Cổ phiếu Công ty cổ phần Thủy Đặc Sản"
+    },
+    {
+      "value": "SPP",
+      "label": "SPP - HNX - Cổ phiếu CTCP Bao bì Nhựa Sài Gòn"
+    },
+    {
+      "value": "SPM",
+      "label": "SPM - HOSE - Cổ phiếu CTCP S.P.M"
+    },
+    {
+      "value": "SPI",
+      "label": "SPI - HNX - Cổ phiếu Công ty cổ phần SPI"
+    },
+    {
+      "value": "SPH",
+      "label": "SPH - UPC - Cổ phiếu Công ty cổ phần Xuất nhập khẩu Thủy sản Hà Nội"
+    },
+    {
+      "value": "SPD",
+      "label": "SPD - UPC - Cổ phiếu CTCP Xuất nhập khẩu Thủy sản Miền Trung"
+    },
+    {
+      "value": "SPC",
+      "label": "SPC - UPC - Cổ phiếu CTCP Bảo vệ thực vật Sài Gòn"
+    },
+    {
+      "value": "SPB",
+      "label": "SPB - UPC - Cổ phiếu Công ty cổ phần Sợi Phú Bài"
+    },
+    {
+      "value": "SPA",
+      "label": "SPA - UPC - Cổ phiếu Công ty cổ phần Bao bì Sài Gòn"
+    },
+    {
+      "value": "SP2",
+      "label": "SP2 - UPC - Cổ phiếu Công ty cổ phần Thủy điện Sử Pán 2"
+    },
+    {
+      "value": "SOV",
+      "label": "SOV - UPC - Co phieu  Cong ty co phan Mat kinh Sai Gon"
+    },
+    {
+      "value": "SON",
+      "label": "SON - UPC - Cổ phiếu Công ty cổ phần Cung ứng Nhân lực Quốc tế và Thương mại"
+    },
+    {
+      "value": "SNZ",
+      "label": "SNZ - UPC - Cổ phiếu Tổng Công ty cổ phần Phát triển khu công nghiệp"
+    },
+    {
+      "value": "SNC",
+      "label": "SNC - UPC - Cổ phiếu CTCP Xuất nhập khẩu Thủy sản Năm Căn"
+    },
+    {
+      "value": "SMT",
+      "label": "SMT - HNX - Cổ phiếu Công ty Cổ phần Sametel"
+    },
+    {
+      "value": "SMN",
+      "label": "SMN - HNX - Cổ phiếu Công ty cổ phần Sách và Thiết bị Giáo dục Miền Nam"
+    },
+    {
+      "value": "SMC",
+      "label": "SMC - HOSE - Cổ phiếu CTCP Đầu tư Thương mại SMC"
+    },
+    {
+      "value": "SMB",
+      "label": "SMB - HOSE - Cổ phiếu CTCP Bia Sài Gòn - Miền Trung"
+    },
+    {
+      "value": "SMA",
+      "label": "SMA - HOSE - Cổ phiếu CTCP Thiết bị Phụ tùng Sài Gòn"
+    },
+    {
+      "value": "SLS",
+      "label": "SLS - HNX - Cổ phiếu CTCP Mía đường Sơn La"
+    },
+    {
+      "value": "SLC",
+      "label": "SLC - UPC - Cổ phiếu Công ty cổ phần Dịch vụ xuất khẩu lao động và chuyên gia"
+    },
+    {
+      "value": "SKV",
+      "label": "SKV - UPC - Cổ phiếu Công ty cổ phần Nước giải khát Yến sào Khánh Hòa"
+    },
+    {
+      "value": "SKN",
+      "label": "SKN - UPC - Co phieu Cong ty co phan Nuoc giai khat Sanna Khanh Hoa"
+    },
+    {
+      "value": "SKH",
+      "label": "SKH - UPC - Cổ phiếu CTCP Nước giải khát Sanest Khánh Hòa"
+    },
+    {
+      "value": "SKG",
+      "label": "SKG - HOSE - CTCP TCT SUPERDONG-KG"
+    },
+    {
+      "value": "SJS",
+      "label": "SJS - HOSE - Cổ phiếu CTCP Đầu tư Phát triển Đô thị & Khu công nghiệp Sông Đà"
+    },
+    {
+      "value": "SJM",
+      "label": "SJM - UPC - Cổ phiếu CTCP Sông Đà 19"
+    },
+    {
+      "value": "SJG",
+      "label": "SJG - UPC - Co phieu Tong cong ty Song Da - CTCP"
+    },
+    {
+      "value": "SJF",
+      "label": "SJF - HOSE - Cổ phiếu Công ty cổ phần Đầu tư Sao Thái DươngSJF"
+    },
+    {
+      "value": "SJE",
+      "label": "SJE - HNX - Cổ phiếu CTCP Sông Đà 11"
+    },
+    {
+      "value": "SJD",
+      "label": "SJD - HOSE - Cổ phiếu CTCP Thủy Điện Cần Đơn"
+    },
+    {
+      "value": "SJC",
+      "label": "SJC - HNX - Cổ phiếu CTCP Sông Đà 1.01"
+    },
+    {
+      "value": "SJ1",
+      "label": "SJ1 - HNX - Cổ phiếu Công ty cổ phần Nông Nghiệp Hùng Hậu"
+    },
+    {
+      "value": "SIV",
+      "label": "SIV - UPC - Cổ phiếu Công ty cổ phần SIVICO"
+    },
+    {
+      "value": "SIP",
+      "label": "SIP - UPC - Co phieu Cong ty co phan Dau tu Sai Gon VRG"
+    },
+    {
+      "value": "SII",
+      "label": "SII - HOSE - Cổ phiếu CTCP Hạ tầng Nước Sài Gòn"
+    },
+    {
+      "value": "SID",
+      "label": "SID - UPC - Cổ phiếu Công ty Cổ phần Đầu tư Phát Triển Sài Gòn Co.op"
+    },
+    {
+      "value": "SIC",
+      "label": "SIC - HNX - Cổ phiếu Công ty cổ phần ANI"
+    },
+    {
+      "value": "SHX",
+      "label": "SHX - UPC - Cổ phiếu Công ty cổ phần Sài Gòn Hỏa xa"
+    },
+    {
+      "value": "SHS",
+      "label": "SHS - HNX - Cổ phiếu CTCP chứng khoán Sài Gòn - Hà Nội"
+    },
+    {
+      "value": "SHP",
+      "label": "SHP - HOSE - Cổ phiếu CTCP Thủy điện Miền Nam"
+    },
+    {
+      "value": "SHN",
+      "label": "SHN - HNX - Cổ phiếu CTCP Đầu tư Tổng hợp Hà Nội"
+    },
+    {
+      "value": "SHI",
+      "label": "SHI - HOSE - Cổ phiếu CTCP Quốc tế Sơn Hà"
+    },
+    {
+      "value": "SHG",
+      "label": "SHG - UPC - Cổ phiếu Tổng công ty cổ phần Sông Hồng"
+    },
+    {
+      "value": "SHE",
+      "label": "SHE - HNX - Cổ phiếu Công ty cổ phần Phát triển năng lượng Sơn Hà"
+    },
+    {
+      "value": "SHC",
+      "label": "SHC - UPC - Cổ phiếu CTCP Hàng hải Sài Gòn"
+    },
+    {
+      "value": "SHB",
+      "label": "SHB - HNX - Cổ phiếu Ngân hàng TMCP Sài Gòn- Hà Nội"
+    },
+    {
+      "value": "SHA",
+      "label": "SHA - HOSE - Cổ phiếu CTCP Sơn Hà Sài Gòn"
+    },
+    {
+      "value": "SGT",
+      "label": "SGT - HOSE - Cổ phiếu CTCP  Công nghệ Viễn thông Sài Gòn"
+    },
+    {
+      "value": "SGS",
+      "label": "SGS - UPC - Cổ phiếu CTCP Vận tải biển Sài Gòn"
+    },
+    {
+      "value": "SGR",
+      "label": "SGR - HOSE - Công ty cổ phần Địa ốc Sài Gòn"
+    },
+    {
+      "value": "SGP",
+      "label": "SGP - UPC - Cổ phiếu Công ty cổ phần Cảng Sài Gòn"
+    },
+    {
+      "value": "SGO",
+      "label": "SGO - HNX - Cổ phiếu Công ty Cổ phần Dầu thực vật Sài Gòn"
+    },
+    {
+      "value": "SGN",
+      "label": "SGN - HOSE - Cổ phiếu Công ty cổ phần Phục vụ mặt đất Sài Gòn"
+    },
+    {
+      "value": "SGH",
+      "label": "SGH - HNX - Cổ phiếu CTCP Khách sạn Sài Gòn"
+    },
+    {
+      "value": "SGD",
+      "label": "SGD - HNX - Cổ phiếu CTCP Sách Giáo dục tại Tp. Hồ Chí Minh"
+    },
+    {
+      "value": "SGC",
+      "label": "SGC - HNX - Cổ phiếu CTCP Xuất nhập khẩu Sa Giang"
+    },
+    {
+      "value": "SFN",
+      "label": "SFN - HNX - Cổ phiếu CTCP Dệt lưới Sài Gòn"
+    },
+    {
+      "value": "SFI",
+      "label": "SFI - HOSE - Cổ phiếu CTCP Đại Lý Vận Tải SAFI"
+    },
+    {
+      "value": "SFG",
+      "label": "SFG - HOSE - Cổ phiếu Công ty cổ phần Phân bón Miền Nam"
+    },
+    {
+      "value": "SFC",
+      "label": "SFC - HOSE - Cổ phiếu CTCP Nhiên Liệu Sài Gòn"
+    },
+    {
+      "value": "SEP",
+      "label": "SEP - UPC - Cổ phiếu Công ty cổ phần Tổng Công ty Thương mại Quảng Trị"
+    },
+    {
+      "value": "SED",
+      "label": "SED - HNX - Cổ phiếu CTCP Đầu tư & Phát triển Phương Nam"
+    },
+    {
+      "value": "SEB",
+      "label": "SEB - HNX - Cổ phiếu CTCP Đầu tư & Phát triển điện Miền Trung"
+    },
+    {
+      "value": "SEA",
+      "label": "SEA - UPC - Cổ phiếu Tổng Công ty Thủy sản Việt Nam – Công ty cổ phần"
+    },
+    {
+      "value": "SDY",
+      "label": "SDY - UPC - Cổ phiếu CTCP Xi măng Sông Đà Yaly"
+    },
+    {
+      "value": "SDX",
+      "label": "SDX - UPC - Cổ phiếu Công ty cổ phần Phòng cháy Chữa cháy và Đầu tư Xây dựng Sông Đà"
+    },
+    {
+      "value": "SDV",
+      "label": "SDV - UPC - Cổ phiếu CTCP Dịch vụ Sonadezi"
+    },
+    {
+      "value": "SDU",
+      "label": "SDU - HNX - Cổ phiếu CTCP Đầu tư xây dựng & Phát triển đô thị Sông Đà"
+    },
+    {
+      "value": "SDT",
+      "label": "SDT - HNX - Cổ phiếu CTCP Sông Đà 10"
+    },
+    {
+      "value": "SDP",
+      "label": "SDP - UPC - Cổ phiếu Công ty cổ phần SDP"
+    },
+    {
+      "value": "SDN",
+      "label": "SDN - HNX - Cổ phiếu CTCP Sơn Đồng Nai"
+    },
+    {
+      "value": "SDK",
+      "label": "SDK - UPC - Cổ phiếu CTCP Cơ khí Luyện Kim"
+    },
+    {
+      "value": "SDJ",
+      "label": "SDJ - UPC - Cổ phiếu CTCP Sông Đà 25"
+    },
+    {
+      "value": "SDI",
+      "label": "SDI - UPC - Cổ phiếu CTCP Đầu tư và Phát triển Đô thị Sài Đồng"
+    },
+    {
+      "value": "SDH",
+      "label": "SDH - UPC - Cổ phiếu CTCP Xây dựng Hạ tầng Sông Đà"
+    },
+    {
+      "value": "SDG",
+      "label": "SDG - HNX - Cổ phiếu CTCP Sadico Cần Thơ"
+    },
+    {
+      "value": "SDE",
+      "label": "SDE - UPC - Cổ phiếu CTCP Kỹ thuật Điện Sông Đà"
+    },
+    {
+      "value": "SDD",
+      "label": "SDD - UPC - Cổ phiếu CTCP Đầu tư & Xây lắp Sông Đà"
+    },
+    {
+      "value": "SDC",
+      "label": "SDC - HNX - Cổ phiếu CTCP Tư vấn sông Đà"
+    },
+    {
+      "value": "SDB",
+      "label": "SDB - UPC - Cổ phiếu CTCP Sông Đà 207"
+    },
+    {
+      "value": "SDA",
+      "label": "SDA - HNX - Cổ phiếu CTCP Simco Sông Đà"
+    },
+    {
+      "value": "SD9",
+      "label": "SD9 - HNX - Cổ phiếu CTCP Sông Đà 9"
+    },
+    {
+      "value": "SD8",
+      "label": "SD8 - UPC - Cổ phiếu CTCP sông Đà 8"
+    },
+    {
+      "value": "SD7",
+      "label": "SD7 - UPC - Cổ phiếu CTCP Sông Đà 7"
+    },
+    {
+      "value": "SD6",
+      "label": "SD6 - HNX - Cổ phiếu CTCP Sông Đà 6"
+    },
+    {
+      "value": "SD5",
+      "label": "SD5 - HNX - Cổ phiếu CTCP Sông Đà 5"
+    },
+    {
+      "value": "SD4",
+      "label": "SD4 - HNX - Cổ phiếu CTCP Sông Đà 4"
+    },
+    {
+      "value": "SD3",
+      "label": "SD3 - UPC - Cổ phiếu CTCP Sông Đà 3"
+    },
+    {
+      "value": "SD2",
+      "label": "SD2 - HNX - Cổ phiếu CTCP Sông Đà 2"
+    },
+    {
+      "value": "SD1",
+      "label": "SD1 - UPC - Cổ phiếu CTCP Sông Đà 1"
+    },
+    {
+      "value": "SCY",
+      "label": "SCY - UPC - Cổ phiếu Công ty cổ phần Đóng tàu Sông Cấm"
+    },
+    {
+      "value": "SCS",
+      "label": "SCS - HOSE - Cổ phiếu Công ty cổ phần Dịch vụ Hàng hóa Sài Gòn"
+    },
+    {
+      "value": "SCR",
+      "label": "SCR - HOSE - Cổ phiếu CTCP Địa ốc Sài Gòn Thương Tín"
+    },
+    {
+      "value": "SCO",
+      "label": "SCO - UPC - Cổ phiếu CTCP Công nghiệp Thủy sản"
+    },
+    {
+      "value": "SCL",
+      "label": "SCL - HNX - Cổ phiếu CTCP Sông Đà Cao Cường"
+    },
+    {
+      "value": "SCJ",
+      "label": "SCJ - UPC - Cổ phiếu CTCP Xi măng Sài Sơn"
+    },
+    {
+      "value": "SCI",
+      "label": "SCI - HNX - Cổ phiếu Công ty cổ phần SCI E&C"
+    },
+    {
+      "value": "SCD",
+      "label": "SCD - HOSE - Cổ phiếu CTCP Nước Giải khát Chương Dương"
+    },
+    {
+      "value": "SCC",
+      "label": "SCC - UPC - Cổ phiếu Công ty cổ phần Đầu tư thương mại Hưng Long tỉnh Hòa Bình"
+    },
+    {
+      "value": "SC5",
+      "label": "SC5 - HOSE - Cổ phiếu CTCP Xây dựng số 5"
+    },
+    {
+      "value": "SBV",
+      "label": "SBV - HOSE - Cổ phiếu Công ty cổ phần Siam Brothers Việt Nam"
+    },
+    {
+      "value": "SBT",
+      "label": "SBT - HOSE - Cổ phiếu Công ty Cổ phần Thành Thành Công –Biên Hòa"
+    },
+    {
+      "value": "SBS",
+      "label": "SBS - UPC - Cổ phiếu CTCP Chứng khoán Ngân hàng Sài Gòn - Thương Tín"
+    },
+    {
+      "value": "SBM",
+      "label": "SBM - UPC - Công ty cổ phần Đầu tư Phát triển Bắc Minh"
+    },
+    {
+      "value": "SBL",
+      "label": "SBL - UPC - Cổ phiếu Công ty cổ phần Bia Sài Gòn - Bạc Liêu"
+    },
+    {
+      "value": "SBH",
+      "label": "SBH - UPC - Co phieu Cong ty co phan Thuy dien Song Ba Ha"
+    },
+    {
+      "value": "SBD",
+      "label": "SBD - UPC - Cổ phiếu Công ty cổ phần Công nghệ Sao Bắc Đẩu"
+    },
+    {
+      "value": "SBA",
+      "label": "SBA - HOSE - Cổ phiếu CTCP Sông Ba"
+    },
+    {
+      "value": "SB1",
+      "label": "SB1 - UPC - Cổ phiếu Công ty cổ phần Bia Sài Gòn – Nghệ Tĩnh"
+    },
+    {
+      "value": "SAV",
+      "label": "SAV - HOSE - Cổ phiếu CTCP Hợp Tác Kinh Tế & Xuất Nhập Khẩu SAVIMEX"
+    },
+    {
+      "value": "SAS",
+      "label": "SAS - UPC - Cổ phiếu Công ty cổ phần Dịch vụ Hàng không Sân bay Tân Sơn Nhất"
+    },
+    {
+      "value": "SAP",
+      "label": "SAP - UPC - Cổ phiếu CTCP In sách giáo khoa TP Hồ Chí Minh"
+    },
+    {
+      "value": "SAM",
+      "label": "SAM - HOSE - Cổ phiếu Công ty Cổ phần SAM Holdings"
+    },
+    {
+      "value": "SAL",
+      "label": "SAL - UPC - Cổ phiếu Công ty cổ phần Trục vớt Cứu hộ Việt Nam"
+    },
+    {
+      "value": "SAF",
+      "label": "SAF - HNX - Cổ phiếu CTCP Lương thực Thực phẩm SAFOCO"
+    },
+    {
+      "value": "SAC",
+      "label": "SAC - UPC - Cổ phiếu Công ty cổ phần Xếp dỡ và Dịch vụ Cảng Sài Gòn"
+    },
+    {
+      "value": "SAB",
+      "label": "SAB - HOSE - Cổ phiếu Tổng Công ty cổ phần Bia - Rượu - Nước giải khát Sài Gòn"
+    },
+    {
+      "value": "S99",
+      "label": "S99 - HNX - Cổ phiếu Công ty cổ phần SCI"
+    },
+    {
+      "value": "S96",
+      "label": "S96 - UPC - Cổ phiếu CTCP Sông Đà 9.06"
+    },
+    {
+      "value": "S74",
+      "label": "S74 - HNX - Cổ phiếu CTCP Sông Đà 7.04"
+    },
+    {
+      "value": "S72",
+      "label": "S72 - UPC - Co phieu Cong ty co phan Song Da 7.02"
+    },
+    {
+      "value": "S55",
+      "label": "S55 - HNX - Cổ phiếu CTCP Sông Đà 505"
+    },
+    {
+      "value": "S4A",
+      "label": "S4A - HOSE - Cổ phiếu Công ty cổ phần Thủy điện Sê San 4A"
+    },
+    {
+      "value": "S33",
+      "label": "S33 - UPC - Cổ phiếu CTCP Mía Đường 333"
+    },
+    {
+      "value": "S27",
+      "label": "S27 - UPC - S27 - CTCP Song Da 27"
+    },
+    {
+      "value": "S12",
+      "label": "S12 - UPC - Cổ phiếu CTCP Sông Đà 12"
+    },
+    {
+      "value": "RTS",
+      "label": "RTS - UPC - Cổ phiếu Công ty cổ phần Thông tin tín hiệu Đường sắt"
+    },
+    {
+      "value": "RTH",
+      "label": "RTH - UPC - Cổ phiếu Công ty cổ phần Đường sắt Thanh Hóa"
+    },
+    {
+      "value": "RTB",
+      "label": "RTB - UPC - Cổ phiếu Công ty cổ phần Cao su Tân Biên"
+    },
+    {
+      "value": "ROS",
+      "label": "ROS - HOSE - Cổ phiếu Công ty cổ phần Xây dựng FLC Faros"
+    },
+    {
+      "value": "RLC",
+      "label": "RLC - UPC - Cổ phiếu Công ty cổ phần Đường bộ Lào Cai"
+    },
+    {
+      "value": "RIC",
+      "label": "RIC - HOSE - Cổ phiếu CTCP Quốc tế Hoàng Gia"
+    },
+    {
+      "value": "RHN",
+      "label": "RHN - UPC - Cổ phiếu Công ty cổ phần Đường sắt Hà Ninh"
+    },
+    {
+      "value": "RGC",
+      "label": "RGC - UPC - Cổ phiếu Công ty cổ phần Đầu tư PV - Inconess"
+    },
+    {
+      "value": "REE",
+      "label": "REE - HOSE - Cổ phiếu CTCP Cơ điện lạnh"
+    },
+    {
+      "value": "RDP",
+      "label": "RDP - HOSE - Cổ phiếu CTCP Rạng Đông Holding"
+    },
+    {
+      "value": "RCL",
+      "label": "RCL - HNX - Cổ phiếu CTCP Địa ốc Chợ Lớn"
+    },
+    {
+      "value": "RCD",
+      "label": "RCD - UPC - Cổ phiếu Công ty Cổ phần Xây dựng - Địa ốc Cao su"
+    },
+    {
+      "value": "RCC",
+      "label": "RCC - UPC - Cổ phiếu Công ty cổ phần Tổng Công ty Công trình Đường sắt"
+    },
+    {
+      "value": "RBC",
+      "label": "RBC - UPC - CTCP Công nghiệp và Xuất nhập khẩu Cao Su"
+    },
+    {
+      "value": "RAT",
+      "label": "RAT - UPC - Cổ phiếu Công ty cổ phần Vận tải và Thương mại Đường sắt"
+    },
+    {
+      "value": "RAL",
+      "label": "RAL - HOSE - Cổ phiếu CTCP Bóng đèn Phích nước Rạng Đông"
+    },
+    {
+      "value": "QTP",
+      "label": "QTP - UPC - Cổ phiếu Công ty cổ phần Nhiệt điện Quảng Ninh"
+    },
+    {
+      "value": "QTC",
+      "label": "QTC - HNX - Cổ phiếu CTCP Công trình GTVT Quảng Nam"
+    },
+    {
+      "value": "QST",
+      "label": "QST - HNX - Cổ phiếu CTCP sách & thiết bị trường học Quảng Linh"
+    },
+    {
+      "value": "QSP",
+      "label": "QSP - UPC - Cổ phiếu Công ty cổ phần Tân Cảng Quy Nhơn"
+    },
+    {
+      "value": "QPH",
+      "label": "QPH - UPC - Cổ phiếu Công ty cổ phần Thủy điện Quế Phong"
+    },
+    {
+      "value": "QNW",
+      "label": "QNW - UPC - Cổ phiếu Công ty cổ phần Cấp thoát nước và xây dựng Quảng Ngãi"
+    },
+    {
+      "value": "QNU",
+      "label": "QNU - UPC - Cổ phiếu Công ty cổ phần Môi trường Đô thị Quảng Nam"
+    },
+    {
+      "value": "QNS",
+      "label": "QNS - UPC - Công ty cổ phần Đường Quảng Ngãi"
+    },
+    {
+      "value": "QNC",
+      "label": "QNC - HNX - Cổ phiếu CTCP Xi măng & Xây dựng Quảng Ninh"
+    },
+    {
+      "value": "QLT",
+      "label": "QLT - UPC - Cổ phiếu Công ty cổ phần Quản lý Bảo trì Đường thủy nội địa số 10"
+    },
+    {
+      "value": "QLD",
+      "label": "QLD - UPC - Cổ phiếu Công ty cổ phần Quản lý và Xây dựng Giao thông Lạng Sơn"
+    },
+    {
+      "value": "QHW",
+      "label": "QHW - UPC - Cổ phiếu Công ty cổ phần Nước khoáng Quảng Ninh"
+    },
+    {
+      "value": "QHD",
+      "label": "QHD - HNX - Cổ phiếu CTCP Que hàn điện Việt Đức"
+    },
+    {
+      "value": "QCG",
+      "label": "QCG - HOSE - Cổ phiếu CTCP Quốc Cường Gia Lai"
+    },
+    {
+      "value": "QCC",
+      "label": "QCC - UPC - Cổ phiếu CTCP Đầu tư Xây dựng và Phát triển hạ tầng Viễn thông"
+    },
+    {
+      "value": "QBS",
+      "label": "QBS - HOSE - Công ty cổ phần Xuất nhập khẩu Quảng Bình"
+    },
+    {
+      "value": "QBR",
+      "label": "QBR - UPC - Cổ phiếu Công ty cổ phần Đường sắt Quảng Bình"
+    },
+    {
+      "value": "PYU",
+      "label": "PYU - UPC - Cổ phiếu Công ty cổ phần Môi trường và Công trình đô thị Phúc Yên"
+    },
+    {
+      "value": "PXT",
+      "label": "PXT - HOSE - Cổ phiếu CTCP Xây lắp đường ống bể chứa dầu khí"
+    },
+    {
+      "value": "PXS",
+      "label": "PXS - HOSE - Cổ phiếu CTCP Kết cấu kim loại & lắp máy Dầu khí"
+    },
+    {
+      "value": "PXM",
+      "label": "PXM - UPC - Cổ phiếu CTCP Xây lắp Dầu khí Miền Trung"
+    },
+    {
+      "value": "PXL",
+      "label": "PXL - UPC - Cổ phiếu CTCP Đầu tư Xây dựng Thương mại Dầu khí - IDICO"
+    },
+    {
+      "value": "PXI",
+      "label": "PXI - HOSE - Cổ phiếu CTCP Xây dựng công nghiệp & dân dụng dầu khí"
+    },
+    {
+      "value": "PXC",
+      "label": "PXC - UPC - Cổ phiếu CTCP Phát triển Đô thị Dầu khí"
+    },
+    {
+      "value": "PXA",
+      "label": "PXA - UPC - Cổ phiếu CTCP Đầu tư và Thương mại Dầu khí Nghệ An"
+    },
+    {
+      "value": "PX1",
+      "label": "PX1 - UPC - Cổ phiếu Công ty cổ phần Xi măng Sông Lam 2"
+    },
+    {
+      "value": "PWS",
+      "label": "PWS - UPC - Cổ phiếu Công ty cổ phần Cấp thoát nước Phú Yên"
+    },
+    {
+      "value": "PWA",
+      "label": "PWA - UPC - Co phieu Cong ty co phan Bat dong san Dau khi"
+    },
+    {
+      "value": "PVY",
+      "label": "PVY - UPC - Cổ phiếu Công ty cổ phần Chế tạo Giàn khoan Dầu khí"
+    },
+    {
+      "value": "PVX",
+      "label": "PVX - HNX - Cổ phiếu CTCP Xây lắp Dầu khí Việt Nam"
+    },
+    {
+      "value": "PVV",
+      "label": "PVV - UPC - Cổ phiếu Công ty cổ phần Vinaconex 39"
+    },
+    {
+      "value": "PVT",
+      "label": "PVT - HOSE - Cổ phiếu Tổng CTCP Vận tải dầu khí"
+    },
+    {
+      "value": "PVS",
+      "label": "PVS - HNX - Cổ phiếu Tổng CTCP Dịch vụ Kỹ thuật Dầu khí"
+    },
+    {
+      "value": "PVR",
+      "label": "PVR - UPC - Cổ phiếu CTCP Kinh doanh dịch vụ cao cấp Dầu khí Việt Nam"
+    },
+    {
+      "value": "PVP",
+      "label": "PVP - UPC - Công ty cổ phần Vận tải Dầu khí Thái Bình Dương"
+    },
+    {
+      "value": "PVO",
+      "label": "PVO - UPC - Cổ phiếu Công ty cổ phần Dầu nhờn PV OIL"
+    },
+    {
+      "value": "PVM",
+      "label": "PVM - UPC - Cổ phiếu Công ty cổ phần Máy - Thiết bị Dầu Khí"
+    },
+    {
+      "value": "PVL",
+      "label": "PVL - HNX - Cổ phiếu Công ty cổ phần Đầu tư Nhà đất Việt"
+    },
+    {
+      "value": "PVI",
+      "label": "PVI - HNX - Cổ phiếu CTCP PVI"
+    },
+    {
+      "value": "PVH",
+      "label": "PVH - UPC - Cổ phiếu Công ty cổ phần Xây lắp Dầu khí Thanh Hóa"
+    },
+    {
+      "value": "PVG",
+      "label": "PVG - HNX - Cổ phiếu Công ty cổ phần Kinh doanh Khí miền Bắc"
+    },
+    {
+      "value": "PVE",
+      "label": "PVE - HNX - Cổ phiếu Tổng Công ty Tư vấn Thiết kế Dầu khi- Công ty cổ phần"
+    },
+    {
+      "value": "PVD",
+      "label": "PVD - HOSE - Cổ phiếu Tổng CTCP Khoan & Dịch vụ khoan Dầu khí"
+    },
+    {
+      "value": "PVC",
+      "label": "PVC - HNX - Cổ phiếu CTCP Dung dịch khoan & Hóa phẩm Dầu khí"
+    },
+    {
+      "value": "PVB",
+      "label": "PVB - HNX - CTCP BỌC ỐNG DẦU KHÍ VIỆT NAM"
+    },
+    {
+      "value": "PVA",
+      "label": "PVA - UPC - Cổ phiếu CTCP Tổng Cty Xây lắp Dầu khí Nghệ An"
+    },
+    {
+      "value": "PV2",
+      "label": "PV2 - HNX - Cổ phiếu CTCP Đầu tư  PV2"
+    },
+    {
+      "value": "PTX",
+      "label": "PTX - UPC - Cổ phiếu Công ty cổ phần Vận tải và Dịch vụ Petrolimex Nghệ Tĩnh"
+    },
+    {
+      "value": "PTT",
+      "label": "PTT - UPC - Cổ phiếu CTCP Vận tải Dầu khí Đông Dương"
+    },
+    {
+      "value": "PTS",
+      "label": "PTS - HNX - Cổ phiếu CTCP Vận tải & Dịch vụ Petrolimex Hải Phòng"
+    },
+    {
+      "value": "PTP",
+      "label": "PTP - UPC - Cổ phiếu CTCP Dịch vụ Viễn thông & In Bưu điện"
+    },
+    {
+      "value": "PTO",
+      "label": "PTO - UPC - Cổ phiếu Công ty cổ phần Dịch vụ - Xây dựng công trình Bưu điện"
+    },
+    {
+      "value": "PTM",
+      "label": "PTM - UPC - Cổ phiếu CTCP Sản xuất, Thương mại và Dịch vụ ô tô PTM"
+    },
+    {
+      "value": "PTL",
+      "label": "PTL - HOSE - Cổ phiếu CTCP Đầu tư Hạ tầng & Đô thị Dầu khí"
+    },
+    {
+      "value": "PTK",
+      "label": "PTK - UPC - Cổ phiếu Cổ phiếu CTCP Luyện kim Phú Thịnh"
+    },
+    {
+      "value": "PTI",
+      "label": "PTI - HNX - Cổ phiếu Tổng CTCP Bảo hiểm Bưu điện"
+    },
+    {
+      "value": "PTH",
+      "label": "PTH - UPC - Cổ phiếu CTCP Vận tải & Dịch vụ Petrolimex Hà Tây"
+    },
+    {
+      "value": "PTG",
+      "label": "PTG - UPC - Cổ phiếu CTCP May Xuất khẩu Phan Thiết"
+    },
+    {
+      "value": "PTE",
+      "label": "PTE - UPC - Cổ phiếu Công ty cổ phần Xi măng Phú Thọ"
+    },
+    {
+      "value": "PTD",
+      "label": "PTD - HNX - Cổ phiếu CTCP Thiết kế - Xây dựng - Thương mại Phúc Thịnh"
+    },
+    {
+      "value": "PTC",
+      "label": "PTC - HOSE - Cổ phiếu CTCP Đầu tư & Xây dựng Bưu điện"
+    },
+    {
+      "value": "PTB",
+      "label": "PTB - HOSE - Cổ phiếu Công ty cổ phần Phú Tài"
+    },
+    {
+      "value": "PSW",
+      "label": "PSW - HNX - Cổ phiếu Công ty cổ phần Phân bón và Hóa chất dầu khí Tây Nam Bộ"
+    },
+    {
+      "value": "PSP",
+      "label": "PSP - UPC - Cổ phiếu CTCP Cảng Dịch vụ Dầu khí Đình Vũ"
+    },
+    {
+      "value": "PSN",
+      "label": "PSN - UPC - Cổ phiếu Công ty cổ phần Cảng Dịch vụ Dầu khí Tổng hợp PTSC Thanh Hóa"
+    },
+    {
+      "value": "PSL",
+      "label": "PSL - UPC - Cổ phiếu CTCP Chăn nuôi Phú Sơn"
+    },
+    {
+      "value": "PSI",
+      "label": "PSI - HNX - Cổ phiếu CTCP Chứng khoán Dầu khí"
+    },
+    {
+      "value": "PSG",
+      "label": "PSG - UPC - Cổ phiếu CTCP Đầu tư và Xây lắp Dầu khí Sài Gòn"
+    },
+    {
+      "value": "PSE",
+      "label": "PSE - HNX - Cổ phiếu CTCP Phân bón và Hóa chất dầu khí Đông Nam Bộ"
+    },
+    {
+      "value": "PSD",
+      "label": "PSD - HNX - Cổ phiếu Công ty cổ phần Dịch vụ Phân phối Tổng hợp Dầu khí"
+    },
+    {
+      "value": "PSC",
+      "label": "PSC - HNX - Cổ phiếu CTCP Vận tải & Dịch vụ Petrolimex Sài Gòn"
+    },
+    {
+      "value": "PSB",
+      "label": "PSB - UPC - Cổ phiếu CTCP Đầu tư Dầu khí Sao Mai - Bến Đình"
+    },
+    {
+      "value": "PRT",
+      "label": "PRT - UPC - Co phieu Tong Cong ty co phan San xuat _ Xuat nhap khau Binh Duong"
+    },
+    {
+      "value": "PRO",
+      "label": "PRO - UPC - Công ty cổ phần Procimex Việt Nam"
+    },
+    {
+      "value": "PRC",
+      "label": "PRC - HNX - Cổ phiếu Công ty cổ phần Logistics Portserco"
+    },
+    {
+      "value": "PPY",
+      "label": "PPY - HNX - Cổ phiếu Công ty cổ phần Xăng dầu Dầu khí Phú Yên"
+    },
+    {
+      "value": "PPS",
+      "label": "PPS - HNX - Cổ phiếu CTCP Dịch vụ Kỹ thuật Điện lực Dầu khí Việt Nam"
+    },
+    {
+      "value": "PPP",
+      "label": "PPP - HNX - Cổ phiếu CTCP Dược phẩm Phong Phú"
+    },
+    {
+      "value": "PPI",
+      "label": "PPI - UPC - Cổ phiếu CTCP Đầu tư và Phát triển Dự án Hạ tầng Thái Bình Dương"
+    },
+    {
+      "value": "PPH",
+      "label": "PPH - UPC - Cổ phiếu Tổng công ty cổ phần Phong Phú"
+    },
+    {
+      "value": "PPG",
+      "label": "PPG - UPC - Cổ phiếu CTCP Sản xuất - Thương mại - Dịch vụ Phú Phong"
+    },
+    {
+      "value": "PPE",
+      "label": "PPE - HNX - Cổ phiếu CTCP Tư vấn Điện lực Dầu khí Việt Nam"
+    },
+    {
+      "value": "PPC",
+      "label": "PPC - HOSE - Cổ phiếu CTCP Nhiệt điện Phả Lại"
+    },
+    {
+      "value": "POW",
+      "label": "POW - HOSE - Co phieu Tong Cong ty Dien luc Dau khi Viet Nam _ Cong ty co phan"
+    },
+    {
+      "value": "POV",
+      "label": "POV - UPC - Cổ phiếu CTCP Xăng dầu Dầu khí Vũng Áng"
+    },
+    {
+      "value": "POT",
+      "label": "POT - HNX - Cổ phiếu CTCP Thiết Bị Bưu Điện"
+    },
+    {
+      "value": "POS",
+      "label": "POS - UPC - Cổ phiếu CTCP Dvụ Lắp đặt,Vận hành&Bảo dưỡng Công trình Dầu khí biển PTSC"
+    },
+    {
+      "value": "POM",
+      "label": "POM - HOSE - Cổ phiếu CTCP Thép Pomina"
+    },
+    {
+      "value": "POB",
+      "label": "POB - UPC - Cổ phiếu Công ty cổ phần Xăng dầu Dầu khí Thái Bình"
+    },
+    {
+      "value": "PNT",
+      "label": "PNT - UPC - Cổ phiếu CTCP Kỹ thuật Xây dựng Phú Nhuận"
+    },
+    {
+      "value": "PNP",
+      "label": "PNP - UPC - Co phieu Cong ty co phan Tan Cang _ Phu Huu"
+    },
+    {
+      "value": "PNJ",
+      "label": "PNJ - HOSE - Cổ phiếu CTCP Vàng bạc đá quý Phú Nhuận"
+    },
+    {
+      "value": "PNG",
+      "label": "PNG - UPC - Cổ phiếu Công ty cổ phần Thương mại Phú Nhuận"
+    },
+    {
+      "value": "PND",
+      "label": "PND - UPC - Cổ phiếu Công ty cổ phần Xăng dầu Dầu khí Nam Định"
+    },
+    {
+      "value": "PNC",
+      "label": "PNC - HOSE - Cổ phiếu CTCP Văn hoá Phương Nam"
+    },
+    {
+      "value": "PMW",
+      "label": "PMW - UPC - Cổ phiếu Công ty cổ phần Cấp nước Phú Mỹ"
+    },
+    {
+      "value": "PMT",
+      "label": "PMT - UPC - Cổ phiếu Công ty cổ phần Viễn thông Telvina Việt Nam"
+    },
+    {
+      "value": "PMS",
+      "label": "PMS - HNX - Cổ phiếu CTCP Cơ khí xăng dầu"
+    },
+    {
+      "value": "PMP",
+      "label": "PMP - HNX - Cổ phiếu Công ty cổ phần Bao bì đạm Phú Mỹ"
+    },
+    {
+      "value": "PMJ",
+      "label": "PMJ - UPC - Công ty cổ phần Vật tư Bưu điện"
+    },
+    {
+      "value": "PMG",
+      "label": "PMG - HOSE - Cổ phiếu Công ty cổ phần Đầu tư và Sản xuất Petro Miền Trung"
+    },
+    {
+      "value": "PME",
+      "label": "PME - HOSE - Cổ phiếu Công ty cổ phần Pymepharco"
+    },
+    {
+      "value": "PMC",
+      "label": "PMC - HNX - Cổ phiếu CTCP dược phẩm dược liệu Pharmedic"
+    },
+    {
+      "value": "PMB",
+      "label": "PMB - HNX - Cổ phiếu Công ty cổ phần Phân bón và Hóa chất Dầu khí Miền Bắc"
+    },
+    {
+      "value": "PLX",
+      "label": "PLX - HOSE - Cổ phiếu Tập đoàn Xăng dầu Việt Nam"
+    },
+    {
+      "value": "PLP",
+      "label": "PLP - HOSE - Cổ phiếu Công ty cổ phần Sản xuất và Công nghệ Nhựa Pha Lê"
+    },
+    {
+      "value": "PLC",
+      "label": "PLC - HNX - Cổ phiếu Tổng CTCP Hóa dầu Petrolimex"
+    },
+    {
+      "value": "PLA",
+      "label": "PLA - UPC - Cổ phiếu CTCP Đầu tư và Dịch vụ Hạ tầng Xăng Dầu"
+    },
+    {
+      "value": "PKR",
+      "label": "PKR - UPC - Cổ phiếu Công ty cổ phần Đường sắt Phú Khánh"
+    },
+    {
+      "value": "PJT",
+      "label": "PJT - HOSE - Cổ phiếu CTCP Vận tải Xăng dầu Đường Thủy Petrolimex"
+    },
+    {
+      "value": "PJS",
+      "label": "PJS - UPC - Cổ phiếu CTCP cấp nước Phú Hòa Tân"
+    },
+    {
+      "value": "PJC",
+      "label": "PJC - HNX - Cổ phiếu CTCP Thương mại & Vận tải Petrolimex Hà Nội"
+    },
+    {
+      "value": "PIV",
+      "label": "PIV - UPC - Cổ phiếu CTCP PIV"
+    },
+    {
+      "value": "PIT",
+      "label": "PIT - HOSE - Cổ phiếu CTCP Xuất nhập khẩu Petrolimex"
+    },
+    {
+      "value": "PIS",
+      "label": "PIS - UPC - Cổ phiếu Tổng Công ty PISICO Bình Định - Công ty cổ phần"
+    },
+    {
+      "value": "PID",
+      "label": "PID - UPC - Cổ phiếu CTCP Trang trí Nội thất Dầu khí"
+    },
+    {
+      "value": "PIC",
+      "label": "PIC - HNX - Cổ phiếu CTCP Đầu tư Điện lực 3"
+    },
+    {
+      "value": "PIA",
+      "label": "PIA - HNX - Cổ phiếu Công ty cổ phần Tin học Viễn thông Petrolimex"
+    },
+    {
+      "value": "PHS",
+      "label": "PHS - UPC - Cổ phiếu CTCP Chứng khoán Phú Hưng"
+    },
+    {
+      "value": "PHR",
+      "label": "PHR - HOSE - Cổ phiếu CTCP Cao Su Phước Hòa"
+    },
+    {
+      "value": "PHP",
+      "label": "PHP - HNX - Cổ phiếu Công ty cổ phần Cảng Hải Phòng"
+    },
+    {
+      "value": "PHN",
+      "label": "PHN - HNX - Cổ phiếu Công ty cổ phần Pin Hà Nội"
+    },
+    {
+      "value": "PHH",
+      "label": "PHH - UPC - Cổ phiếu CTCP Hồng Hà Việt Nam"
+    },
+    {
+      "value": "PHC",
+      "label": "PHC - HOSE - Cổ phiếu CTCP Xây dựng Phục Hưng Holdings"
+    },
+    {
+      "value": "PGV",
+      "label": "PGV - UPC - Co phieu Tong Cong ty Phat dien 3 - Cong ty co phan"
+    },
+    {
+      "value": "PGT",
+      "label": "PGT - HNX - Cổ phiếu Công ty Cổ phần PGT HOLDINGS"
+    },
+    {
+      "value": "PGS",
+      "label": "PGS - HNX - Cổ phiếu Công ty cổ phần kinh doanh Khí miền Nam"
+    },
+    {
+      "value": "PGN",
+      "label": "PGN - HNX - Co phieu Cong ty co phan Phu Gia Nhua"
+    },
+    {
+      "value": "PGI",
+      "label": "PGI - HOSE - Cổ phiếu Tổng CTCP Bảo hiểm Petrolimex"
+    },
+    {
+      "value": "PGD",
+      "label": "PGD - HOSE - Cổ phiếu CTCP Phân phối khí thấp áp dầu khí Việt Nam"
+    },
+    {
+      "value": "PGC",
+      "label": "PGC - HOSE - Cổ phiếu Tổng Công ty Gas Petrolimex - CTCP"
+    },
+    {
+      "value": "PFL",
+      "label": "PFL - UPC - Cổ phiếu CTCP Dầu khí Đông Đô"
+    },
+    {
+      "value": "PET",
+      "label": "PET - HOSE - Cổ phiếu Tổng CTCP Dịch vụ Tổng hợp Dầu khí"
+    },
+    {
+      "value": "PEQ",
+      "label": "PEQ - UPC - Cổ phiếu CTCP Thiết bị Xăng dầu Petrolimex"
+    },
+    {
+      "value": "PEN",
+      "label": "PEN - HNX - Cổ phiếu Công ty cổ phần Xây lắp III Petrolimex"
+    },
+    {
+      "value": "PEG",
+      "label": "PEG - UPC - Co phieu Tong Cong ty Thuong mai K_ thuat va Dau tu - Cong ty co phan"
+    },
+    {
+      "value": "PEC",
+      "label": "PEC - UPC - Cổ phiếu CTCP Cơ khí Điện lực"
+    },
+    {
+      "value": "PDV",
+      "label": "PDV - UPC - Cổ phiếu Công ty cổ phần Vận tải Dầu Phương Đông Việt"
+    },
+    {
+      "value": "PDT",
+      "label": "PDT - UPC - Co phieu  Cong ty co phan Thuong mai Dau khi Dong Thap"
+    },
+    {
+      "value": "PDR",
+      "label": "PDR - HOSE - Cổ phiếu CTCP Phát triển Bất động sản Phát Đạt"
+    },
+    {
+      "value": "PDN",
+      "label": "PDN - HOSE - Cổ phiếu CTCP cảng Đồng Nai"
+    },
+    {
+      "value": "PDC",
+      "label": "PDC - HNX - Cổ phiếu CTCP Du lịch Dầu khí Phương Đông"
+    },
+    {
+      "value": "PDB",
+      "label": "PDB - HNX - Cổ phiếu Công ty cổ phần Pacific Dinco"
+    },
+    {
+      "value": "PCT",
+      "label": "PCT - HNX - Cổ phiếu CTCP Vận tải Khí và Hóa chất Việt Nam"
+    },
+    {
+      "value": "PCN",
+      "label": "PCN - UPC - Cổ phiếu Công ty cổ phần Hóa phẩm dầu khí DMC – Miền Bắc"
+    },
+    {
+      "value": "PCM",
+      "label": "PCM - UPC - Cổ phiếu Công ty Cổ phần Vật liệu xây dựng Bưu điện"
+    },
+    {
+      "value": "PCG",
+      "label": "PCG - HNX - Cổ phiếu CTCP Đầu tư Phát triển GAS Đô thị"
+    },
+    {
+      "value": "PCF",
+      "label": "PCF - UPC - Cổ phiếu Công ty cổ phần Cà phê Petec"
+    },
+    {
+      "value": "PCE",
+      "label": "PCE - HNX - Cổ phiếu Công ty cổ phần Phân bón và Hóa chất Dầu khí Miền Trung"
+    },
+    {
+      "value": "PCC",
+      "label": "PCC - UPC - Cổ phiếu CTCP Tập đoàn Xây lắp 1 - Petrolimex"
+    },
+    {
+      "value": "PC1",
+      "label": "PC1 - HOSE - Cổ phiếu Công ty cổ phần Xây lắp điện 1"
+    },
+    {
+      "value": "PBT",
+      "label": "PBT - UPC - Cổ phiếu Công ty Cổ phần Nhà và Thương mại Dầu khí"
+    },
+    {
+      "value": "PBP",
+      "label": "PBP - HNX - Cổ phiếu Công ty Cổ phần Bao bì Dầu khí Việt Nam"
+    },
+    {
+      "value": "PBK",
+      "label": "PBK - UPC - Cổ phiếu Công ty cổ phần Điện lực Dầu khí Bắc Kạn"
+    },
+    {
+      "value": "PAN",
+      "label": "PAN - HOSE - Cổ phiếu Công ty cổ phần Tập đoàn PAN"
+    },
+    {
+      "value": "PAI",
+      "label": "PAI - UPC - Cổ phiếu CTCP Công nghệ thông tin, Viễn thông và Tự động hóa Dầu Khí"
+    },
+    {
+      "value": "PAC",
+      "label": "PAC - HOSE - Cổ phiếu CTCP Pin Ắc quy Miền Nam"
+    },
+    {
+      "value": "ORS",
+      "label": "ORS - UPC - Cổ phiếu CTCP Chứng khoán Tiên Phong"
+    },
+    {
+      "value": "OPC",
+      "label": "OPC - HOSE - Cổ phiếu CTCP Dược phẩm OPC"
+    },
+    {
+      "value": "ONW",
+      "label": "ONW - UPC - Cổ phiếu Công ty cổ phần Dịch vụ Một thế giới"
+    },
+    {
+      "value": "ONE",
+      "label": "ONE - HNX - Cổ phiếu CTCP Truyền thông số 1"
+    },
+    {
+      "value": "OIL",
+      "label": "OIL - UPC - Cổ phiếu Tổng Công ty Dầu Việt Nam – Công ty cổ phần"
+    },
+    {
+      "value": "OGC",
+      "label": "OGC - HOSE - Cổ phiếu CTCP Tập đoàn Đại Dương"
+    },
+    {
+      "value": "OCH",
+      "label": "OCH - HNX - Cổ phiếu CTCP Khách sạn & Dịch vụ Đại Dương"
+    },
+    {
+      "value": "NWT",
+      "label": "NWT - UPC - Cổ phiếu Công ty cổ phần Vận tải Newway"
+    },
+    {
+      "value": "NVT",
+      "label": "NVT - HOSE - Cổ phiếu CTCP Bất động sản Du lịch Ninh Vân Bay"
+    },
+    {
+      "value": "NVP",
+      "label": "NVP - UPC - Cổ phiếu Công ty cổ phần Nước sạch Vĩnh Phúc"
+    },
+    {
+      "value": "NVL",
+      "label": "NVL - HOSE - Cổ phiếu Công ty cổ phần Tập đoàn Đầu tư Địa ốc No Va"
+    },
+    {
+      "value": "NVB",
+      "label": "NVB - HNX - Cổ phiếu Ngân hàng TMCP Quốc Dân"
+    },
+    {
+      "value": "NUE",
+      "label": "NUE - UPC - Cổ phiếu Công ty cổ phần Môi trường Đô thị Nha Trang"
+    },
+    {
+      "value": "NTW",
+      "label": "NTW - UPC - Cổ phiếu CTCP Cấp nước Nhơn Trạch"
+    },
+    {
+      "value": "NTT",
+      "label": "NTT - UPC - Cổ phiếu Công ty cổ phần Dệt – May Nha Trang"
+    },
+    {
+      "value": "NTR",
+      "label": "NTR - UPC - Cổ phiếu Công ty cổ phần Đường sắt Nghệ Tĩnh"
+    },
+    {
+      "value": "NTP",
+      "label": "NTP - HNX - Cổ phiếu CTCP Nhựa Thiếu Niên Tiền Phong"
+    },
+    {
+      "value": "NTL",
+      "label": "NTL - HOSE - Cổ phiếu CTCP Phát triển Đô thị Từ Liêm"
+    },
+    {
+      "value": "NTH",
+      "label": "NTH - HNX - Cổ phiếu Công ty cổ phần Sản xuất và Thương mại Nam Hoa"
+    },
+    {
+      "value": "NTF",
+      "label": "NTF - UPC - Cổ phiếu Công ty cổ phần Dược - Vật tư Y tế Nghệ An"
+    },
+    {
+      "value": "NTC",
+      "label": "NTC - UPC - Cổ phiếu Công ty Cổ phần Khu công nghiệp Nam Tân Uyên"
+    },
+    {
+      "value": "NTB",
+      "label": "NTB - UPC - Cổ phiếu CTCP Đầu tư Xây dựng & Khai thác công trình Giao thông 584"
+    },
+    {
+      "value": "NT2",
+      "label": "NT2 - HOSE - Cổ phiếu CTCP Điện lực Dầu khí Nhơn Trạch 2"
+    },
+    {
+      "value": "NST",
+      "label": "NST - HNX - Cổ phiếu CTCP Ngân Sơn"
+    },
+    {
+      "value": "NSS",
+      "label": "NSS - UPC - Co phieu Cong ty co phan Nong Suc San Dong Nai"
+    },
+    {
+      "value": "NSL",
+      "label": "NSL - UPC - Cổ phiếu Công ty cổ phần Cấp nước Sơn La"
+    },
+    {
+      "value": "NSH",
+      "label": "NSH - HNX - Cổ phiếu Công ty cổ phần Nhôm Sông Hồng"
+    },
+    {
+      "value": "NSG",
+      "label": "NSG - UPC - Cổ phiếu Công ty cổ phần Nhựa Sài Gòn"
+    },
+    {
+      "value": "NSC",
+      "label": "NSC - HOSE - Cổ phiếu CTCP Giống cây trồng Trung Ương"
+    },
+    {
+      "value": "NS3",
+      "label": "NS3 - UPC - Cổ phiếu Công ty cổ phần Sản xuất Kinh doanh Nước sạch số 3 Hà Nội"
+    },
+    {
+      "value": "NS2",
+      "label": "NS2 - UPC - Cổ phiếu Công ty cổ phần Nước sạch số 2 Hà Nội"
+    },
+    {
+      "value": "NRC",
+      "label": "NRC - HNX - Cổ phiếu Công ty Cổ phần Bất động sản NETLAND"
+    },
+    {
+      "value": "NQT",
+      "label": "NQT - UPC - Cổ phiếu Công ty cổ phần Nước sạch Quảng Trị"
+    },
+    {
+      "value": "NQN",
+      "label": "NQN - UPC - Co phieu Cong ty co phan Nuoc sach Quang Ninh"
+    },
+    {
+      "value": "NQB",
+      "label": "NQB - UPC - Công ty cổ phần Cấp nước Quảng Bình"
+    },
+    {
+      "value": "NPS",
+      "label": "NPS - UPC - Cổ phiếu CTCP May Phú Thịnh - Nhà Bè"
+    },
+    {
+      "value": "NPH",
+      "label": "NPH - UPC - Cổ phiếu Công ty cổ phần Khách sạn Bưu điện Nha Trang"
+    },
+    {
+      "value": "NOS",
+      "label": "NOS - UPC - Cổ phiếu Công ty cổ phần Vận tải biển và Thương mại Phương Đông"
+    },
+    {
+      "value": "NNT",
+      "label": "NNT - UPC - Cổ phiếu CTCP cấp nước Ninh Thuận"
+    },
+    {
+      "value": "NNG",
+      "label": "NNG - UPC - Cổ phiếu Công ty cổ phần Công nghiệp - Dịch vụ - Thương mại Ngọc Nghĩa"
+    },
+    {
+      "value": "NNC",
+      "label": "NNC - HOSE - Cổ phiếu CTCP Đá Núi Nhỏ"
+    },
+    {
+      "value": "NNB",
+      "label": "NNB - UPC - Cổ phiếu Công ty cổ phần Cấp thoát nước Ninh Bình"
+    },
+    {
+      "value": "NMK",
+      "label": "NMK - UPC - Cổ phiếu Công ty cổ phần Xây dựng Công trình 510"
+    },
+    {
+      "value": "NLS",
+      "label": "NLS - UPC - Cổ phiếu Công ty cổ phần Cấp thoát nước Lạng Sơn"
+    },
+    {
+      "value": "NLG",
+      "label": "NLG - HOSE - Cổ phiếu CTCP Đầu tư Nam Long"
+    },
+    {
+      "value": "NKG",
+      "label": "NKG - HOSE - Cổ phiếu CTCP Thép Nam Kim"
+    },
+    {
+      "value": "NHV",
+      "label": "NHV - UPC - Cổ phiếu Công ty cổ phần Đầu tư NHV"
+    },
+    {
+      "value": "NHT",
+      "label": "NHT - UPC - Cổ phiếu Công ty cổ phần Sản xuất và Thương mại Nam Hoa"
+    },
+    {
+      "value": "NHP",
+      "label": "NHP - HNX - Cổ phiếu Công ty Cổ phần Sản xuất Xuất nhập khẩu NHP"
+    },
+    {
+      "value": "NHH",
+      "label": "NHH - UPC - Cổ phiếu Công ty cổ phần Nhựa Hà Nội"
+    },
+    {
+      "value": "NHC",
+      "label": "NHC - HNX - Cổ phiếu CTCP gạch ngói Nhị Hiệp"
+    },
+    {
+      "value": "NHA",
+      "label": "NHA - HNX - Cổ phiếu Tổng CTCP Phát triển nhà & Đô thị Nam Hà Nội"
+    },
+    {
+      "value": "NGC",
+      "label": "NGC - HNX - Cổ phiếu CTCP Chế biến thủy sản Xuất khẩu Ngô Quyền"
+    },
+    {
+      "value": "NFC",
+      "label": "NFC - HNX - Cổ phiếu Công ty cổ phần Phân lân Ninh Bình"
+    },
+    {
+      "value": "NET",
+      "label": "NET - HNX - Cổ phiếu CTCP Bột giặt NET"
+    },
+    {
+      "value": "NED",
+      "label": "NED - UPC - Cổ phiếu Công ty cổ phần Đầu tư và Phát triển Điện Tây Bắc"
+    },
+    {
+      "value": "NDX",
+      "label": "NDX - HNX - Cổ phiếu Công ty cổ phần Xây lắp Phát triển Nhà Đà Nẵng"
+    },
+    {
+      "value": "NDW",
+      "label": "NDW - UPC - Cổ phiếu Công ty cổ phần Cấp nước Nam Định"
+    },
+    {
+      "value": "NDT",
+      "label": "NDT - UPC - Co phieu Tong Cong ty co phan Det May Nam Dinh"
+    },
+    {
+      "value": "NDP",
+      "label": "NDP - UPC - Cổ phiếu Công ty Cổ phần Dược phẩm 2/9"
+    },
+    {
+      "value": "NDN",
+      "label": "NDN - HNX - Cổ phiếu CTCP Đầu tư Phát triển Nhà Đà Nẵng"
+    },
+    {
+      "value": "NDF",
+      "label": "NDF - HNX - Công ty cổ phần Chế biến thực phẩm nông sản xuất khẩu Nam Định"
+    },
+    {
+      "value": "NDC",
+      "label": "NDC - UPC - Cổ phiếu CTCP Nam Dược"
+    },
+    {
+      "value": "ND2",
+      "label": "ND2 - UPC - Cổ phiếu CTCP Đầu tư & Phát triển điện Miền Bắc 2"
+    },
+    {
+      "value": "NCT",
+      "label": "NCT - HOSE - Cổ phiếu Công ty cổ phần Dịch vụ Hàng hóa Nội Bài"
+    },
+    {
+      "value": "NCS",
+      "label": "NCS - UPC - Cổ phiếu CTCP Suất ăn Hàng không Nội Bài"
+    },
+    {
+      "value": "NCP",
+      "label": "NCP - UPC - Cổ phiếu Công ty cổ phần Nhiệt điện Cẩm Phả - TKV"
+    },
+    {
+      "value": "NBW",
+      "label": "NBW - HNX - Cổ phiếu CTCP Cấp nước Nhà Bè"
+    },
+    {
+      "value": "NBT",
+      "label": "NBT - UPC - Cổ phiếu Công ty cổ phần Cấp thoát nước Bến Tre"
+    },
+    {
+      "value": "NBR",
+      "label": "NBR - UPC - Cổ phiếu Công ty cổ phần Đường sắt Nghĩa Bình"
+    },
+    {
+      "value": "NBP",
+      "label": "NBP - HNX - Cổ phiếu CTCP Nhiệt Điện Ninh Bình"
+    },
+    {
+      "value": "NBE",
+      "label": "NBE - UPC - Cổ phiếu Công ty cổ phần Sách và Thiết bị giáo dục miền Bắc"
+    },
+    {
+      "value": "NBC",
+      "label": "NBC - HNX - Cổ phiếu CTCP Than Núi Béo - Vinacomin"
+    },
+    {
+      "value": "NBB",
+      "label": "NBB - HOSE - Cổ phiếu CTCP Năm Bảy Bảy"
+    },
+    {
+      "value": "NAW",
+      "label": "NAW - UPC - Cổ phiếu Công ty cổ phần Cấp nước Nghệ An"
+    },
+    {
+      "value": "NAV",
+      "label": "NAV - HOSE - Cổ phiếu CTCP Nam Việt"
+    },
+    {
+      "value": "NAU",
+      "label": "NAU - UPC - Co phieu Cong ty Co phan Moi truong va Cong trinh do thi Nghe An"
+    },
+    {
+      "value": "NAS",
+      "label": "NAS - UPC - Công ty Cổ phần Dịch vụ Hàng không Sân bay Nội Bài"
+    },
+    {
+      "value": "NAP",
+      "label": "NAP - HNX - Cổ phiếu Công ty cổ phần Cảng Nghệ Tĩnh"
+    },
+    {
+      "value": "NAG",
+      "label": "NAG - HNX - Cổ phiếu CTCP Nagakawa Việt Nam"
+    },
+    {
+      "value": "NAF",
+      "label": "NAF - HOSE - Công ty cổ phần Nafoods Group"
+    },
+    {
+      "value": "NAC",
+      "label": "NAC - UPC - Cổ phiếu Công ty cổ phần Tư vấn Xây dựng Tổng hợp"
+    },
+    {
+      "value": "MWG",
+      "label": "MWG - HOSE - Cổ phiếu CTCP Đầu tư thế giới di động"
+    },
+    {
+      "value": "MVY",
+      "label": "MVY - UPC - Cổ phiếu Công ty cổ phần Môi trường và Dịch vụ Đô thị Vĩnh Yên"
+    },
+    {
+      "value": "MVN",
+      "label": "MVN - UPC - Co phieu Tong Cong ty Hang hai Viet Nam _ CTCP"
+    },
+    {
+      "value": "MVC",
+      "label": "MVC - UPC - Cổ phiếu Công ty cổ phần Vật liệu và Xây dựng Bình Dương"
+    },
+    {
+      "value": "MVB",
+      "label": "MVB - UPC - Cổ phiếu Tổng Công ty Công nghiệp mỏ Việt Bắc TKV - CTCP"
+    },
+    {
+      "value": "MTV",
+      "label": "MTV - UPC - Cổ phiếu Công ty cổ phần Dịch vụ môi trường và Công trình đô thị Vũng Tàu"
+    },
+    {
+      "value": "MTS",
+      "label": "MTS - UPC - Cổ phiếu Công ty cổ phần Công ty cổ phần Vật tư - TKV"
+    },
+    {
+      "value": "MTP",
+      "label": "MTP - UPC - Cổ phiếu Công ty cổ phần Dược Medipharco"
+    },
+    {
+      "value": "MTM",
+      "label": "MTM - UPC - Cổ phiếu Công ty cổ phần Mỏ và Xuất nhập khẩu Khoáng sản Miền Trung"
+    },
+    {
+      "value": "MTL",
+      "label": "MTL - UPC - Cổ phiếu Công ty cổ phần Dịch vụ Môi trường Đô thị Từ Liêm"
+    },
+    {
+      "value": "MTH",
+      "label": "MTH - UPC - Cổ phiếu CTCP Môi trường Đô thị Hà Đông"
+    },
+    {
+      "value": "MTG",
+      "label": "MTG - UPC - Cổ phiếu CTCP MT Gas"
+    },
+    {
+      "value": "MTC",
+      "label": "MTC - UPC - Cổ phiếu CTCP Dịch vụ Du lịch Mỹ Trà"
+    },
+    {
+      "value": "MTA",
+      "label": "MTA - UPC - Cổ phiếu Tổng công ty Khoáng sản và Thương mại Hà Tĩnh - CTCP"
+    },
+    {
+      "value": "MST",
+      "label": "MST - HNX - Cổ phiếu Công ty cổ phần Xây dựng 1.1.6.8"
+    },
+    {
+      "value": "MSR11808",
+      "label": "MSR11808 - HNX - Trai phieu MSR112023"
+    },
+    {
+      "value": "MSR118001",
+      "label": "MSR118001 - HNX - MSR118001"
+    },
+    {
+      "value": "MSR",
+      "label": "MSR - UPC - Cổ phiếu Công ty cổ phần Tài nguyên Masan"
+    },
+    {
+      "value": "MSN",
+      "label": "MSN - HOSE - Cổ phiếu Công ty Cổ phần Tập đoàn Masan"
+    },
+    {
+      "value": "MSH",
+      "label": "MSH - HOSE - Co phieu Cong ty co phan May Song Hong"
+    },
+    {
+      "value": "MSC",
+      "label": "MSC - HNX - Cổ phiếu Công ty cổ phần Dịch vụ Phú Nhuận"
+    },
+    {
+      "value": "MRF",
+      "label": "MRF - UPC - Cổ phiếu Công ty cổ phần Merufa"
+    },
+    {
+      "value": "MQN",
+      "label": "MQN - UPC - Cổ phiếu Công ty cổ phần Môi trường Đô thị Quảng Ngãi"
+    },
+    {
+      "value": "MQB",
+      "label": "MQB - UPC - Cổ phiếu Công ty cổ phần Môi trường và Phát triển đô thị Quảng Bình"
+    },
+    {
+      "value": "MPY",
+      "label": "MPY - UPC - Cổ phiếu Công ty cổ phần Môi trường đô thị Phú Yên"
+    },
+    {
+      "value": "MPT",
+      "label": "MPT - HNX - Cổ phiếu Công ty cổ phần May Phú Thành"
+    },
+    {
+      "value": "MPC",
+      "label": "MPC - UPC - Cổ phiếu CTCP Thủy hải sản Minh Phú"
+    },
+    {
+      "value": "MND",
+      "label": "MND - UPC - Cổ phiếu Công ty cổ phần Môi trường Nam Định"
+    },
+    {
+      "value": "MNC",
+      "label": "MNC - HNX - Cổ phiếu CTCP Mai Linh Miền Trung"
+    },
+    {
+      "value": "MNB",
+      "label": "MNB - UPC - Cổ phiếu Tổng công ty May Nhà Bè - Công ty cổ phần"
+    },
+    {
+      "value": "MMC",
+      "label": "MMC - UPC - Cổ phiếu CTCP Khoáng sản Mangan"
+    },
+    {
+      "value": "MLS",
+      "label": "MLS - UPC - Cổ phiếu Công ty cổ phần Chăn nuôi - Mitraco"
+    },
+    {
+      "value": "MLN",
+      "label": "MLN - UPC - Cổ phiếu Công ty cổ phần Mai Linh Miền Bắc"
+    },
+    {
+      "value": "MLC",
+      "label": "MLC - UPC - Cổ phiếu Công ty cổ phần Môi trường đô thị tỉnh Lào Cai"
+    },
+    {
+      "value": "MKV",
+      "label": "MKV - HNX - Cổ phiếu CTCP Dược thú y Cai Lậy"
+    },
+    {
+      "value": "MKP",
+      "label": "MKP - UPC - Cổ phiếu CTCP Hóa - Dược phẩm Mekophar"
+    },
+    {
+      "value": "MIM",
+      "label": "MIM - HNX - Cổ phiếu CTCP Khoáng sản & Cơ khí"
+    },
+    {
+      "value": "MIG",
+      "label": "MIG - UPC - Cổ phiếu Tổng Công ty Cổ phần Bảo hiểm Quân Đội"
+    },
+    {
+      "value": "MIE",
+      "label": "MIE - UPC - Cổ phiếu Tổng Công ty Máy và Thiết bị Công nghiệp - CTCP"
+    },
+    {
+      "value": "MIC",
+      "label": "MIC - UPC - Cổ phiếu CTCP Kỹ nghệ khoáng sản Quảng Nam"
+    },
+    {
+      "value": "MHY",
+      "label": "MHY - UPC - MHY"
+    },
+    {
+      "value": "MHL",
+      "label": "MHL - HNX - Cổ phiếu CTCP Minh Hữu Liên"
+    },
+    {
+      "value": "MHC",
+      "label": "MHC - HOSE - Cổ phiếu Công ty cổ phần MHC"
+    },
+    {
+      "value": "MH3",
+      "label": "MH3 - UPC - Cổ phiếu Công ty cổ phần Khu Công nghiệp Cao su Bình Long"
+    },
+    {
+      "value": "MGG",
+      "label": "MGG - UPC - Cổ phiếu Tổng công ty Đức Giang - Công ty cổ phần"
+    },
+    {
+      "value": "MGC",
+      "label": "MGC - UPC - Cổ phiếu Công ty cổ phần Địa chất mỏ - TKV"
+    },
+    {
+      "value": "MFS",
+      "label": "MFS - UPC - Cổ phiếu Công ty cổ phần Dịch vụ kỹ thuật Mobifone"
+    },
+    {
+      "value": "MES",
+      "label": "MES - UPC - Cổ phiếu Công ty cổ phần Cơ điện Công trình"
+    },
+    {
+      "value": "MEL",
+      "label": "MEL - HNX - Cổ phiếu Công ty Cổ phần Thép Mê Lin"
+    },
+    {
+      "value": "MEG",
+      "label": "MEG - UPC - MEG"
+    },
+    {
+      "value": "MEF",
+      "label": "MEF - UPC - Cổ phiếu CTCP  MEINFA"
+    },
+    {
+      "value": "MEC",
+      "label": "MEC - HNX - Cổ phiếu Công ty cổ phần Cơ khí - Lắp máy Sông Đà"
+    },
+    {
+      "value": "MDN",
+      "label": "MDN - UPC - Co phieu Cong ty co phan Tong Cong ty May Dong Nai"
+    },
+    {
+      "value": "MDG",
+      "label": "MDG - HOSE - Cổ phiếu CTCP Miền Đông"
+    },
+    {
+      "value": "MDF",
+      "label": "MDF - UPC - Cổ phiếu CTCP Gỗ MDF  VRG - Quảng Trị"
+    },
+    {
+      "value": "MDC",
+      "label": "MDC - HNX - Cổ phiếu Công ty Cổ phần Than Mông Dương - Vinacomin"
+    },
+    {
+      "value": "MDA",
+      "label": "MDA - UPC - Cổ phiếu Công ty cổ phần Môi trường Đô thị Đông Anh"
+    },
+    {
+      "value": "MCT",
+      "label": "MCT - UPC - Cổ phiếu Công ty cổ phần Kinh doanh Vật tư và Xây dựng"
+    },
+    {
+      "value": "MCP",
+      "label": "MCP - HOSE - Cổ phiếu CTCP In & Bao bì Mỹ Châu"
+    },
+    {
+      "value": "MCO",
+      "label": "MCO - HNX - Cổ phiếu Công ty cổ phần Đầu tư và Xây dựng BDC Việt Nam"
+    },
+    {
+      "value": "MCI",
+      "label": "MCI - UPC - Cổ phiếu Công ty cổ phần Đầu tư Xây dựng và Phát triển vật liệu IDICO"
+    },
+    {
+      "value": "MCH",
+      "label": "MCH - UPC - Cổ phiếu Công ty cổ phần Hàng tiêu dùng MASAN"
+    },
+    {
+      "value": "MCG",
+      "label": "MCG - HOSE - Cổ phiếu CTCP Cơ điện & Xây dựng Việt Nam"
+    },
+    {
+      "value": "MCF",
+      "label": "MCF - HNX - Cổ phiếu CTCP Xây lắp Cơ khí & Lương thực Thực phẩm"
+    },
+    {
+      "value": "MCC",
+      "label": "MCC - HNX - Cổ phiếu CTCP Gạch ngói cao cấp"
+    },
+    {
+      "value": "MC3",
+      "label": "MC3 - UPC - Cổ phiếu Công ty cổ phần Khoáng sản 3 - Vimico"
+    },
+    {
+      "value": "MBS",
+      "label": "MBS - HNX - Cổ phiếu Công ty cổ phần Chứng khoán MB"
+    },
+    {
+      "value": "MBN",
+      "label": "MBN - UPC - Co phieu Cong ty co phan Moi truong va Cong trinh do thi Bac Ninh"
+    },
+    {
+      "value": "MBG",
+      "label": "MBG - HNX - Cổ phiếu CTCP Đầu tư Phát triển Xây dựng và Thương Mại Việt Nam"
+    },
+    {
+      "value": "MBB",
+      "label": "MBB - HOSE - Cổ phiếu Ngân hàng Thương mại cổ phần Quân đội"
+    },
+    {
+      "value": "MAS",
+      "label": "MAS - HNX - Cổ phiếu CTCP dịch vụ hàng không sân bay Đà Nẵng"
+    },
+    {
+      "value": "MAC",
+      "label": "MAC - HNX - Cổ phiếu CTCP Cung ứng & Dịch vụ Kỹ thuật Hàng hải"
+    },
+    {
+      "value": "M10",
+      "label": "M10 - UPC - Co phieuTong cong ty May 10 - Cong ty co phan"
+    },
+    {
+      "value": "LWS",
+      "label": "LWS - UPC - Cổ phiếu Công ty cổ phần Cấp nước tỉnh Lào Cai"
+    },
+    {
+      "value": "LUT",
+      "label": "LUT - HNX - Cổ phiếu CTCP Đầu tư Xây dựng Lượng Tài"
+    },
+    {
+      "value": "LTG",
+      "label": "LTG - UPC - Cổ phiếu Công ty cổ phần Tập đoàn Lộc Trời"
+    },
+    {
+      "value": "LTC",
+      "label": "LTC - UPC - Cổ phiếu CTCP Điện nhẹ Viễn thông"
+    },
+    {
+      "value": "LSS",
+      "label": "LSS - HOSE - Cổ phiếu CTCP Mía đường Lam Sơn"
+    },
+    {
+      "value": "LQN",
+      "label": "LQN - UPC - Cổ phiếu Công ty cổ phần Licogi Quảng Ngãi"
+    },
+    {
+      "value": "LPB",
+      "label": "LPB - UPC - Cổ phiếu Ngân hàng Thương mại cổ phần Bưu điện Liên Việt"
+    },
+    {
+      "value": "LO5",
+      "label": "LO5 - HNX - Cổ phiếu CTCP Lilama 5"
+    },
+    {
+      "value": "LNC",
+      "label": "LNC - UPC - Co phieu Cong ty co phan Le Ninh"
+    },
+    {
+      "value": "LMI",
+      "label": "LMI - UPC - Cổ phiếu Công ty cổ phần Đầu tư xây dựng lắp máy IDICO"
+    },
+    {
+      "value": "LMH",
+      "label": "LMH - HOSE - Co phieu Cong ty co phan Landmark Holding"
+    },
+    {
+      "value": "LMC",
+      "label": "LMC - UPC - Cổ phiếu Công ty Cổ phần Khoáng sản Latca"
+    },
+    {
+      "value": "LM8",
+      "label": "LM8 - HOSE - Cổ phiếu CTCP Lilama18"
+    },
+    {
+      "value": "LM7",
+      "label": "LM7 - HNX - Cổ phiếu CTCP Lilama 7"
+    },
+    {
+      "value": "LM3",
+      "label": "LM3 - UPC - Cổ phiếu CTCP Lilama 3"
+    },
+    {
+      "value": "LLM",
+      "label": "LLM - UPC - Cổ phiếu Tổng công ty lắp máy Việt Nam - CTCP"
+    },
+    {
+      "value": "LKW",
+      "label": "LKW - UPC - Cổ phiếu CTCP Cấp nước Long Khánh"
+    },
+    {
+      "value": "LIX",
+      "label": "LIX - HOSE - Cổ phiếu CTCP Bột giặt LIX"
+    },
+    {
+      "value": "LIG",
+      "label": "LIG - HNX - Cổ phiếu CTCP LICOGI 13"
+    },
+    {
+      "value": "LIC",
+      "label": "LIC - UPC - Cổ phiếu Tổng Công ty Licogi – CTCP"
+    },
+    {
+      "value": "LHG",
+      "label": "LHG - HOSE - Cổ phiếu CTCP Long Hậu"
+    },
+    {
+      "value": "LHC",
+      "label": "LHC - HNX - Cổ phiếu CTCP Đầu tư & Xây dựng Thủy lợi Lâm Đồng"
+    },
+    {
+      "value": "LGL",
+      "label": "LGL - HOSE - Cổ phiếu CTCP Đầu tư & Phát triển Đô thị Long Giang"
+    },
+    {
+      "value": "LGC",
+      "label": "LGC - HOSE - Công ty Cổ phần Đầu tư Cầu đường CII"
+    },
+    {
+      "value": "LG9",
+      "label": "LG9 - UPC - Cổ phiếu Công ty Cổ phần Cơ giới và Xây lắp số 9"
+    },
+    {
+      "value": "LEC",
+      "label": "LEC - HOSE - Cổ phiếu Công ty cổ phần Bất động sản điện lực Miền Trung"
+    },
+    {
+      "value": "LDW",
+      "label": "LDW - UPC - Co phieu Cong ty co phan Cap thoat nuoc Lam Dong"
+    },
+    {
+      "value": "LDP",
+      "label": "LDP - HNX - Cổ phiếu CTCP Dược Lâm Đồng - Ladophar"
+    },
+    {
+      "value": "LDG",
+      "label": "LDG - HOSE - Cổ phiếu Công ty cổ phần Đầu tư LDG"
+    },
+    {
+      "value": "LCW",
+      "label": "LCW - UPC - Cổ phiếu Công ty cổ phần Nước sạch Lai Châu"
+    },
+    {
+      "value": "LCS",
+      "label": "LCS - HNX - Cổ phiếu CTCP Licogi 166"
+    },
+    {
+      "value": "LCM",
+      "label": "LCM - HOSE - Cổ phiếu CTCP khai thác và chế biến khoáng sản Lào Cai"
+    },
+    {
+      "value": "LCG",
+      "label": "LCG - HOSE - Cổ phiếu CTCP Licogi 16"
+    },
+    {
+      "value": "LCD",
+      "label": "LCD - HNX - Cổ phiếu CTCP Lilama Thí nghiệm Cơ Điện"
+    },
+    {
+      "value": "LCC",
+      "label": "LCC - UPC - Cổ phiếu CTCP Xi măng Lạng Sơn"
+    },
+    {
+      "value": "LBM",
+      "label": "LBM - HOSE - Cổ phiếu CTCP Khoáng sản & Vật liệu Xây dựng Lâm Đồng"
+    },
+    {
+      "value": "LBE",
+      "label": "LBE - HNX - Cổ phiếu CTCP Sách & Thiết bị trường học Long An"
+    },
+    {
+      "value": "LBC",
+      "label": "LBC - UPC - Cổ phiếu Công ty cổ phần Thương mại - Đầu tư Long Biên"
+    },
+    {
+      "value": "LAW",
+      "label": "LAW - UPC - Cổ phiếu Công ty cổ phần cấp thoát nước Long An"
+    },
+    {
+      "value": "LAS",
+      "label": "LAS - HNX - Cổ phiếu CTCP Supe Phốt phát và Hóa chất Lâm Thao"
+    },
+    {
+      "value": "LAI",
+      "label": "LAI - UPC - Cổ phiếu Công ty cổ phần Đầu tư Xây dựng Long An IDICO"
+    },
+    {
+      "value": "LAF",
+      "label": "LAF - HOSE - Cổ phiếu CTCP Chế biến Hàng xuất khẩu Long An"
+    },
+    {
+      "value": "L63",
+      "label": "L63 - UPC - Cổ phiếu Công ty cổ phần Lilama 69-3"
+    },
+    {
+      "value": "L62",
+      "label": "L62 - HNX - Cổ phiếu CTCP Lilama 69-2"
+    },
+    {
+      "value": "L61",
+      "label": "L61 - HNX - Cổ phiếu CTCP Lilama 69-1"
+    },
+    {
+      "value": "L45",
+      "label": "L45 - UPC - Cổ phiếu Công ty cổ phần Lilama 45.1"
+    },
+    {
+      "value": "L44",
+      "label": "L44 - UPC - Cổ phiếu CTCP Lilama 45.4"
+    },
+    {
+      "value": "L43",
+      "label": "L43 - HNX - Cổ phiếu CTCP Lilama 45.3"
+    },
+    {
+      "value": "L35",
+      "label": "L35 - HNX - Cổ phiếu CTCP Cơ khí Lắp máy Lilama"
+    },
+    {
+      "value": "L18",
+      "label": "L18 - HNX - Cổ phiếu CTCP Đầu tư & Xây dựng số 18"
+    },
+    {
+      "value": "L14",
+      "label": "L14 - HNX - Cổ phiếu CTCP Licogi 14"
+    },
+    {
+      "value": "L12",
+      "label": "L12 - UPC - Cổ phiếu Công ty cổ phần Licogi 12"
+    },
+    {
+      "value": "L10",
+      "label": "L10 - HOSE - Cổ phiếu CTCP LILAMA 10"
+    },
+    {
+      "value": "KVC",
+      "label": "KVC - HNX - Cổ phiếu Công ty cổ phần sản xuất xuất nhập khẩu Inox Kim Vĩ"
+    },
+    {
+      "value": "KTU",
+      "label": "KTU - UPC - Cổ phiếu Công ty cổ phần Môi trường đô thị Kon Tum"
+    },
+    {
+      "value": "KTT",
+      "label": "KTT - HNX - Cổ phiếu CTCP Đầu tư thiết bị & Xây lắp điện Thiên Trường"
+    },
+    {
+      "value": "KTS",
+      "label": "KTS - HNX - Cổ phiếu CTCP Đường Kon Tum"
+    },
+    {
+      "value": "KTL",
+      "label": "KTL - UPC - Công ty cổ phần Kim khí Thăng Long"
+    },
+    {
+      "value": "KTC",
+      "label": "KTC - UPC - Cổ phiếu Công ty cổ phần Thương mại Kiên Giang"
+    },
+    {
+      "value": "KTB",
+      "label": "KTB - UPC - Cổ phiếu CTCP Đầu tư Khoáng sản Tây Bắc"
+    },
+    {
+      "value": "KSV",
+      "label": "KSV - UPC - Cổ phiếu Tổng Công ty Khoáng sản TKV – CTCP"
+    },
+    {
+      "value": "KST",
+      "label": "KST - HNX - Cổ phiếu CTCP KASATI"
+    },
+    {
+      "value": "KSQ",
+      "label": "KSQ - HNX - Cổ phiếu Công ty cổ phần CNC Capital Việt Nam"
+    },
+    {
+      "value": "KSK",
+      "label": "KSK - HNX - Cổ phiếu CTCP Khoáng sản luyện kim màu"
+    },
+    {
+      "value": "KSH",
+      "label": "KSH - HOSE - Cổ phiếu Công ty cổ phần Đầu tư và Phát triển KSH"
+    },
+    {
+      "value": "KSE",
+      "label": "KSE - UPC - Cổ phiếu Công ty cổ phần Xuất khẩu Thủy sản Khánh Hòa"
+    },
+    {
+      "value": "KSD",
+      "label": "KSD - HNX - Cổ phiếu Tổng CTCP Xuất khẩu Đông Nam Á Hamico"
+    },
+    {
+      "value": "KSB",
+      "label": "KSB - HOSE - Cổ phiếu CTCP Khoáng sản & Xây dựng Bình Dương"
+    },
+    {
+      "value": "KSA",
+      "label": "KSA - UPC - Cổ phiếu CTCP Công nghiệp Khoáng Sản Bình Thuận"
+    },
+    {
+      "value": "KPF",
+      "label": "KPF - HOSE - Cổ phiếu Công ty cổ phần Đầu tư Tài chính Hoàng Minh"
+    },
+    {
+      "value": "KOS",
+      "label": "KOS - HOSE - Cổ phiếu Công ty cổ phần Kosy"
+    },
+    {
+      "value": "KMT",
+      "label": "KMT - HNX - Cổ phiếu CTCP kim khí Miền Trung"
+    },
+    {
+      "value": "KMR",
+      "label": "KMR - HOSE - Cổ phiếu CTCP Mirae"
+    },
+    {
+      "value": "KLF",
+      "label": "KLF - HNX - Công ty cổ phần Liên doanh Đầu tư quốc tế KLF"
+    },
+    {
+      "value": "KLB",
+      "label": "KLB - UPC - Cổ phiếu Ngân hàng Thương mại cổ phần Kiên Long"
+    },
+    {
+      "value": "KKC",
+      "label": "KKC - HNX - Cổ phiếu CTCP Sản xuất & Kinh Doanh Kim Khí"
+    },
+    {
+      "value": "KIP",
+      "label": "KIP - UPC - Cổ phiếu Công ty cổ phần K.I.P Việt Nam"
+    },
+    {
+      "value": "KHW",
+      "label": "KHW - UPC - Cổ phiếu Công ty cổ phần Cấp thoát nước Khánh Hòa"
+    },
+    {
+      "value": "KHS",
+      "label": "KHS - HNX - Cổ phiếu Công ty cổ phần Kiên Hùng"
+    },
+    {
+      "value": "KHP",
+      "label": "KHP - HOSE - Cổ phiếu CTCP Điện lực Khánh Hòa"
+    },
+    {
+      "value": "KHL",
+      "label": "KHL - UPC - Cổ phiếu CTCP Khoáng sản và Vật liệu Xây dựng Hưng Long"
+    },
+    {
+      "value": "KHD",
+      "label": "KHD - UPC - Cổ phiếu Công ty cổ phần Khai thác, Chế biến Khoáng sản Hải Dương"
+    },
+    {
+      "value": "KHB",
+      "label": "KHB - UPC - Cổ phiếu CTCP khoáng sản Hoà Bình"
+    },
+    {
+      "value": "KHA",
+      "label": "KHA - UPC - Cổ phiếu Công ty CP Đầu tư và Dịch vụ Khánh Hội"
+    },
+    {
+      "value": "KGU",
+      "label": "KGU - UPC - Cổ phiếu Công ty cổ phần Phát triển Đô thị Kiên Giang"
+    },
+    {
+      "value": "KGM",
+      "label": "KGM - UPC - Cổ phiếu Công ty cổ phần Xuất nhập khẩu Kiên Giang"
+    },
+    {
+      "value": "KDM",
+      "label": "KDM - HNX - Cổ phiếu Công ty cổ phần Đầu tư HP Việt Nam"
+    },
+    {
+      "value": "KDH",
+      "label": "KDH - HOSE - Cổ phiếu CTCP Đầu tư & Kinh doanh Nhà Khang Điền"
+    },
+    {
+      "value": "KDF",
+      "label": "KDF - UPC - Cổ phiếu Công ty cổ phần Thực phẩm Đông lạnh KIDO"
+    },
+    {
+      "value": "KDC",
+      "label": "KDC - HOSE - Cổ phiếu Công ty Cổ phần Tập đoàn KIDO"
+    },
+    {
+      "value": "KCE",
+      "label": "KCE - UPC - Cổ phiếu CTCP Bê tông Ly tâm Điện lực Khánh Hòa"
+    },
+    {
+      "value": "KCB",
+      "label": "KCB - UPC - Cổ phiếu Công ty cổ phần Khoáng sản và Luyện kim Cao Bằng"
+    },
+    {
+      "value": "KBE",
+      "label": "KBE - UPC - Cổ phiếu CTCP Sách - Thiết bị Trường học Kiên Giang"
+    },
+    {
+      "value": "KBC",
+      "label": "KBC - HOSE - Cổ phiếu Tổng Công ty Phát triển Đô thị Kinh Bắc-CTCP"
+    },
+    {
+      "value": "KAC",
+      "label": "KAC - UPC - Cổ phiếu CTCP Đầu tư Địa ốc Khang An"
+    },
+    {
+      "value": "JVC",
+      "label": "JVC - HOSE - Cổ phiếu CTCP Thiết bị Y tế Việt Nhật"
+    },
+    {
+      "value": "JOS",
+      "label": "JOS - UPC - Cổ phiếu Công ty cổ phần Chế biến Thủy sản Xuất khẩu Minh Hải"
+    },
+    {
+      "value": "IVS",
+      "label": "IVS - HNX - Cổ phiếu CTCP Chứng khoán Đầu tư Việt Nam"
+    },
+    {
+      "value": "ITS",
+      "label": "ITS - UPC - Cổ phiếu Công ty cổ phần Đầu tư, Thương mại và Dịch vụ - Vinacomin"
+    },
+    {
+      "value": "ITQ",
+      "label": "ITQ - HNX - Cổ phiếu CTCP Tập Đoàn Thiên Quang"
+    },
+    {
+      "value": "ITD",
+      "label": "ITD - HOSE - Cổ phiếu CTCP Công nghệ Tiên Phong"
+    },
+    {
+      "value": "ITC",
+      "label": "ITC - HOSE - Cổ phiếu CTCP Đầu tư - Kinh doanh Nhà"
+    },
+    {
+      "value": "ITA",
+      "label": "ITA - HOSE - Cổ phiếu CTCP Đầu tư – Công nghiệp Tân Tạo"
+    },
+    {
+      "value": "IST",
+      "label": "IST - UPC - Cổ phiếu Công ty cổ phần ICD Tân Cảng Sóng Thần"
+    },
+    {
+      "value": "ISH",
+      "label": "ISH - UPC - Cổ phiếu Công ty cổ phần Thủy điện Srok Phu Miêng IDICO"
+    },
+    {
+      "value": "ISG",
+      "label": "ISG - UPC - Cổ phiếu Công ty cổ phần Vận tải biển và Hợp tác lao động quốc tế"
+    },
+    {
+      "value": "IRC",
+      "label": "IRC - UPC - Co phieu Cong ty co phan Cao su Cong nghiep"
+    },
+    {
+      "value": "IPH",
+      "label": "IPH - UPC - Cổ phiếu Công ty cổ phần In và Phát hành biểu mẫu thống kê"
+    },
+    {
+      "value": "IPA",
+      "label": "IPA - UPC - Cổ phiếu Công ty cổ phần Tập đoàn Đầu tư I.P.A"
+    },
+    {
+      "value": "INN",
+      "label": "INN - HNX - Cổ phiếu CTCP Bao bì & In nông nghiệp"
+    },
+    {
+      "value": "INC",
+      "label": "INC - HNX - Cổ phiếu CTCP Tư vấn đầu tư IDICO"
+    },
+    {
+      "value": "IN4",
+      "label": "IN4 - UPC - Cổ phiếu CTCP In số 4"
+    },
+    {
+      "value": "IMP",
+      "label": "IMP - HOSE - Cổ phiếu CTCP Dược phẩm Imexpharm"
+    },
+    {
+      "value": "IME",
+      "label": "IME - UPC - Cổ phiếu CTCP Cơ khí & Xây lắp Công nghiệp"
+    },
+    {
+      "value": "ILS",
+      "label": "ILS - UPC - Co phieu Cong ty co phan Dau tu Thuong mai va Dich vu Quoc te"
+    },
+    {
+      "value": "ILC",
+      "label": "ILC - UPC - Cổ phiếu CTCP Hợp tác lao động với nước ngoài"
+    },
+    {
+      "value": "ILB",
+      "label": "ILB - HOSE - ILB - Cong ty co phan ICD Tan Cang - Long Binh"
+    },
+    {
+      "value": "ILA",
+      "label": "ILA - UPC - Cổ phiếu Công ty cổ phần TRT"
+    },
+    {
+      "value": "IKH",
+      "label": "IKH - UPC - Cổ phiếu Công ty cổ phần In Khoa học Kỹ thuật"
+    },
+    {
+      "value": "IJC",
+      "label": "IJC - HOSE - Cổ phiếu CTCP Phát triển Hạ tầng kỹ thuật"
+    },
+    {
+      "value": "IHK",
+      "label": "IHK - UPC - Cổ phiếu CTCP In Hàng Không"
+    },
+    {
+      "value": "IFS",
+      "label": "IFS - UPC - Cổ phiếu CTCP Thực phẩm Quốc Tế"
+    },
+    {
+      "value": "IFC",
+      "label": "IFC - UPC - Công ty cổ phần Thiết kế Công nghiệp Hóa chất"
+    },
+    {
+      "value": "IDV",
+      "label": "IDV - HNX - Cổ phiếu CTCP Phát triển Hạ tầng Vĩnh Phúc"
+    },
+    {
+      "value": "IDN",
+      "label": "IDN - UPC - Cổ phiếu Công ty cổ phần In và Dịch vụ Đà Nẵng"
+    },
+    {
+      "value": "IDJ",
+      "label": "IDJ - HNX - Cổ phiếu Công ty cổ phần Đầu tư IDJ Việt Nam"
+    },
+    {
+      "value": "IDI",
+      "label": "IDI - HOSE - Cổ phiếu CTCP Đầu tư và Phát triển Đa quốc gia I.D.I"
+    },
+    {
+      "value": "IDC",
+      "label": "IDC - UPC - Cổ phiếu Tổng công ty IDICO - CTCP"
+    },
+    {
+      "value": "ICN",
+      "label": "ICN - UPC - Cổ phiếu Công ty cổ phần Đầu tư Xây dựng Dầu khí IDICO"
+    },
+    {
+      "value": "ICI",
+      "label": "ICI - UPC - Cổ phiếu CTCP Đầu tư & Xây dựng Công nghiệp"
+    },
+    {
+      "value": "ICG",
+      "label": "ICG - HNX - Cổ phiếu CTCP xây dựng Sông Hồng"
+    },
+    {
+      "value": "ICF",
+      "label": "ICF - UPC - Cổ phiếu CTCP Đầu tư Thương mại Thủy sản"
+    },
+    {
+      "value": "ICC",
+      "label": "ICC - UPC - Cổ phiếu Công ty cổ phần Xây dựng công nghiệp"
+    },
+    {
+      "value": "IBD",
+      "label": "IBD - UPC - Cổ phiếu công ty cổ phần In tổng hợp Bình Dương"
+    },
+    {
+      "value": "IBC",
+      "label": "IBC - HOSE - Cổ phiếu Công ty cổ phần Đầu tư Apax Holdings"
+    },
+    {
+      "value": "I10",
+      "label": "I10 - UPC - Cổ phiếu Công ty cổ phần Đầu tư xây dựng số 10 IDICO"
+    },
+    {
+      "value": "HWS",
+      "label": "HWS - UPC - Co phieu Cong ty Co phan Cap nuoc Thua Thien Hue"
+    },
+    {
+      "value": "HVX",
+      "label": "HVX - HOSE - Cổ phiếu CTCP Xi măng Vicem Hải Vân"
+    },
+    {
+      "value": "HVT",
+      "label": "HVT - HNX - Cổ phiếu CTCP hóa chất Việt Trì"
+    },
+    {
+      "value": "HVN",
+      "label": "HVN - HOSE - Cổ phiếu Tổng Công ty Hàng không Việt Nam - CTCP"
+    },
+    {
+      "value": "HVH",
+      "label": "HVH - HOSE - Co phieu Cong ty co phan Dau tu va Cong nghe HVC"
+    },
+    {
+      "value": "HVG",
+      "label": "HVG - HOSE - Cổ phiếu CTCP Hùng Vương"
+    },
+    {
+      "value": "HVA",
+      "label": "HVA - HNX - Cổ phiếu Công ty cổ phần Nông nghiệp xanh Hưng Việt"
+    },
+    {
+      "value": "HUT",
+      "label": "HUT - HNX - Cổ phiếu CTCP TASCO"
+    },
+    {
+      "value": "HUG",
+      "label": "HUG - UPC - Cổ phiếu Tổng công ty May Hưng Yên – Công ty cổ phần"
+    },
+    {
+      "value": "HUB",
+      "label": "HUB - HOSE - Cổ phiếu Công ty Cổ phần Xây lắp Thừa Thiên Huế"
+    },
+    {
+      "value": "HU6",
+      "label": "HU6 - UPC - Cổ phiếu CTCP Đầu tư Phát triển nhà và Đô thị HUD6"
+    },
+    {
+      "value": "HU4",
+      "label": "HU4 - UPC - Cổ phiếu CTCP Đầu tư và Xây dựng HUD4"
+    },
+    {
+      "value": "HU3",
+      "label": "HU3 - HOSE - Cổ phiếu CTCP Đầu tư và Xây dựng HUD3"
+    },
+    {
+      "value": "HU1",
+      "label": "HU1 - HOSE - Cổ phiếu CTCP Đầu tư & Xây dựng HUD1"
+    },
+    {
+      "value": "HTW",
+      "label": "HTW - UPC - Cổ phiếu Công ty cổ phần Cấp nước Hà Tĩnh"
+    },
+    {
+      "value": "HTV",
+      "label": "HTV - HOSE - Cổ phiếu CTCP Vận tải Hà Tiên"
+    },
+    {
+      "value": "HTU",
+      "label": "HTU - UPC - Cổ phiếu Công ty cổ phần Môi trường và Công trình đô thị Hà Tĩnh"
+    },
+    {
+      "value": "HTT",
+      "label": "HTT - HOSE - Cổ phiếu Công ty cổ phần Thương mại Hà Tây"
+    },
+    {
+      "value": "HTR",
+      "label": "HTR - UPC - Cổ phiếu Công ty cổ phần Đường sắt Hà Thái"
+    },
+    {
+      "value": "HTP",
+      "label": "HTP - HNX - Cổ phiếu Công ty cổ phần HTINVEST"
+    },
+    {
+      "value": "HTN",
+      "label": "HTN - HOSE - Co phieu Cong ty co phan Hung Thinh Incons"
+    },
+    {
+      "value": "HTM",
+      "label": "HTM - UPC - Co phieu Tong Cong ty Thuong mai Ha Noi _ Cong ty co phan"
+    },
+    {
+      "value": "HTL",
+      "label": "HTL - HOSE - Cổ phiếu CTCP Kỹ thuật & Ô tô Trường Long"
+    },
+    {
+      "value": "HTK",
+      "label": "HTK - UPC - Co phieu Cong ty co phan Dang kiem xe co gioi Hai Duong"
+    },
+    {
+      "value": "HTI",
+      "label": "HTI - HOSE - Cổ phiếu CTCP Đầu tư Phát triển hạ tầng IDICO"
+    },
+    {
+      "value": "HTG",
+      "label": "HTG - UPC - TỔNG CTCP DỆT MAY HOÀ THỌ"
+    },
+    {
+      "value": "HTE",
+      "label": "HTE - UPC - Cổ phiếu Công ty cổ phần Đầu tư Kinh doanh Điện lực Thành phố Hồ Chí Minh"
+    },
+    {
+      "value": "HTC",
+      "label": "HTC - HNX - Cổ phiếu CTCP Thương mại Hóc Môn"
+    },
+    {
+      "value": "HT1",
+      "label": "HT1 - HOSE - Cổ phiếu CTCP Xi Măng Hà Tiên 1"
+    },
+    {
+      "value": "HST",
+      "label": "HST - HNX - Cổ phiếu CTCP Phát hành Sách & Thiết bị Trường học Hưng Yên"
+    },
+    {
+      "value": "HSM",
+      "label": "HSM - UPC - Cổ phiếu Tổng CTCP Dệt may Hà Nội"
+    },
+    {
+      "value": "HSL",
+      "label": "HSL - HOSE - CTCP CBNS HONG HA SON LA"
+    },
+    {
+      "value": "HSI",
+      "label": "HSI - UPC - Cổ phiếu CTCP Vật tư Tổng hợp & Phân bón Hóa sinh"
+    },
+    {
+      "value": "HSG",
+      "label": "HSG - HOSE - Cổ phiếu CTCP Tập Đoàn Hoa Sen"
+    },
+    {
+      "value": "HSA",
+      "label": "HSA - UPC - Cổ phiếu Công ty cổ phần HESTIA"
+    },
+    {
+      "value": "HRT",
+      "label": "HRT - UPC - Cổ phiếu Công ty cổ phần Vận tải đường sắt Hà Nội"
+    },
+    {
+      "value": "HRG",
+      "label": "HRG - UPC - Cổ phiếu Công ty cổ phần Cao su Hà Nội"
+    },
+    {
+      "value": "HRC",
+      "label": "HRC - HOSE - Cổ phiếu CTCP Cao su Hòa Bình"
+    },
+    {
+      "value": "HRB",
+      "label": "HRB - UPC - Cổ phiếu Công ty cổ phần Harec Đầu tư và Thương Mại"
+    },
+    {
+      "value": "HQC",
+      "label": "HQC - HOSE - Cổ phiếu CTCP Tư vấn - Thương mại - Dịch vụ Địa ốc Hoàng Quân"
+    },
+    {
+      "value": "HPX",
+      "label": "HPX - HOSE - Co phieu Cong ty co phan Dau tu Hai Phat"
+    },
+    {
+      "value": "HPW",
+      "label": "HPW - UPC - Cổ phiếu Công ty cổ phần cấp nước Hải Phòng"
+    },
+    {
+      "value": "HPU",
+      "label": "HPU - UPC - Cổ phiếu Công ty cổ phần 28 Hưng Phú"
+    },
+    {
+      "value": "HPT",
+      "label": "HPT - UPC - Cổ phiếu CTCP Dịch vụ Công nghệ Tin học HPT"
+    },
+    {
+      "value": "HPP",
+      "label": "HPP - UPC - Cổ phiếu CTCP Sơn Hải Phòng"
+    },
+    {
+      "value": "HPM",
+      "label": "HPM - HNX - Cổ phiếu Công ty cổ phần Xây dựng Thương mại và Khoáng sản Hoàng Phúc"
+    },
+    {
+      "value": "HPI",
+      "label": "HPI - UPC - CTCP Khu công nghiệp Hiệp Phước"
+    },
+    {
+      "value": "HPH",
+      "label": "HPH - UPC - Cổ phiếu Công ty cổ phần Hóa Chất Hưng Phát Hà Bắc"
+    },
+    {
+      "value": "HPG",
+      "label": "HPG - HOSE - Cổ phiếu CTCP Tập Đoàn Hòa Phát"
+    },
+    {
+      "value": "HPD",
+      "label": "HPD - UPC - Cổ phiếu Công ty cổ phần Thủy điện Đăk Đoa"
+    },
+    {
+      "value": "HPB",
+      "label": "HPB - UPC - Cổ phiếu CTCP Bao bì PP"
+    },
+    {
+      "value": "HOT",
+      "label": "HOT - HOSE - Cổ phiếu CTCP Du lịch Dịch vụ Hội An"
+    },
+    {
+      "value": "HOM",
+      "label": "HOM - HNX - Cổ phiếu Công ty Cổ phần Xi măng Vicem Hoàng Mai"
+    },
+    {
+      "value": "HNT",
+      "label": "HNT - UPC - Cổ phiếu Công ty cổ phần Công ty cổ phần Xe điện Hà Nội"
+    },
+    {
+      "value": "HNR",
+      "label": "HNR - UPC - Co phieu Cong ty co phan Con ruou Ha Noi"
+    },
+    {
+      "value": "HNP",
+      "label": "HNP - UPC - Cổ phiếu Công ty cổ phần Hanel Xốp nhựa"
+    },
+    {
+      "value": "HNM",
+      "label": "HNM - HNX - Cổ phiếu CTCP Sữa Hà Nội"
+    },
+    {
+      "value": "HNI",
+      "label": "HNI - UPC - Cổ phiếu Công ty cổ phần May Hữu Nghị"
+    },
+    {
+      "value": "HNG",
+      "label": "HNG - HOSE - Cổ phiếu Công ty cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai"
+    },
+    {
+      "value": "HNF",
+      "label": "HNF - UPC - Cổ phiếu Công ty cổ phần Thực phẩm Hữu Nghị"
+    },
+    {
+      "value": "HND",
+      "label": "HND - UPC - Cổ phiếu Công ty cổ phần Nhiệt điện Hải Phòng"
+    },
+    {
+      "value": "HNB",
+      "label": "HNB - UPC - Cổ phiếu Công ty cổ phần Bến xe Hà Nội"
+    },
+    {
+      "value": "HNA",
+      "label": "HNA - UPC - Cổ phiếu Công ty cổ phần Thủy điện Hủa Na"
+    },
+    {
+      "value": "HMS",
+      "label": "HMS - UPC - Cổ phiếu Công ty cổ phần Xây dựng bảo tàng Hồ Chí Minh"
+    },
+    {
+      "value": "HMH",
+      "label": "HMH - HNX - Cổ phiếu CTCP Hải Minh"
+    },
+    {
+      "value": "HMG",
+      "label": "HMG - UPC - Cổ phiếu Công ty cổ phần Kim khí Hà Nội – VNSTEEL"
+    },
+    {
+      "value": "HMC",
+      "label": "HMC - HOSE - Cổ phiếu Công ty cổ phần Kim Khí TP.Hồ Chí Minh – Vnsteel"
+    },
+    {
+      "value": "HLY",
+      "label": "HLY - HNX - Cổ phiếu Công ty Cổ phần Viglacera Hạ Long I"
+    },
+    {
+      "value": "HLS",
+      "label": "HLS - UPC - Cổ phiếu Công ty cổ phần Sứ kỹ thuật Hoàng Liên Sơn"
+    },
+    {
+      "value": "HLR",
+      "label": "HLR - UPC - Cổ phiếu Công ty cổ phần đường sắt Hà Lạng"
+    },
+    {
+      "value": "HLG",
+      "label": "HLG - HOSE - Cổ phiếu CTCP Tập đoàn Hoàng Long"
+    },
+    {
+      "value": "HLE",
+      "label": "HLE - UPC - Cổ phiếu Công ty cổ phần Điện chiếu sáng Hải Phòng"
+    },
+    {
+      "value": "HLD",
+      "label": "HLD - HNX - Cổ phiếu CTCP Đầu tư và Phát triển Bất động sản HUDLAND"
+    },
+    {
+      "value": "HLC",
+      "label": "HLC - HNX - Cổ phiếu CTCP Than Hà Lầm - Vinacomin"
+    },
+    {
+      "value": "HLB",
+      "label": "HLB - UPC - Cổ phiếu Công ty Cổ phần Bia & Nước giải khát Hạ Long"
+    },
+    {
+      "value": "HLA",
+      "label": "HLA - UPC - Cổ phiếu CTCP Hữu Liên Á Châu"
+    },
+    {
+      "value": "HKT",
+      "label": "HKT - HNX - Cổ phiếu Công ty cổ phần Chè Hiệp Khánh"
+    },
+    {
+      "value": "HKP",
+      "label": "HKP - UPC - Cổ phiếu CTCP Bao bì Hà Tiên"
+    },
+    {
+      "value": "HKB",
+      "label": "HKB - HNX - Cổ phiếu Công ty cổ phần Nông Nghiệp và Thực phẩm Hà Nội - Kinh Bắc"
+    },
+    {
+      "value": "HJS",
+      "label": "HJS - HNX - Cổ phiếu CTCP Thủy điện Nậm Mu"
+    },
+    {
+      "value": "HJC",
+      "label": "HJC - UPC - Cổ phiếu Công ty cổ phần Hòa Việt"
+    },
+    {
+      "value": "HIZ",
+      "label": "HIZ - UPC - Cổ phiếu Công ty cổ phần Khu công nghiệp Hố Nai"
+    },
+    {
+      "value": "HII",
+      "label": "HII - HOSE - Cổ phiếu Công ty cổ phần An Tiến Industries"
+    },
+    {
+      "value": "HIG",
+      "label": "HIG - UPC - Cổ phiếu CTCP Tập đoàn HIPT"
+    },
+    {
+      "value": "HID",
+      "label": "HID - HOSE - Cổ phiếu Công ty cổ phần HALCOM Việt Nam"
+    },
+    {
+      "value": "HHV",
+      "label": "HHV - UPC - Cổ phiếu Công ty cổ phần Đầu tư hạ tầng giao thông Đèo Cả"
+    },
+    {
+      "value": "HHS",
+      "label": "HHS - HOSE - Cổ phiếu CTCP Đầu tư dịch vụ Hoàng Huy"
+    },
+    {
+      "value": "HHR",
+      "label": "HHR - UPC - Cổ phiếu Công ty cổ phần Đường sắt Hà Hải"
+    },
+    {
+      "value": "HHP",
+      "label": "HHP - HNX - Co phieu Cong ty co phan Giay Hoang Ha Hai Phong"
+    },
+    {
+      "value": "HHN",
+      "label": "HHN - UPC - Cổ phiếu Công ty cổ phần Vận tải và Dịch vụ Hàng hóa Hà Nội"
+    },
+    {
+      "value": "HHG",
+      "label": "HHG - HNX - Cổ phiếu CTCP Hoàng Hà"
+    },
+    {
+      "value": "HHC",
+      "label": "HHC - HNX - Cổ phiếu CTCP Bánh kẹo Hải Hà"
+    },
+    {
+      "value": "HHA",
+      "label": "HHA - UPC - CTCP Văn phòng phẩm Hồng Hà"
+    },
+    {
+      "value": "HGW",
+      "label": "HGW - UPC - Cổ phiếu Công ty cổ phần Cấp thoát nước – Công trình đô thị Hậu Giang"
+    },
+    {
+      "value": "HGM",
+      "label": "HGM - HNX - Cổ phiếu CTCP Cơ khí & Khoáng sản Hà Giang"
+    },
+    {
+      "value": "HFX",
+      "label": "HFX - UPC - Cổ phiếu CTCP Sản xuất - Xuất nhập khẩu Thanh Hà"
+    },
+    {
+      "value": "HFT",
+      "label": "HFT - UPC - Cổ phiếu Công ty cổ phần Chứng khoán HFT"
+    },
+    {
+      "value": "HFS",
+      "label": "HFS - UPC - Cổ phiếu Công ty cổ phần Thương mại Dịch vụ Thời trang Hà Nội"
+    },
+    {
+      "value": "HFC",
+      "label": "HFC - UPC - Cổ phiếu Công ty cổ phần Xăng dầu HFC"
+    },
+    {
+      "value": "HFB",
+      "label": "HFB - UPC - Cổ phiếu Công ty cổ phần Công trình Cầu phà Thành phố Hồ Chí Minh"
+    },
+    {
+      "value": "HEV",
+      "label": "HEV - HNX - Cổ phiếu CTCP Sách Đại học - Dạy nghề"
+    },
+    {
+      "value": "HES",
+      "label": "HES - UPC - Cổ phiếu Công ty Cổ phần dịch vụ Giải trí Sài Gòn"
+    },
+    {
+      "value": "HEP",
+      "label": "HEP - UPC - Cổ phiếu Công ty cổ phần Môi trường và Công trình đô thị Huế"
+    },
+    {
+      "value": "HEM",
+      "label": "HEM - UPC - Cổ phiếu Công ty cổ phần Chế tạo Điện cơ Hà Nội"
+    },
+    {
+      "value": "HEJ",
+      "label": "HEJ - UPC - Cổ phiếu Tổng Công ty Tư vấn Xây dựng Thủy Lợi Việt Nam – CTCP"
+    },
+    {
+      "value": "HEC",
+      "label": "HEC - UPC - Cổ phiếu Công ty cổ phần Tư vấn Xây dựng Thủy Lợi II"
+    },
+    {
+      "value": "HDW",
+      "label": "HDW - UPC - Cổ phiếu Công ty cổ phần Kinh doanh nước sạch Hải Dương"
+    },
+    {
+      "value": "HDP",
+      "label": "HDP - UPC - Cổ phiếu Công ty cổ phần Dược Hà Tĩnh"
+    },
+    {
+      "value": "HDO",
+      "label": "HDO - UPC - Cổ phiếu CTCP Hưng Đạo Container"
+    },
+    {
+      "value": "HDM",
+      "label": "HDM - UPC - Cổ phiếu CTCP Dệt - May Huế"
+    },
+    {
+      "value": "HDG",
+      "label": "HDG - HOSE - Cổ phiếu CTCP Hà Đô"
+    },
+    {
+      "value": "HDC",
+      "label": "HDC - HOSE - Cổ phiếu CTCP Phát Triển Nhà Bà Rịa Vũng Tàu"
+    },
+    {
+      "value": "HDB",
+      "label": "HDB - HOSE - Co phieu Ngan hang Thuong mai co phan Phat trien thanh pho Ho Chi Minh"
+    },
+    {
+      "value": "HDA",
+      "label": "HDA - HNX - Cổ phiếu CTCP Hãng sơn Đông Á"
+    },
+    {
+      "value": "HD8",
+      "label": "HD8 - UPC - Co phieu Cong ty co phan Dau tu phat trien nha va do thi HUD8"
+    },
+    {
+      "value": "HD3",
+      "label": "HD3 - UPC - CÔNG TY CỔ PHẦN ĐẦU TƯ PHÁT TRIỂN NHÀ VÀ ĐÔ THỊ MHDI 3"
+    },
+    {
+      "value": "HD2",
+      "label": "HD2 - UPC - Cổ phiếu Công ty cổ phần Đầu tư phát triển nhà HUD2"
+    },
+    {
+      "value": "HCT",
+      "label": "HCT - HNX - Cổ phiếu CTCP Thương mại Dịch vụ Vận tải Xi măng Hải Phòng"
+    },
+    {
+      "value": "HCS",
+      "label": "HCS - UPC - Cổ phiếu Công ty cổ phần Thông tin Tín hiệu Đường sắt Hà Nội"
+    },
+    {
+      "value": "HCM",
+      "label": "HCM - HOSE - Cổ phiếu CTCP Chứng khoán TP.HCM"
+    },
+    {
+      "value": "HCI",
+      "label": "HCI - UPC - Cổ phiếu CTCP Đầu tư - Xây dựng Hà Nội"
+    },
+    {
+      "value": "HCD",
+      "label": "HCD - HOSE - Cổ phiếu Công ty cổ phần Đầu tư Sản xuất và Thương mại"
+    },
+    {
+      "value": "HCC",
+      "label": "HCC - HNX - Cổ phiếu CTCP Bê tông Hòa Cầm - INTIMEX"
+    },
+    {
+      "value": "HC3",
+      "label": "HC3 - UPC - Cổ phiếu Công ty cổ phần Xây dựng số 3 Hải Phòng"
+    },
+    {
+      "value": "HBW",
+      "label": "HBW - UPC - Co phieu Cong ty co phan Nuoc sach Hoa Binh"
+    },
+    {
+      "value": "HBS",
+      "label": "HBS - HNX - Cổ phiếu CTCP Chứng khoán Hòa Bình"
+    },
+    {
+      "value": "HBH",
+      "label": "HBH - UPC - Cổ phiếu Công ty cổ phần Habeco Hải Phòng"
+    },
+    {
+      "value": "HBE",
+      "label": "HBE - HNX - Cổ phiếu CTCP Sách-Thiết bị trường học Hà Tĩnh"
+    },
+    {
+      "value": "HBD",
+      "label": "HBD - UPC - Cổ phiếu CTCP Bao bì PP Bình Dương"
+    },
+    {
+      "value": "HBC",
+      "label": "HBC - HOSE - Cổ phiếu CTCP Tập đoàn Xây dựng Hòa Bình"
+    },
+    {
+      "value": "HAX",
+      "label": "HAX - HOSE - Cổ phiếu CTCP Dịch Vụ Ô Tô Hàng Xanh"
+    },
+    {
+      "value": "HAV",
+      "label": "HAV - UPC - Cổ phiếu Công ty cổ phần Rượu Hapro"
+    },
+    {
+      "value": "HAT",
+      "label": "HAT - HNX - Cổ phiếu CTCP Thương mại Bia Hà Nội"
+    },
+    {
+      "value": "HAS",
+      "label": "HAS - HOSE - cổ phiếu Công ty cổ phần HACISCO"
+    },
+    {
+      "value": "HAR",
+      "label": "HAR - HOSE - Cổ phiếu CTCP Đầu tư Thương mại bất động sản An Dương Thảo Điền"
+    },
+    {
+      "value": "HAP",
+      "label": "HAP - HOSE - Cổ phiếu CTCP HAPACO"
+    },
+    {
+      "value": "HAN",
+      "label": "HAN - UPC - Cổ phiếu Tổng Công ty Xây dựng Hà Nội - CTCP"
+    },
+    {
+      "value": "HAM",
+      "label": "HAM - UPC - Cổ phiếu Công ty cổ phần Vật tư Hậu Giang"
+    },
+    {
+      "value": "HAI",
+      "label": "HAI - HOSE - Cổ phiếu CTCP Nông dược HAI"
+    },
+    {
+      "value": "HAH",
+      "label": "HAH - HOSE - Cổ phiếu Công ty cổ phần Vận tải và Xếp dở Hải An"
+    },
+    {
+      "value": "HAG",
+      "label": "HAG - HOSE - Cổ phiếu CTCP Hoàng Anh Gia Lai"
+    },
+    {
+      "value": "HAF",
+      "label": "HAF - UPC - Cổ phiếu Công ty cổ phần Thực phẩm Hà Nội"
+    },
+    {
+      "value": "HAD",
+      "label": "HAD - HNX - Cổ phiếu CTCP Bia Hà Nội - Hải Dương"
+    },
+    {
+      "value": "HAC",
+      "label": "HAC - UPC - Cổ phiếu Công ty cổ phần Chứng khoán Hải Phòng"
+    },
+    {
+      "value": "HAB",
+      "label": "HAB - UPC - Cổ phiếu Công ty cổ phần Sách và Thiết bị trường học Hà Nội"
+    },
+    {
+      "value": "H11",
+      "label": "H11 - UPC - Cổ phiếu CTCP Xây dựng HUD101"
+    },
+    {
+      "value": "GVT",
+      "label": "GVT - UPC - Cổ phiếu Công ty cổ phần Giấy Việt Trì"
+    },
+    {
+      "value": "GVR",
+      "label": "GVR - UPC - Cổ phiếu Tập đoàn Công nghiệp Cao su Việt Nam – Công ty cổ phần"
+    },
+    {
+      "value": "GTT",
+      "label": "GTT - UPC - Cổ phiếu CTCP Thuận Thảo"
+    },
+    {
+      "value": "GTS",
+      "label": "GTS - UPC - Cổ phiếu Công ty cổ phần Công trình Giao thông Sài Gòn"
+    },
+    {
+      "value": "GTN",
+      "label": "GTN - HOSE - Cổ phiếu Công ty cổ phần GTNFOODS"
+    },
+    {
+      "value": "GTH",
+      "label": "GTH - UPC - Cổ phiếu CTCP Xây dựng - Giao thông Thừa Thiên Huế"
+    },
+    {
+      "value": "GTD",
+      "label": "GTD - UPC - Cổ phiếu Công ty cổ phần Giầy Thượng Đình"
+    },
+    {
+      "value": "GTC",
+      "label": "GTC - UPC - Cổ phiếu Công ty cổ phần Trà Rồng Vàng"
+    },
+    {
+      "value": "GTA",
+      "label": "GTA - HOSE - Cổ phiếu CTCP Chế biến gỗ Thuận An"
+    },
+    {
+      "value": "GSP",
+      "label": "GSP - HOSE - Cổ phiếu CTCP Vận tải Sản phẩm khí Quốc Tế"
+    },
+    {
+      "value": "GSM",
+      "label": "GSM - UPC - Cổ phiếu Công ty cổ phần Thủy điện Hương Sơn"
+    },
+    {
+      "value": "GND",
+      "label": "GND - UPC - Cổ phiếu Công ty cổ phần Gạch ngói Đồng Nai"
+    },
+    {
+      "value": "GMX",
+      "label": "GMX - HNX - Cổ phiếu CTCP gạch ngói Gốm xây dựng Mỹ Xuân"
+    },
+    {
+      "value": "GMD",
+      "label": "GMD - HOSE - Cổ phiếu Công ty cổ phần Gemadept"
+    },
+    {
+      "value": "GMC",
+      "label": "GMC - HOSE - Cổ phiếu CTCP Garmex Sài Gòn"
+    },
+    {
+      "value": "GLW",
+      "label": "GLW - UPC - Cổ phiếu Công ty cổ phần Cấp nước Gia Lai"
+    },
+    {
+      "value": "GLT",
+      "label": "GLT - HNX - Cổ phiếu CTCP Kỹ thuật Điện Toàn Cầu"
+    },
+    {
+      "value": "GLC",
+      "label": "GLC - UPC - Co phieu Cong ty co phan Vang Lao Cai"
+    },
+    {
+      "value": "GKM",
+      "label": "GKM - HNX - Cổ phiếu Công ty cổ phần Gạch Khang Minh"
+    },
+    {
+      "value": "GIL",
+      "label": "GIL - HOSE - Cổ phiếu CTCP Sản Xuất Kinh Doanh XNK Bình Thạnh"
+    },
+    {
+      "value": "GHC",
+      "label": "GHC - UPC - Cổ phiếu CTCP Thủy điện Gia Lai"
+    },
+    {
+      "value": "GGS",
+      "label": "GGS - UPC - Cổ phiếu Công ty cổ phần Giống Gia súc Hà Nội"
+    },
+    {
+      "value": "GGG",
+      "label": "GGG - UPC - Cổ phiếu CTCP Ô tô Giải Phóng"
+    },
+    {
+      "value": "GEX",
+      "label": "GEX - HOSE - Cổ phiếu Tổng Công ty cổ phần Thiết bị điện Việt Nam"
+    },
+    {
+      "value": "GER",
+      "label": "GER - UPC - Cổ phiếu CTCP Thể thao Ngôi sao Geru"
+    },
+    {
+      "value": "GEG",
+      "label": "GEG - UPC - Cổ phiếu Công ty cổ phần Điện Gia Lai"
+    },
+    {
+      "value": "GDW",
+      "label": "GDW - HNX - Cổ phiếu CTCP Cấp nước Gia Định"
+    },
+    {
+      "value": "GDT",
+      "label": "GDT - HOSE - Cổ phiếu CTCP Chế biến gỗ Đức Thành"
+    },
+    {
+      "value": "GCB",
+      "label": "GCB - UPC - Cổ phiếu Công ty cổ phần Petec Bình Định"
+    },
+    {
+      "value": "GAS",
+      "label": "GAS - HOSE - Cổ phiếu Tổng Công ty khí Việt Nam - Công ty cổ phần"
+    },
+    {
+      "value": "GAB",
+      "label": "GAB - HOSE - Cổ phiếu Công ty cổ phần GAB"
+    },
+    {
+      "value": "G36",
+      "label": "G36 - UPC - Cổ phiếu Tổng Công ty 36 – CTCP"
+    },
+    {
+      "value": "G20",
+      "label": "G20 - UPC - Cổ phiếu Công ty cổ phần Đầu tư Dệt may G.Home"
+    },
+    {
+      "value": "FUESSV50",
+      "label": "FUESSV50 - HOSE - QUY ETF SSIAM VNX50"
+    },
+    {
+      "value": "FUCVREIT",
+      "label": "FUCVREIT - HOSE - QUY DT BDS TECHCOM VN"
+    },
+    {
+      "value": "FUCTVGF2",
+      "label": "FUCTVGF2 - HOSE - FUCTVGF2 - Qu_ dau tu tang truong TVAM"
+    },
+    {
+      "value": "FUCTVGF1",
+      "label": "FUCTVGF1 - HOSE - QUY DT TANG TRUONG TVAM"
+    },
+    {
+      "value": "FTS",
+      "label": "FTS - HOSE - Cổ phiếu Công ty cổ phần Chứng khoán FPT"
+    },
+    {
+      "value": "FTM",
+      "label": "FTM - HOSE - Cổ phiếu Công ty cổ phần Đầu tư và Phát triển Đức Quân"
+    },
+    {
+      "value": "FTI",
+      "label": "FTI - UPC - Cổ phiếu Công ty cổ phần Công nghiệp - Thương mại Hữu Nghị"
+    },
+    {
+      "value": "FT1",
+      "label": "FT1 - UPC - Cổ phiếu Công ty cổ phần Phụ tùng máy số 1"
+    },
+    {
+      "value": "FSO",
+      "label": "FSO - UPC - Cổ phiếu Công ty cổ phần Cơ khí đóng tàu thủy sản Việt Nam"
+    },
+    {
+      "value": "FSC",
+      "label": "FSC - UPC - Cổ phiếu Công ty cổ phần Yuanta Việt Nam"
+    },
+    {
+      "value": "FRT",
+      "label": "FRT - HOSE - Co phieu Cong ty co phan Ban le K_ thuat so FPT"
+    },
+    {
+      "value": "FRM",
+      "label": "FRM - UPC - Cổ phiếu Công ty cổ phần Lâm nghiệp Sài Gòn"
+    },
+    {
+      "value": "FRC",
+      "label": "FRC - UPC - Công ty cổ phần Lâm đặc sản Xuất khẩu Quảng Nam"
+    },
+    {
+      "value": "FPT",
+      "label": "FPT - HOSE - Cổ phiếu CTCP Phát triển Đầu tư Công nghệ FPT"
+    },
+    {
+      "value": "FOX",
+      "label": "FOX - UPC - Cổ phiếu Công ty cổ phần Viễn thông FPT"
+    },
+    {
+      "value": "FOC",
+      "label": "FOC - UPC - Co phieu Cong ty co phan Dich vu Truc tuyen FPT"
+    },
+    {
+      "value": "FMC",
+      "label": "FMC - HOSE - Cổ phiếu CTCP Thực phẩm Sao Ta"
+    },
+    {
+      "value": "FLC",
+      "label": "FLC - HOSE - Cổ phiếu CTCP Tập đoàn FLC"
+    },
+    {
+      "value": "FIT",
+      "label": "FIT - HOSE - Cổ phiếu Công ty cổ phần Đầu tư F.I.T"
+    },
+    {
+      "value": "FIR",
+      "label": "FIR - HOSE - Co phieu Cong ty Co phan Dia oc First Real"
+    },
+    {
+      "value": "FID",
+      "label": "FID - HNX - Cổ phiếu Công ty cổ phần Đầu tư và Phát triển Doanh nghiệp Việt Nam"
+    },
+    {
+      "value": "FIC",
+      "label": "FIC - UPC - Co phieu Tong Cong ty Vat lieu Xay dung so 1 _ CTCP"
+    },
+    {
+      "value": "FHS",
+      "label": "FHS - UPC - Cổ phiếu Công ty cổ phần Phát hành sách thành phố Hồ Chí Minh - FAHASA"
+    },
+    {
+      "value": "FHN",
+      "label": "FHN - UPC - Cổ phiếu Công ty cổ phần Xuất nhập khẩu Lương thực - Thực phẩm Hà Nội"
+    },
+    {
+      "value": "FGL",
+      "label": "FGL - UPC - Co phieu Cong ty co phan Ca phe Gia Lai"
+    },
+    {
+      "value": "FDT",
+      "label": "FDT - HNX - Cổ phiếu Công ty Cổ phần Fiditour"
+    },
+    {
+      "value": "FDG",
+      "label": "FDG - UPC - Cổ phiếu CTCP DOCIMEXCO"
+    },
+    {
+      "value": "FDC",
+      "label": "FDC - HOSE - Cổ phiếu CTCP Ngoại thương & Phát triển Đầu tư TP.HCM"
+    },
+    {
+      "value": "FCS",
+      "label": "FCS - UPC - Cổ phiếu Công ty cổ phần Lương thực thành phố Hồ Chí Minh"
+    },
+    {
+      "value": "FCN",
+      "label": "FCN - HOSE - Cổ phiếu Công ty cổ phần FECON"
+    },
+    {
+      "value": "FCM",
+      "label": "FCM - HOSE - Cổ phiếu Công ty cổ phần Khoáng sản FECON"
+    },
+    {
+      "value": "FCC",
+      "label": "FCC - UPC - Cổ phiếu Công ty cổ phần Liên hợp thực phẩm"
+    },
+    {
+      "value": "FBC",
+      "label": "FBC - UPC - Cổ phiếu Công ty cổ phần Cơ khí Phổ Yên"
+    },
+    {
+      "value": "FBA",
+      "label": "FBA - UPC - Cổ phiếu CTCP Tập đoàn quốc tế FBA"
+    },
+    {
+      "value": "EVS",
+      "label": "EVS - HNX - Co phieu Cong ty co phan Chung khoan Everest"
+    },
+    {
+      "value": "EVG",
+      "label": "EVG - HOSE - Cổ phiếu Công ty cổ phần Đầu tư Everlan"
+    },
+    {
+      "value": "EVF",
+      "label": "EVF - UPC - EVF -Co phieu Cong ty Tai chinh Co phan Dien luc"
+    },
+    {
+      "value": "EVE",
+      "label": "EVE - HOSE - Cổ phiếu Công ty cổ phần Everpia"
+    },
+    {
+      "value": "EPH",
+      "label": "EPH - UPC - Cổ phiếu Công ty cổ phần Dịch vụ Xuất bản Giáo dục Hà Nội"
+    },
+    {
+      "value": "EPC",
+      "label": "EPC - UPC - EPC - Cong ty co phan Ca Phe Ea Pok"
+    },
+    {
+      "value": "EMS",
+      "label": "EMS - UPC - Cổ phiếu Tổng Công ty Chuyển phát nhanh Bưu điện – Công ty cổ phần"
+    },
+    {
+      "value": "EMG",
+      "label": "EMG - UPC - Cổ phiếu Công ty cổ phần Thiết bị Phụ tùng Cơ điện"
+    },
+    {
+      "value": "EME",
+      "label": "EME - UPC - Cổ phiếu Công ty cổ phần Điện Cơ"
+    },
+    {
+      "value": "EMC",
+      "label": "EMC - HOSE - Cổ phiếu CTCP Cơ điện Thủ Đức"
+    },
+    {
+      "value": "ELC",
+      "label": "ELC - HOSE - Cổ phiếu CTCP Đầu tư Phát triển Công nghệ Điện tử - Viễn thông"
+    },
+    {
+      "value": "EIN",
+      "label": "EIN - UPC - Cổ phiếu Công ty cổ phần Đầu tư - Thương mại - Dịch vụ Điện lực"
+    },
+    {
+      "value": "EID",
+      "label": "EID - HNX - Cổ phiếu CTCP Đầu tư & Phát triển Giáo dục Hà Nội"
+    },
+    {
+      "value": "EIC",
+      "label": "EIC - UPC - Cổ phiếu CTCP EVN quốc tế"
+    },
+    {
+      "value": "EIB",
+      "label": "EIB - HOSE - Cổ phiếu Ngân hàng TMCP Xuất nhập khẩu Việt Nam"
+    },
+    {
+      "value": "EFI",
+      "label": "EFI - UPC - Cổ phiếu CTCP đầu tư tài chính giáo dục"
+    },
+    {
+      "value": "ECI",
+      "label": "ECI - HNX - Cổ phiếu CTCP Bản đồ & Tranh ảnh giáo dục"
+    },
+    {
+      "value": "EBS",
+      "label": "EBS - HNX - Cổ phiếu CTCP Sách Giáo Dục tại TP Hà Nội"
+    },
+    {
+      "value": "EAD",
+      "label": "EAD - UPC - Công ty cổ phần Thủy điện Điện lực Đắk Lắk"
+    },
+    {
+      "value": "E1VFVN30",
+      "label": "E1VFVN30 - HOSE - Chứng chỉ Quỹ ETF VFMVN30"
+    },
+    {
+      "value": "DZM",
+      "label": "DZM - HNX - Cổ phiếu CTCP chế tạo máy Dĩ An"
+    },
+    {
+      "value": "DXV",
+      "label": "DXV - HOSE - Cổ phiếu CTCP Vicem  Vật liệu Xây dựng Đà Nẵng"
+    },
+    {
+      "value": "DXP",
+      "label": "DXP - HNX - Cổ phiếu CTCP Cảng Đoạn Xá"
+    },
+    {
+      "value": "DXL",
+      "label": "DXL - UPC - Cổ phiếu CTCP Du lịch & Xuất nhập khẩu Lạng Sơn"
+    },
+    {
+      "value": "DXG",
+      "label": "DXG - HOSE - Cổ phiếu Công ty cổ phần Tập đoàn Đất Xanh"
+    },
+    {
+      "value": "DX2",
+      "label": "DX2 - UPC - Cổ phiếu Công ty Cổ phần Đầu tư và Xây dựng 319.2"
+    },
+    {
+      "value": "DWS",
+      "label": "DWS - UPC - Co phieu Cong ty co phan Cap nuoc va Moi truong do thi Dong Thap"
+    },
+    {
+      "value": "DVW",
+      "label": "DVW - UPC - Co phieu Cong ty co phan Dich vu va Xay dung cap nuoc Dong Nai"
+    },
+    {
+      "value": "DVP",
+      "label": "DVP - HOSE - Cổ phiếu CTCP Đầu tư & Phát triển Cảng Đình Vũ"
+    },
+    {
+      "value": "DVN",
+      "label": "DVN - UPC - Cổ phiếu Tổng Công ty Dược Việt Nam - CTCP"
+    },
+    {
+      "value": "DVH",
+      "label": "DVH - UPC - Cổ phiếu CTCP Chế tạo máy điện Việt Nam - Hungari"
+    },
+    {
+      "value": "DVC",
+      "label": "DVC - UPC - Cổ phiếu CTCP Thương mại Dịch vụ Tổng hợp Cảng Hải Phòng"
+    },
+    {
+      "value": "DTV",
+      "label": "DTV - UPC - Cổ phiếu CTCP Phát triển Điện Nông thôn Trà Vinh"
+    },
+    {
+      "value": "DTT",
+      "label": "DTT - HOSE - Cổ phiếu CTCP Kỹ nghệ Đô Thành"
+    },
+    {
+      "value": "DTN",
+      "label": "DTN - UPC - Cổ phiếu Công ty Cổ phần Diêm Thống Nhất"
+    },
+    {
+      "value": "DTL",
+      "label": "DTL - HOSE - Cổ phiếu CTCP Đại Thiên Lộc"
+    },
+    {
+      "value": "DTK",
+      "label": "DTK - UPC - Cổ phiếu Tổng công ty Điện lực TKV - CTCP"
+    },
+    {
+      "value": "DTI",
+      "label": "DTI - UPC - Co phieu Cong ty co phan Dau tu Duc Trung"
+    },
+    {
+      "value": "DTG",
+      "label": "DTG - UPC - Cổ phiếu Công ty cổ phần Dược phẩm Tipharco"
+    },
+    {
+      "value": "DTD",
+      "label": "DTD - HNX - Cổ phiếu Công ty cổ phần Đầu tư Phát triển Thành Đạt"
+    },
+    {
+      "value": "DTC",
+      "label": "DTC - UPC - Cổ phiếu CTCP Viglacera Đông Triều"
+    },
+    {
+      "value": "DTB",
+      "label": "DTB - UPC - CTCP CÔNG TRÌNH ĐÔ THỊ BẢO LỘC"
+    },
+    {
+      "value": "DTA",
+      "label": "DTA - HOSE - Cổ phiếu CTCP Đệ Tam"
+    },
+    {
+      "value": "DT4",
+      "label": "DT4 - UPC - Cổ phiếu Công ty cổ phần Quản lý bảo trì đường thủy nội địa số 4"
+    },
+    {
+      "value": "DSV",
+      "label": "DSV - UPC - Cổ phiếu Công ty cổ phần Đường sắt Vĩnh Phú"
+    },
+    {
+      "value": "DST",
+      "label": "DST - HNX - Cổ phiếu Công ty cổ phần Đầu tư Sao Thăng Long"
+    },
+    {
+      "value": "DSS",
+      "label": "DSS - UPC - Cổ phiếu Công ty cổ phần Đường sắt Sài Gòn"
+    },
+    {
+      "value": "DSP",
+      "label": "DSP - UPC - Cổ phiếu Công ty cổ phần Dịch vụ Du lịch Phú Thọ"
+    },
+    {
+      "value": "DSN",
+      "label": "DSN - HOSE - Cổ phiếu CTCP Công viên nước Đầm Sen"
+    },
+    {
+      "value": "DSG",
+      "label": "DSG - UPC - Cổ phiếu Công ty cổ phần Kính Viglacera Đáp Cầu"
+    },
+    {
+      "value": "DSC",
+      "label": "DSC - UPC - Co phieu Cong ty Co phan Chung khoan Da Nang"
+    },
+    {
+      "value": "DS3",
+      "label": "DS3 - HNX - Cổ phiếu Công ty cổ phần Quản lý Đường sông số 3"
+    },
+    {
+      "value": "DRL",
+      "label": "DRL - HOSE - Cổ phiếu CTCP Thủy điện - Điện lực 3"
+    },
+    {
+      "value": "DRI",
+      "label": "DRI - UPC - Cổ phiếu Công ty cổ phần Đầu tư cao su Đắk Lắk"
+    },
+    {
+      "value": "DRH",
+      "label": "DRH - HOSE - Cổ phiếu Công ty Cổ phần DRH Holdings"
+    },
+    {
+      "value": "DRC",
+      "label": "DRC - HOSE - Cổ phiếu CTCP Cao su Đà Nẵng"
+    },
+    {
+      "value": "DQC",
+      "label": "DQC - HOSE - Cổ phiếu CTCP Bóng đèn Điện Quang"
+    },
+    {
+      "value": "DPS",
+      "label": "DPS - HNX - Cổ phiếu Công ty cổ phần Đầu tư Phát triển Sóc Sơn"
+    },
+    {
+      "value": "DPR",
+      "label": "DPR - HOSE - Cổ phiếu CTCP Cao su Đồng Phú"
+    },
+    {
+      "value": "DPP",
+      "label": "DPP - UPC - Cổ phiếu CTCP dược Đồng Nai"
+    },
+    {
+      "value": "DPM",
+      "label": "DPM - HOSE - Cổ phiếu Tổng CTCP Phân bón & Hóa chất dầu khí"
+    },
+    {
+      "value": "DPH",
+      "label": "DPH - UPC - Cổ phiếu Công ty cổ phần Dược phẩm Hải Phòng"
+    },
+    {
+      "value": "DPG",
+      "label": "DPG - HOSE - Co phieu Cong ty co phan Dat Phuong"
+    },
+    {
+      "value": "DPC",
+      "label": "DPC - HNX - Cổ phiếu CTCP Nhựa Đà Nẵng"
+    },
+    {
+      "value": "DP3",
+      "label": "DP3 - HNX - Cổ phiếu Công ty cổ phần Dược phẩm Trung ương 3"
+    },
+    {
+      "value": "DP2",
+      "label": "DP2 - UPC - Cổ phiếu Công ty cổ phần Dược phẩm Trung ương 2"
+    },
+    {
+      "value": "DP1",
+      "label": "DP1 - UPC - Cổ phiếu Công ty cổ phần Dược phẩm Trung ương CPC1"
+    },
+    {
+      "value": "DOP",
+      "label": "DOP - UPC - Cổ phiếu Công ty cổ phần Vận tải Xăng dầu Đồng Tháp"
+    },
+    {
+      "value": "DOC",
+      "label": "DOC - UPC - Cổ phiếu Công ty cổ phần Vật tư nông nghiệp Đồng Nai"
+    },
+    {
+      "value": "DNY",
+      "label": "DNY - HNX - Cổ phiếu CTCP Thép DANA - Ý"
+    },
+    {
+      "value": "DNW",
+      "label": "DNW - UPC - Cổ phiếu Công ty cổ phần Cấp nước Đồng Nai"
+    },
+    {
+      "value": "DNS",
+      "label": "DNS - UPC - Cổ phiếu CTCP Thép Đà Nẵng"
+    },
+    {
+      "value": "DNR",
+      "label": "DNR - UPC - Cổ phiếu Công ty cổ phần Đường sắt Quảng Nam - Đà Nẵng"
+    },
+    {
+      "value": "DNP",
+      "label": "DNP - HNX - Cổ phiếu CTCP Nhựa Đồng Nai"
+    },
+    {
+      "value": "DNN",
+      "label": "DNN - UPC - Cổ phiếu Công ty cổ phần Cấp nước Đà Nẵng"
+    },
+    {
+      "value": "DNM",
+      "label": "DNM - HNX - Cổ phiếu Tổng CTCP Y tế Danameco"
+    },
+    {
+      "value": "DNL",
+      "label": "DNL - UPC - Cổ phiếu CTCP Logistics Cảng Đà Nẵng"
+    },
+    {
+      "value": "DNH",
+      "label": "DNH - UPC - Cổ phiếu Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi"
+    },
+    {
+      "value": "DNE",
+      "label": "DNE - UPC - Cổ phiếu Công ty cổ phần Môi trường Đô Thị Đà Nẵng"
+    },
+    {
+      "value": "DND",
+      "label": "DND - UPC - Cổ phiếu Công ty cổ phần Đầu tư Xây dựng và Vật liệu Đồng"
+    },
+    {
+      "value": "DNC",
+      "label": "DNC - HNX - Cổ phiếu CTCP Điện nước lắp máy Hải Phòng"
+    },
+    {
+      "value": "DNB",
+      "label": "DNB - UPC - Cổ phiếu Công ty cổ phần Sách và Thiết bị trường học Đắk Nông"
+    },
+    {
+      "value": "DNA",
+      "label": "DNA - UPC - Cổ phiếu Công ty cổ phần Điện nước An Giang"
+    },
+    {
+      "value": "DMC",
+      "label": "DMC - HOSE - Cổ phiếu CTCP Xuất nhập khẩu Y tế Domesco"
+    },
+    {
+      "value": "DM7",
+      "label": "DM7 - UPC - Co phieu Cong ty co phan Det May 7"
+    },
+    {
+      "value": "DLT",
+      "label": "DLT - UPC - Cổ phiếu CTCP Du lịch & Thương mại - Vinacomin"
+    },
+    {
+      "value": "DLR",
+      "label": "DLR - UPC - Cổ phiếu CTCP Địa ốc Đà Lạt"
+    },
+    {
+      "value": "DLG",
+      "label": "DLG - HOSE - Cổ phiếu CTCP Tập đoàn Đức Long Gia Lai"
+    },
+    {
+      "value": "DLD",
+      "label": "DLD - UPC - Cổ phiếu CTCP Du lịch Đắk Lắk"
+    },
+    {
+      "value": "DL1",
+      "label": "DL1 - HNX - Cổ phiếu CTCP Đầu tư Phát triển Dịch vụ công trình công cộng Đức Long Gia Lai"
+    },
+    {
+      "value": "DKP",
+      "label": "DKP - UPC - Co phieu Cong ty co phan Duoc Khoa"
+    },
+    {
+      "value": "DIH",
+      "label": "DIH - HNX - Cổ phiếu CTCP Đầu tư Phát triển Xây dựng Hội An"
+    },
+    {
+      "value": "DIG",
+      "label": "DIG - HOSE - Cổ phiếu Tổng CTCP Đầu tư Phát triển Xây dựng"
+    },
+    {
+      "value": "DID",
+      "label": "DID - HNX - Cổ phiếu CTCP DIC - Đồng Tiến"
+    },
+    {
+      "value": "DIC",
+      "label": "DIC - HOSE - Cổ phiếu CTCP Đầu tư & Thương mại DIC"
+    },
+    {
+      "value": "DHT",
+      "label": "DHT - HNX - Cổ phiếu CTCP dược phẩm Hà Tây"
+    },
+    {
+      "value": "DHP",
+      "label": "DHP - HNX - Cổ phiếu CTCP Điện cơ Hải Phòng"
+    },
+    {
+      "value": "DHN",
+      "label": "DHN - UPC - Co phieu Cong ty co phan Duoc pham Ha Noi"
+    },
+    {
+      "value": "DHM",
+      "label": "DHM - HOSE - Cổ phiếu Công ty cổ phần Thương mai và Khai thác Khoáng sản Dương Hiếu"
+    },
+    {
+      "value": "DHG",
+      "label": "DHG - HOSE - Cổ phiếu CTCP Dược Hậu Giang"
+    },
+    {
+      "value": "DHD",
+      "label": "DHD - UPC - Cổ phiếu CTCP Dược Vật tư Y tế Hải Dương"
+    },
+    {
+      "value": "DHC",
+      "label": "DHC - HOSE - Cổ phiếu CTCP Đông Hải Bến Tre"
+    },
+    {
+      "value": "DHB",
+      "label": "DHB - UPC - Cổ phiếu Công ty cổ phần Phân đạm và Hóa chất Hà Bắc"
+    },
+    {
+      "value": "DHA",
+      "label": "DHA - HOSE - Cổ phiếu CTCP Hóa An"
+    },
+    {
+      "value": "DGW",
+      "label": "DGW - HOSE - Cổ phiếu Công ty cổ phần Thế giới số"
+    },
+    {
+      "value": "DGT",
+      "label": "DGT - UPC - Cổ phiếu CTCP Công trình giao thông Đồng Nai"
+    },
+    {
+      "value": "DGL",
+      "label": "DGL - HNX - Công ty cổ phần Hóa chất Đức Giang - Lào Cai"
+    },
+    {
+      "value": "DGC",
+      "label": "DGC - HNX - Cổ phiếu Công ty CP Tập đoàn Hóa chất Đức Giang"
+    },
+    {
+      "value": "DFC",
+      "label": "DFC - UPC - Cổ phiếu Công ty cổ phần Xích Líp Đông Anh"
+    },
+    {
+      "value": "DDV",
+      "label": "DDV - UPC - Cổ phiếu Công ty cổ phần DAP – VINACHEM"
+    },
+    {
+      "value": "DDN",
+      "label": "DDN - UPC - Cổ phiếu CTCP Dược - Thiết bị y tế Đà Nẵng"
+    },
+    {
+      "value": "DDM",
+      "label": "DDM - UPC - Cổ phiếu CTCP Hàng Hải Đông Đô"
+    },
+    {
+      "value": "DDH",
+      "label": "DDH - UPC - Cổ phiếu Công ty cổ phần Đảm bảo giao thông đường thủy Hải Phòng"
+    },
+    {
+      "value": "DDG",
+      "label": "DDG - HNX - Co phieu Cong ty co phan Dau tu Cong nghiep Xuat nhap khau Dong Duong"
+    },
+    {
+      "value": "DCT",
+      "label": "DCT - UPC - Cổ phiếu CTCP Đầu tư dịch vụ Hoàng Huy"
+    },
+    {
+      "value": "DCS",
+      "label": "DCS - UPC - Cổ phiếu CTCP Đại Châu"
+    },
+    {
+      "value": "DCR",
+      "label": "DCR - UPC - Co phieu Cong ty co phan Gach Men Cosevco"
+    },
+    {
+      "value": "DCM",
+      "label": "DCM - HOSE - Cổ phiếu Công ty cổ phần Phân bón Dầu khí Cà Mau"
+    },
+    {
+      "value": "DCL",
+      "label": "DCL - HOSE - Cổ phiếu CTCP Dược phẩm Cửu Long"
+    },
+    {
+      "value": "DCI",
+      "label": "DCI - UPC - Cổ phiếu Công ty cổ phần Công nghiệp Hóa chất Đà Nẵng"
+    },
+    {
+      "value": "DCH",
+      "label": "DCH - UPC - Cổ phiếu Công ty cổ phần Địa chính Hà Nội"
+    },
+    {
+      "value": "DCG",
+      "label": "DCG - UPC - Co phieu Cong ty co phan Tong Cong ty May Dap Cau"
+    },
+    {
+      "value": "DCF",
+      "label": "DCF - UPC - CTCP Xây dựng và Thiết kế số 1"
+    },
+    {
+      "value": "DCD",
+      "label": "DCD - UPC - Cổ phiếu CTCP Du lịch & Thương mại DIC"
+    },
+    {
+      "value": "DC4",
+      "label": "DC4 - HNX - Cổ phiếu CTCP Dic số 4"
+    },
+    {
+      "value": "DC2",
+      "label": "DC2 - HNX - Cổ phiếu CTCP Đầu tư phát triển Xây dựng số 2"
+    },
+    {
+      "value": "DC1",
+      "label": "DC1 - UPC - Cổ phiếu CTCP Đầu tư Phát triển xây dựng số 1"
+    },
+    {
+      "value": "DBW",
+      "label": "DBW - UPC - Cổ phiếu Công ty cổ phần Cấp nước Điện Biên"
+    },
+    {
+      "value": "DBT",
+      "label": "DBT - HNX - Cổ phiếu CTCP Dược phẩm Bến Tre"
+    },
+    {
+      "value": "DBM",
+      "label": "DBM - UPC - Cổ phiếu CTCP Dược - Vật tư Y tế Đăk Lăk"
+    },
+    {
+      "value": "DBH",
+      "label": "DBH - UPC - Cổ phiếu Công ty cổ phần Đường bộ Hải Phòng"
+    },
+    {
+      "value": "DBD",
+      "label": "DBD - HOSE - Cổ phiếu Công ty cổ phần Dược - Trang thiết bị y tế Bình Định (Bidiphar)"
+    },
+    {
+      "value": "DBC",
+      "label": "DBC - HOSE - Cổ phiếu CTCP Tập đoàn Dabaco Việt Nam"
+    },
+    {
+      "value": "DAT",
+      "label": "DAT - HOSE - Cổ phiếu Công ty cổ phần Đầu tư Du lịch và Phát triển Thủy sản"
+    },
+    {
+      "value": "DAS",
+      "label": "DAS - UPC - Cổ phiếu CTCP Máy - Thiết bị Dầu khí Đà Nẵng"
+    },
+    {
+      "value": "DAR",
+      "label": "DAR - UPC - Cổ phiếu Công ty cổ phần Xe lửa Dĩ An"
+    },
+    {
+      "value": "DAP",
+      "label": "DAP - UPC - Cổ phiếu CTCP Đông Á"
+    },
+    {
+      "value": "DAH",
+      "label": "DAH - HOSE - Cổ phiếu Công ty cổ phần Tập đoàn Khách sạn Đông Á"
+    },
+    {
+      "value": "DAG",
+      "label": "DAG - HOSE - Cổ phiếu CTCP Tập đoàn Nhựa Đông Á"
+    },
+    {
+      "value": "DAE",
+      "label": "DAE - HNX - Cổ phiếu CTCP Sách giáo dục tại TP Đà Nẵng"
+    },
+    {
+      "value": "DAD",
+      "label": "DAD - HNX - Cổ phiếu CTCP Đầu tư & Phát triển Đà Nẵng"
+    },
+    {
+      "value": "DAC",
+      "label": "DAC - UPC - Cổ phiếu CTCP Gốm xây dựng Đông Anh"
+    },
+    {
+      "value": "D2D",
+      "label": "D2D - HOSE - Cổ phiếu CTCP Phát triển đô thị Công Nghiệp số 2"
+    },
+    {
+      "value": "D11",
+      "label": "D11 - HNX - Cổ phiếu CTCP Địa ốc 11"
+    },
+    {
+      "value": "CZC",
+      "label": "CZC - UPC - Cổ phiếu Công ty cổ phần Than Miền Trung"
+    },
+    {
+      "value": "CYC",
+      "label": "CYC - UPC - Cổ phiếu CTCP Gạch Men Chang Yih"
+    },
+    {
+      "value": "CXH",
+      "label": "CXH - UPC - Cổ phiếu Công ty cổ phần xe khách Hà Nội"
+    },
+    {
+      "value": "CX8",
+      "label": "CX8 - HNX - Cổ phiếu CTCP Đầu tư & Xây lắp Constrexim số 8"
+    },
+    {
+      "value": "CVT",
+      "label": "CVT - HOSE - Cổ phiếu CTCP CMC"
+    },
+    {
+      "value": "CVRE1901",
+      "label": "CVRE1901 - HOSE - CQ.VRE.KIS.M.CA.T.01"
+    },
+    {
+      "value": "CVNM1901",
+      "label": "CVNM1901 - HOSE - CVNM1901 - CONG TY CO PHAN CHUNG KHOAN KIS VIET NAM"
+    },
+    {
+      "value": "CVN",
+      "label": "CVN - HNX - Cổ phiếu CTCP VINAM"
+    },
+    {
+      "value": "CVIC1901",
+      "label": "CVIC1901 - HOSE - CQ.VIC.KIS.M.CA.T.01"
+    },
+    {
+      "value": "CVH",
+      "label": "CVH - UPC - Cổ phiếu Công ty cổ phần Công viên, Cây xanh Hải Phòng"
+    },
+    {
+      "value": "CVC",
+      "label": "CVC - UPC - Cổ phiếu Công ty cổ phần Cơ điện Vật tư"
+    },
+    {
+      "value": "CTX",
+      "label": "CTX - HNX - Cổ phiếu Tổng CTCP Đầu tư xây dựng và Thương mại Việt Nam"
+    },
+    {
+      "value": "CTW",
+      "label": "CTW - UPC - Cổ phiếu Công ty cổ phần Cấp thoát nước Cần Thơ"
+    },
+    {
+      "value": "CTT",
+      "label": "CTT - HNX - Cổ phiếu CTCP Chế tạo máy Vinacomin"
+    },
+    {
+      "value": "CTS",
+      "label": "CTS - HOSE - Cổ phiếu CTCP chứng khoán ngân hàng Công Thương"
+    },
+    {
+      "value": "CTR",
+      "label": "CTR - UPC - Cổ phiếu Tổng Công ty cổ phần Công trình Viettel"
+    },
+    {
+      "value": "CTP",
+      "label": "CTP - HNX - Cổ phiếu Công ty cổ phần Cà phê Thương Phú"
+    },
+    {
+      "value": "CTN",
+      "label": "CTN - UPC - Cổ phiếu CTCP Xây Dựng Công Trình Ngầm"
+    },
+    {
+      "value": "CTI",
+      "label": "CTI - HOSE - Cổ phiếu CTCP Đầu tư Phát triển Cường Thuận IDICO"
+    },
+    {
+      "value": "CTG",
+      "label": "CTG - HOSE - Cổ phiếu Ngân hàng TMCP Công thương Việt Nam"
+    },
+    {
+      "value": "CTF",
+      "label": "CTF - HOSE - Cổ phiếu Công ty cổ phần City Auto"
+    },
+    {
+      "value": "CTD",
+      "label": "CTD - HOSE - Cổ phiếu Công ty cổ phần Xây dựng Coteccons"
+    },
+    {
+      "value": "CTC",
+      "label": "CTC - HNX - Cổ phiếu CTCP Gia Lai CTC"
+    },
+    {
+      "value": "CTB",
+      "label": "CTB - HNX - Cổ phiếu CTCP Chế tạo Bơm Hải Dương"
+    },
+    {
+      "value": "CTA",
+      "label": "CTA - HNX - Cổ phiếu CTCP Vinavico"
+    },
+    {
+      "value": "CT6",
+      "label": "CT6 - HNX - Cổ phiếu CTCP Công trình 6"
+    },
+    {
+      "value": "CT3",
+      "label": "CT3 - UPC - Cổ phiếu CTCP Đầu tư & Xây dựng Công trình 3"
+    },
+    {
+      "value": "CSV",
+      "label": "CSV - HOSE - Cổ phiếu Công ty cổ phần Hóa chất cơ bản miền nam"
+    },
+    {
+      "value": "CSM",
+      "label": "CSM - HOSE - Cổ phiếu CTCP Công Nghiệp cao su Miền Nam"
+    },
+    {
+      "value": "CSI",
+      "label": "CSI - UPC - Cổ phiếu Công Ty CP Chứng khoán Kiến Thiết Việt Nam"
+    },
+    {
+      "value": "CSC",
+      "label": "CSC - HNX - Cổ phiếu Công ty cổ phần Tập đoàn COTANA"
+    },
+    {
+      "value": "CREE1901",
+      "label": "CREE1901 - HOSE - CQ CREE02MBS19CE"
+    },
+    {
+      "value": "CRE",
+      "label": "CRE - HOSE - Cổ phiếu Công ty cổ phần Bất động sản Thế Kỷ"
+    },
+    {
+      "value": "CRC",
+      "label": "CRC - HOSE - Cổ phiếu CTCP Create Capital Việt Nam"
+    },
+    {
+      "value": "CQT",
+      "label": "CQT - UPC - Cổ phiếu Công ty cổ phần Xi măng Quán Triều - VVMI"
+    },
+    {
+      "value": "CPI",
+      "label": "CPI - UPC - Cổ phiếu Công ty cổ phần Cảng Cái Lân"
+    },
+    {
+      "value": "CPH",
+      "label": "CPH - UPC - Cổ phiếu Công ty cổ phần phục vụ mai táng Hải Phòng"
+    },
+    {
+      "value": "CPC",
+      "label": "CPC - HNX - Cổ phiếu CTCP Thuốc sát trùng Cần Thơ"
+    },
+    {
+      "value": "COM",
+      "label": "COM - HOSE - Cổ phiếu CTCP Vật Tư - Xăng Dầu"
+    },
+    {
+      "value": "CNT",
+      "label": "CNT - UPC - Cổ phiếu CTCP Xây dựng & Kinh doanh Vật tư"
+    },
+    {
+      "value": "CNN",
+      "label": "CNN - UPC - Cổ phiếu CTCP Tư vấn công nghệ, thiết bị và kiểm định xây dựng - CONINCO"
+    },
+    {
+      "value": "CNH",
+      "label": "CNH - UPC - Cổ phiếu Công ty cổ phần Cảng Nha Trang"
+    },
+    {
+      "value": "CNG",
+      "label": "CNG - HOSE - Cổ phiếu CTCP CNG Việt Nam"
+    },
+    {
+      "value": "CNC",
+      "label": "CNC - UPC - CTCP Công nghệ cao Traphaco"
+    },
+    {
+      "value": "CMX",
+      "label": "CMX - HOSE - Cổ phiếu CTCP Chế biến Thủy sản & Xuất nhập khẩu Cà Mau"
+    },
+    {
+      "value": "CMWG1904",
+      "label": "CMWG1904 - HOSE - CQ MWG/6M/SSI/C/EU/CASH01"
+    },
+    {
+      "value": "CMWG1903",
+      "label": "CMWG1903 - HOSE - CQ MWG-HSC-MET01"
+    },
+    {
+      "value": "CMWG1902",
+      "label": "CMWG1902 - HOSE - CMWG1902 - Cong ty Co phan Chung khoan VNDirect"
+    },
+    {
+      "value": "CMW",
+      "label": "CMW - UPC - Cổ phiếu Công ty cổ phần Cấp nước Cà Mau"
+    },
+    {
+      "value": "CMV",
+      "label": "CMV - HOSE - Cổ phiếu CTCP Thương nghiệp Cà Mau"
+    },
+    {
+      "value": "CMT",
+      "label": "CMT - UPC - Cổ phiếu CTCP Công nghệ Mạng & Truyền thông"
+    },
+    {
+      "value": "CMSN1901",
+      "label": "CMSN1901 - HOSE - CQ.MSN.KIS.M.CA.T.01"
+    },
+    {
+      "value": "CMS",
+      "label": "CMS - HNX - Cổ phiếu CTCP Xây dựng và Nhân lực Việt Nam"
+    },
+    {
+      "value": "CMP",
+      "label": "CMP - UPC - Cổ phiếu Công ty cổ phần Cảng Chân Mây"
+    },
+    {
+      "value": "CMN",
+      "label": "CMN - UPC - Cổ phiếu Công ty cổ phần Lương thực Thực phẩm"
+    },
+    {
+      "value": "CMK",
+      "label": "CMK - UPC - Cổ phiếu Công ty cổ phần Cơ khí Mạo Khê - Vinacomin"
+    },
+    {
+      "value": "CMI",
+      "label": "CMI - UPC - Cổ phiếu CTCP CMISTONE Việt Nam"
+    },
+    {
+      "value": "CMG",
+      "label": "CMG - HOSE - Cổ phiếu CTCP Tập đoàn Công nghệ CMC"
+    },
+    {
+      "value": "CMF",
+      "label": "CMF - UPC - Cổ phiếu Công ty cổ phần Thực phẩm Cholimex"
+    },
+    {
+      "value": "CMD",
+      "label": "CMD - UPC - Co phieu Cong ty co phan Vat lieu Xay dung va Trang tri noi that Thanh pho Ho Chi Minh"
+    },
+    {
+      "value": "CMC",
+      "label": "CMC - HNX - Cổ phiếu CTCP Đầu tư CMC"
+    },
+    {
+      "value": "CMBB1902",
+      "label": "CMBB1902 - HOSE - Chung quyen MBB-HSC-MET01"
+    },
+    {
+      "value": "CLX",
+      "label": "CLX - UPC - Cổ phiếu Công ty cổ phần Xuất nhập khẩu và đầu tư Chợ Lớn"
+    },
+    {
+      "value": "CLW",
+      "label": "CLW - HOSE - Cổ phiếu CTCP Cấp nước Chợ Lớn"
+    },
+    {
+      "value": "CLM",
+      "label": "CLM - HNX - Cổ phiếu Công ty cổ phần Xuất nhập khẩu Than - Vinacomin"
+    },
+    {
+      "value": "CLL",
+      "label": "CLL - HOSE - Cổ phiếu Công ty cổ phần Cảng Cát Lái"
+    },
+    {
+      "value": "CLH",
+      "label": "CLH - HNX - Cổ phiếu Công ty cổ phần Xi măng La Hiên VVMI"
+    },
+    {
+      "value": "CLG",
+      "label": "CLG - HOSE - Cổ phiếu CTCP Đầu tư & Phát triển Nhà đất Cotec"
+    },
+    {
+      "value": "CLC",
+      "label": "CLC - HOSE - Cổ phiếu CTCP Cát Lợi"
+    },
+    {
+      "value": "CKV",
+      "label": "CKV - HNX - Cổ phiếu CTCP Cokyvina"
+    },
+    {
+      "value": "CKH",
+      "label": "CKH - UPC - Cổ phiếu Công ty cổ phần Cơ khí Chế tạo Hải Phòng"
+    },
+    {
+      "value": "CKD",
+      "label": "CKD - UPC - Cổ phiếu Công ty cổ phần Cơ khí Đông Anh Licogi"
+    },
+    {
+      "value": "CKA",
+      "label": "CKA - UPC - Co phieu Cong ty co phan Co Khi An Giang"
+    },
+    {
+      "value": "CJC",
+      "label": "CJC - HNX - Cổ phiếu CTCP Cơ điện Miền Trung"
+    },
+    {
+      "value": "CIP",
+      "label": "CIP - UPC - Công ty cổ phần Xây lắp và Sản xuất Công nghiệp"
+    },
+    {
+      "value": "CII",
+      "label": "CII - HOSE - Cổ phiếu CTCP Đầu tư Hạ tầng Kỹ thuật Thành phố Hồ Chí Minh"
+    },
+    {
+      "value": "CIG",
+      "label": "CIG - HOSE - Cổ phiếu CTCP COMA 18"
+    },
+    {
+      "value": "CID",
+      "label": "CID - UPC - Cổ phiếu CTCP Xây dựng & phát triển cơ sở hạ tầng"
+    },
+    {
+      "value": "CIA",
+      "label": "CIA - HNX - Cổ phiếu Công ty cổ phần Dịch vụ Sân bay Quốc tế Cam Ranh"
+    },
+    {
+      "value": "CI5",
+      "label": "CI5 - UPC - Cổ phiếu CTCP Đầu tư Xây dựng Số 5"
+    },
+    {
+      "value": "CHS",
+      "label": "CHS - UPC - Cổ phiếu Công ty cổ phần Chiếu sáng Công cộng thành phố Hồ Chí Minh"
+    },
+    {
+      "value": "CHPG1906",
+      "label": "CHPG1906 - HOSE - CQ.HPG.KIS.M.CA.T.02"
+    },
+    {
+      "value": "CHPG1905",
+      "label": "CHPG1905 - HOSE - CQ HPG/6M/SSI/C/EU/CASH01"
+    },
+    {
+      "value": "CHPG1904",
+      "label": "CHPG1904 - HOSE - CQ HPG/3M/SSI/C/EU/CASH01"
+    },
+    {
+      "value": "CHPG1902",
+      "label": "CHPG1902 - HOSE - CHPG1902 - CONG TY CO PHAN CHUNG KHOAN KIS VIET NAM"
+    },
+    {
+      "value": "CHP",
+      "label": "CHP - HOSE - Cổ phiếu CTCP Thủy điện Miền Trung"
+    },
+    {
+      "value": "CHC",
+      "label": "CHC - UPC - Cổ phiếu Công ty cổ phần Cẩm Hà"
+    },
+    {
+      "value": "CH5",
+      "label": "CH5 - UPC - Cổ phiếu CTCP Xây dựng Số 5 Hà Nội"
+    },
+    {
+      "value": "CGV",
+      "label": "CGV - UPC - Cổ phiếu Công ty cổ phần Sành sứ Thủy tinh Việt Nam"
+    },
+    {
+      "value": "CGP",
+      "label": "CGP - UPC - Cổ phiếu Công ty cổ phần Dược phẩm Cần"
+    },
+    {
+      "value": "CFV",
+      "label": "CFV - UPC - Cổ phiếu Công ty cổ phần Cà phê Thắng Lợi"
+    },
+    {
+      "value": "CFPT1904",
+      "label": "CFPT1904 - HOSE - CQ CFPT02MBS19CE"
+    },
+    {
+      "value": "CFPT1903",
+      "label": "CFPT1903 - HOSE - CQ FPT/6M/SSI/C/EU/CASH01"
+    },
+    {
+      "value": "CFPT1902",
+      "label": "CFPT1902 - HOSE - CQ FPT/3M/SSI/C/EU/CASH01"
+    },
+    {
+      "value": "CFC",
+      "label": "CFC - UPC - Cổ phiếu CTCP Cafico Việt Nam"
+    },
+    {
+      "value": "CET",
+      "label": "CET - HNX - Cổ phiếu Công ty cổ phần Tech - Vina"
+    },
+    {
+      "value": "CER",
+      "label": "CER - UPC - Cổ phiếu Công ty cổ phần Địa chính và Tài nguyên Môi trường"
+    },
+    {
+      "value": "CEO",
+      "label": "CEO - HNX - Cổ phiếu Công ty cổ phần Tập đoàn C.E.O"
+    },
+    {
+      "value": "CEN",
+      "label": "CEN - UPC - Cổ phiếu Công ty cổ phần CENCON Việt Nam"
+    },
+    {
+      "value": "CEG",
+      "label": "CEG - UPC - Cổ phiếu Công ty cổ phần Tập đoàn Xây dựng và Thiết bị Công nghiệp"
+    },
+    {
+      "value": "CEE",
+      "label": "CEE - HOSE - Cổ phiếu Công ty cổ phần Xây dựng Hạ tầng CII"
+    },
+    {
+      "value": "CEC",
+      "label": "CEC - UPC - Công ty cổ phần Thiết kế Công nghiệp Hóa chất"
+    },
+    {
+      "value": "CE1",
+      "label": "CE1 - UPC - Cổ phiếu Công ty cổ phần Xây dựng và Thiết bị Công nghiệp CIE1"
+    },
+    {
+      "value": "CDR",
+      "label": "CDR - UPC - Cổ phiếu Công ty cổ phần Xây dựng Cao Su Đồng Nai"
+    },
+    {
+      "value": "CDP",
+      "label": "CDP - UPC - Cổ phiếu Công ty cổ phần Dược phẩm Trung ương Codupha"
+    },
+    {
+      "value": "CDO",
+      "label": "CDO - UPC - Cổ phiếu Công ty Cổ phần Tư vấn thiết kế và Phát triển đô thị"
+    },
+    {
+      "value": "CDN",
+      "label": "CDN - HNX - Cổ phiếu Công ty cổ phần Cảng Đà Nẵng"
+    },
+    {
+      "value": "CDH",
+      "label": "CDH - UPC - Cổ phiếu Công ty cổ phần Công trình công cộng và Dịch vụ Du lịch Hải Phòng"
+    },
+    {
+      "value": "CDG",
+      "label": "CDG - UPC - Cổ phiếu CTCP Cầu Đuống"
+    },
+    {
+      "value": "CDC",
+      "label": "CDC - HOSE - Cổ phiếu CTCP Chương Dương"
+    },
+    {
+      "value": "CCV",
+      "label": "CCV - UPC - Cổ phiếu Công ty cổ phần Tư vấn Xây dựng Công nghiệp"
+    },
+    {
+      "value": "CCT",
+      "label": "CCT - UPC - Cổ phiếu Công ty cổ phần Cảng Cần Thơ"
+    },
+    {
+      "value": "CCR",
+      "label": "CCR - UPC - Cổ phiếu Công ty cổ phần Cảng Cam Ranh"
+    },
+    {
+      "value": "CCP",
+      "label": "CCP - UPC - Cổ phiếu Công ty cổ phần Cảng Cửa Cấm Hải Phòng"
+    },
+    {
+      "value": "CCM",
+      "label": "CCM - UPC - Cổ phiếu CTCP Khoáng sản & Xi măng Cần Thơ"
+    },
+    {
+      "value": "CCL",
+      "label": "CCL - HOSE - Cổ phiếu CTCP Đầu tư và Phát triển Đô thị Dầu khí Cửu Long"
+    },
+    {
+      "value": "CCI",
+      "label": "CCI - HOSE - Cổ phiếu CTCP Đầu tư Phát triển Công nghiệp - Thương mại Củ Chi"
+    },
+    {
+      "value": "CCH",
+      "label": "CCH - UPC - Cổ phiếu CTCP Tư vấn & Đầu tư Xây dựng CCIC Hà Nội"
+    },
+    {
+      "value": "CC4",
+      "label": "CC4 - UPC - Cổ phiếu Công ty cổ phần Đầu tư và Xây dựng Số 4"
+    },
+    {
+      "value": "CC1",
+      "label": "CC1 - UPC - Cổ phiếu Tổng Công ty Xây dựng Số 1 – CTCP"
+    },
+    {
+      "value": "CBS",
+      "label": "CBS - UPC - Cổ phiếu Công ty cổ phần Mía đường Cao Bằng"
+    },
+    {
+      "value": "CBI",
+      "label": "CBI - UPC - Cổ phiếu Công ty cổ phần Gang thép Cao Bằng"
+    },
+    {
+      "value": "CAV",
+      "label": "CAV - HOSE - Cổ phiếu Công ty cổ phần Dây cáp điện Việt Nam"
+    },
+    {
+      "value": "CAT",
+      "label": "CAT - UPC - Cổ phiếu CTCP Thủy sản Cà Mau"
+    },
+    {
+      "value": "CAP",
+      "label": "CAP - HNX - Cổ phiếu CTCP Lâm nông sản thực phẩm Yên Bái"
+    },
+    {
+      "value": "CAN",
+      "label": "CAN - HNX - Cổ phiếu CTCP Đồ hộp Hạ Long"
+    },
+    {
+      "value": "CAM",
+      "label": "CAM - UPC - Cổ phiếu CTY CP Môi trường đô thị Cà Mau"
+    },
+    {
+      "value": "CAG",
+      "label": "CAG - HNX - Cổ phiếu Công ty cổ phần Cảng An Giang"
+    },
+    {
+      "value": "CAD",
+      "label": "CAD - UPC - Cổ phiếu CTCP Chế biến & XNK Thủy sản CADOVIMEX"
+    },
+    {
+      "value": "CAB",
+      "label": "CAB - UPC - Cổ phiếu công ty cổ phần Tổng công ty Truyền hình Cáp Việt nam"
+    },
+    {
+      "value": "C92",
+      "label": "C92 - HNX - Cổ phiếu CTCP Xây dựng & Đầu tư 492"
+    },
+    {
+      "value": "C71",
+      "label": "C71 - UPC - Cổ phiếu Công ty cổ phần 471"
+    },
+    {
+      "value": "C69",
+      "label": "C69 - HNX - Cổ phiếu Công ty cổ phần Xây dựng 1369"
+    },
+    {
+      "value": "C4G",
+      "label": "C4G - UPC - Co phieu Cong ty co phan Tap doan CIENCO4"
+    },
+    {
+      "value": "C47",
+      "label": "C47 - HOSE - Cổ phiếu CTCP Xây dựng 47"
+    },
+    {
+      "value": "C36",
+      "label": "C36 - UPC - Cổ phiếu Công ty cổ phần Quản lý và Xây dựng công trình giao thông 236"
+    },
+    {
+      "value": "C32",
+      "label": "C32 - HOSE - Cổ phiếu CTCP Đầu tư Xây dựng 3-2"
+    },
+    {
+      "value": "C22",
+      "label": "C22 - UPC - Co phieu Cong ty co phan 22"
+    },
+    {
+      "value": "C21",
+      "label": "C21 - UPC - Cổ phiếu CTCP Thế kỷ 21"
+    },
+    {
+      "value": "C12",
+      "label": "C12 - UPC - Cổ phiếu Công ty cổ phần Cầu 12"
+    },
+    {
+      "value": "BXT",
+      "label": "BXT - UPC - BXT"
+    },
+    {
+      "value": "BXH",
+      "label": "BXH - HNX - Cổ phiếu CTCP VICEM Bao bì Hải Phòng"
+    },
+    {
+      "value": "BWS",
+      "label": "BWS - UPC - Cổ phiếu Công ty cổ phần Cấp nước Bà Rịa - Vũng Tàu"
+    },
+    {
+      "value": "BWE",
+      "label": "BWE - HOSE - Cổ phiếu Công ty cổ phần Nước - Môi trường Bình Dương"
+    },
+    {
+      "value": "BWA",
+      "label": "BWA - UPC - Cổ phiếu CTCP Cấp thoát nước & Xây dựng Bảo Lộc"
+    },
+    {
+      "value": "BVS",
+      "label": "BVS - HNX - Cổ phiếu CTCP Chứng khoán Bảo Việt"
+    },
+    {
+      "value": "BVN",
+      "label": "BVN - UPC - Cổ phiếu CTCP Bông Việt Nam"
+    },
+    {
+      "value": "BVH",
+      "label": "BVH - HOSE - Cổ phiếu Tập đoàn Bảo Việt"
+    },
+    {
+      "value": "BVG",
+      "label": "BVG - UPC - Cổ phiếu Công ty cổ phần Đầu tư BVG"
+    },
+    {
+      "value": "BUD",
+      "label": "BUD - UPC - Cổ phiếu Công ty cổ phần Khoa học Công nghệ Việt Nam"
+    },
+    {
+      "value": "BTW",
+      "label": "BTW - HNX - Cổ phiếu CTCP Cấp nước Bến Thành"
+    },
+    {
+      "value": "BTV",
+      "label": "BTV - UPC - Cổ phiếu Công ty cổ phần Dịch vụ Du lịch Bến Thành"
+    },
+    {
+      "value": "BTU",
+      "label": "BTU - UPC - Cổ phiếu Công ty cổ phần Công trình Đô thị Bến Tre"
+    },
+    {
+      "value": "BTT",
+      "label": "BTT - HOSE - Cổ phiếu CTCP Thương mại - Dịch vụ Bến Thành"
+    },
+    {
+      "value": "BTS",
+      "label": "BTS - HNX - Cổ phiếu CTCP Xi măng Vicem Bút Sơn"
+    },
+    {
+      "value": "BTR",
+      "label": "BTR - UPC - Cổ phiếu Công ty cổ phần Đường sắt Bình Trị Thiên"
+    },
+    {
+      "value": "BTP",
+      "label": "BTP - HOSE - Cổ phiếu CTCP Nhiệt điện Bà Rịa"
+    },
+    {
+      "value": "BTN",
+      "label": "BTN - UPC - Cổ phiếu Công ty cổ phần Gạch Tuy Nen Bình Định"
+    },
+    {
+      "value": "BTH",
+      "label": "BTH - UPC - Cổ phiếu CTCP Chế tạo biến thế & Vật liệu điện Hà Nội"
+    },
+    {
+      "value": "BTG",
+      "label": "BTG - UPC - Cổ phiếu CTCP Bao bì Tiền Giang"
+    },
+    {
+      "value": "BTD",
+      "label": "BTD - UPC - Cổ phiếu Công ty Cổ phần Bê tông Ly tâm Thủ Đức"
+    },
+    {
+      "value": "BTC",
+      "label": "BTC - UPC - Cổ phiếu CTCP Cơ khí & Xây dựng Bình Triệu"
+    },
+    {
+      "value": "BTB",
+      "label": "BTB - UPC - Cổ phiếu Công ty cổ phần Bia Hà Nội - Thái Bình"
+    },
+    {
+      "value": "BT6",
+      "label": "BT6 - UPC - Cổ phiếu CTCP Beton 6"
+    },
+    {
+      "value": "BT1",
+      "label": "BT1 - UPC - Cổ phiếu CTCP Bảo vệ Thực vật 1 Trung ương"
+    },
+    {
+      "value": "BST",
+      "label": "BST - HNX - Cổ phiếu CTCP Sách & Thiết bị Bình Thuận"
+    },
+    {
+      "value": "BSR",
+      "label": "BSR - UPC - Cổ phiếu Công ty cổ phần Lọc Hóa dầu Bình Sơn"
+    },
+    {
+      "value": "BSQ",
+      "label": "BSQ - UPC - Công ty cổ phần Bia Sài Gòn - Quảng Ngãi"
+    },
+    {
+      "value": "BSP",
+      "label": "BSP - UPC - Cổ phiếu Công ty cổ phần Bia Sài Gòn - Phú Thọ"
+    },
+    {
+      "value": "BSL",
+      "label": "BSL - UPC - Cổ phiếu Công ty cổ phần Bia Sài Gòn – Sông Lam"
+    },
+    {
+      "value": "BSI",
+      "label": "BSI - HOSE - Cổ phiếu CTCP Chứng khoán Ngân hàng Đầu tư và phát triển Việt Nam"
+    },
+    {
+      "value": "BSH",
+      "label": "BSH - UPC - Cổ phiếu Công ty cổ phần Bia Sài Gòn - Hà Nội"
+    },
+    {
+      "value": "BSG",
+      "label": "BSG - UPC - Cổ phiếu Công ty cổ phần Xe khách Sài Gòn"
+    },
+    {
+      "value": "BSD",
+      "label": "BSD - UPC - Cổ phiếu Công ty cổ phần Bia, Rượu Sài Gòn - Đồng Xuân"
+    },
+    {
+      "value": "BSC",
+      "label": "BSC - HNX - Cổ phiếu CTCP Dịch vụ Bến Thành"
+    },
+    {
+      "value": "BSA",
+      "label": "BSA - UPC - Co phieu Cong ty co phan Thuy dien Buon Don"
+    },
+    {
+      "value": "BRS",
+      "label": "BRS - UPC - Cổ phiếu Công ty cổ phần Dịch vụ Đô thị Bà Rịa"
+    },
+    {
+      "value": "BRR",
+      "label": "BRR - UPC - Cổ phiếu Công ty cổ phần Cao su Bà Rịa"
+    },
+    {
+      "value": "BRC",
+      "label": "BRC - HOSE - Cổ phiếu CTCP Cao su Bến Thành"
+    },
+    {
+      "value": "BQB",
+      "label": "BQB - UPC - Cổ phiếu Công ty Cổ phần Bia Hà Nội - Quảng Bình"
+    },
+    {
+      "value": "BPW",
+      "label": "BPW - UPC - Cổ phiếu Công ty cổ phần Cấp thoát nước Bình Phước"
+    },
+    {
+      "value": "BPC",
+      "label": "BPC - HNX - Cổ phiếu CTCP Vicem Bao Bì Bỉm Sơn"
+    },
+    {
+      "value": "BOT",
+      "label": "BOT - UPC - Co phieu Cong ty co phan BOT Cau Thai Ha"
+    },
+    {
+      "value": "BNW",
+      "label": "BNW - UPC - Co phieu Cong ty co phan Nuoc sach Bac Ninh"
+    },
+    {
+      "value": "BMV",
+      "label": "BMV - UPC - Cổ phiếu Công ty cổ phần Bột mỳ Vinafood 1"
+    },
+    {
+      "value": "BMS",
+      "label": "BMS - UPC - Co phieu Cong ty co phan Chung khoan Bao Minh"
+    },
+    {
+      "value": "BMP",
+      "label": "BMP - HOSE - Cổ phiếu CTCP Nhựa Bình Minh"
+    },
+    {
+      "value": "BMN",
+      "label": "BMN - UPC - Cổ phiếu Công ty cổ phần 715"
+    },
+    {
+      "value": "BMJ",
+      "label": "BMJ - UPC - Cổ phiếu CTCP Khoáng sản Becamex"
+    },
+    {
+      "value": "BMI",
+      "label": "BMI - HOSE - Cổ phiếu Tổng CTCP Bảo Minh"
+    },
+    {
+      "value": "BMG",
+      "label": "BMG - UPC - Co phieu Cong ty co phan May Binh Minh"
+    },
+    {
+      "value": "BMF",
+      "label": "BMF - UPC - Cổ phiếu Công ty cổ phần Vật liệu Xây dựng và Chất đốt Đồng Nai"
+    },
+    {
+      "value": "BMD",
+      "label": "BMD - UPC - Cổ phiếu Công ty cổ phần Môi trường và Dịch vụ Đô thị Bình Thuận"
+    },
+    {
+      "value": "BMC",
+      "label": "BMC - HOSE - Cổ phiếu CTCP Khoáng sản Bình Định"
+    },
+    {
+      "value": "BM9",
+      "label": "BM9 - UPC - Co phieu Cong ty co phan Dau tu Xay dung 319 Mien Nam"
+    },
+    {
+      "value": "BLW",
+      "label": "BLW - UPC - Co phieu Cong ty co phan Cap nuoc Bac Lieu"
+    },
+    {
+      "value": "BLU",
+      "label": "BLU - UPC - BLU - Cong ty co phan Cong trinh Do thi Bac Lieu"
+    },
+    {
+      "value": "BLT",
+      "label": "BLT - UPC - Cổ phiếu Công ty cổ phần Lương thực Bình Định"
+    },
+    {
+      "value": "BLN",
+      "label": "BLN - UPC - Cổ phiếu Công ty cổ phần Vận tải và dịch vụ Liên Ninh"
+    },
+    {
+      "value": "BLI",
+      "label": "BLI - UPC - Cổ phiếu Tổng Công ty Cổ phần Bảo hiểm Bảo Long"
+    },
+    {
+      "value": "BLF",
+      "label": "BLF - HNX - Cổ phiếu CTCP Thủy sản Bạc Liêu"
+    },
+    {
+      "value": "BKH",
+      "label": "BKH - UPC - Co phieu Cong ty co phan Banh Mut Keo Ha Noi"
+    },
+    {
+      "value": "BKC",
+      "label": "BKC - HNX - Cổ phiếu CTCP Khoáng sản Bắc Kạn"
+    },
+    {
+      "value": "BIO",
+      "label": "BIO - UPC - Co phieu Cong ty co phan Vac Xin va Sinh pham Nha Trang"
+    },
+    {
+      "value": "BII",
+      "label": "BII - HNX - CTCP Đầu tư và Phát triển Công nghiệp Bảo Thư"
+    },
+    {
+      "value": "BID",
+      "label": "BID - HOSE - Cổ phiếu Ngân hàng TMCP Đầu tư và Phát triển Việt Nam"
+    },
+    {
+      "value": "BIC",
+      "label": "BIC - HOSE - Cổ phiếu Tổng CTCP Bảo hiểm Ngân hàng Đầu tư và Phát triển Việt Nam"
+    },
+    {
+      "value": "BHV",
+      "label": "BHV - UPC - Cổ phiếu CTCP Bá Hiến Viglacera"
+    },
+    {
+      "value": "BHT",
+      "label": "BHT - UPC - Cổ phiếu CTCP Đầu tư Xây dựng Bạch Đằng TMC"
+    },
+    {
+      "value": "BHP",
+      "label": "BHP - UPC - Cổ phiếu CTCP bia Hà Nội - Hải Phòng"
+    },
+    {
+      "value": "BHN",
+      "label": "BHN - HOSE - Cổ phiếu Tổng Công ty cổ phần Bia – Rượu – Nước Giải khát Hà Nội"
+    },
+    {
+      "value": "BHK",
+      "label": "BHK - UPC - Cổ phiếu Công ty cổ phần Bia Hà Nội – Kim Bài"
+    },
+    {
+      "value": "BHG",
+      "label": "BHG - UPC - BHG - Cong ty co phan Che Bien Ho"
+    },
+    {
+      "value": "BHC",
+      "label": "BHC - UPC - Cổ phiếu CTCP bê tông Biên Hòa"
+    },
+    {
+      "value": "BHA",
+      "label": "BHA - UPC - Cổ phiếu Công ty cổ phần Thủy điện Bắc Hà"
+    },
+    {
+      "value": "BGW",
+      "label": "BGW - UPC - Cổ phiếu Công ty cổ phần Nước sạch Bắc Giang"
+    },
+    {
+      "value": "BFC",
+      "label": "BFC - HOSE - Cổ phiếu Công ty cổ phần Phân bón Bình Điền"
+    },
+    {
+      "value": "BEL",
+      "label": "BEL - UPC - Cổ phiếu Công ty cổ phần Điện tử Biên Hòa"
+    },
+    {
+      "value": "BED",
+      "label": "BED - HNX - Cổ phiếu CTCP Sách & Thiết bị Trường học Đà Nẵng"
+    },
+    {
+      "value": "BDW",
+      "label": "BDW - UPC - Cổ phiếu Công ty cổ phần Cấp thoát nước Bình Định"
+    },
+    {
+      "value": "BDT",
+      "label": "BDT - UPC - Cổ phiếu Công ty cổ phần Xây lắp và Vật liệu xây dựng Đồng Tháp"
+    },
+    {
+      "value": "BDP",
+      "label": "BDP - UPC - Cổ phiếu Công ty cổ phần Biệt thự và Khách sạn Biển Đông Phương"
+    },
+    {
+      "value": "BDG",
+      "label": "BDG - UPC - Cổ phiếu Công ty cổ phần May mặc Bình Dương"
+    },
+    {
+      "value": "BDF",
+      "label": "BDF - UPC - Cổ phiếu Công ty cổ phần Giày Bình Định"
+    },
+    {
+      "value": "BDC",
+      "label": "BDC - UPC - Cổ phiếu Tổng Công ty Xây dựng Bạch Đằng - CTCP"
+    },
+    {
+      "value": "BDB",
+      "label": "BDB - HNX - Cổ phiếu CTCP Sách & Thiết bị Bình Định"
+    },
+    {
+      "value": "BCP",
+      "label": "BCP - UPC - Cổ phiếu CTCP Dược Becamex"
+    },
+    {
+      "value": "BCM",
+      "label": "BCM - UPC - Co phieu Tong Cong ty Dau tu va Phat trien Cong nghiep _ CTCP"
+    },
+    {
+      "value": "BCG",
+      "label": "BCG - HOSE - Cổ phiếu Công ty cổ phần Bamboo Capital"
+    },
+    {
+      "value": "BCE",
+      "label": "BCE - HOSE - Cổ phiếu CTCP Xây dựng & Giao thông Bình Dương"
+    },
+    {
+      "value": "BCC",
+      "label": "BCC - HNX - Cổ phiếu CTCP Xi măng Bỉm Sơn"
+    },
+    {
+      "value": "BCB",
+      "label": "BCB - UPC - co phieu Cong ty co phan 397"
+    },
+    {
+      "value": "BBT",
+      "label": "BBT - UPC - Cổ phiếu CTCP Bông Bạch Tuyết"
+    },
+    {
+      "value": "BBS",
+      "label": "BBS - HNX - Cổ phiếu CTCP Bao bì Xi măng Bút Sơn"
+    },
+    {
+      "value": "BBM",
+      "label": "BBM - UPC - Cổ phiếu Công ty cổ phần Bia Hà Nội - Nam Định"
+    },
+    {
+      "value": "BBC",
+      "label": "BBC - HOSE - Cổ phiếu CTCP Bibica"
+    },
+    {
+      "value": "BAX",
+      "label": "BAX - HNX - Cổ phiếu Công ty cổ phần Thống Nhất"
+    },
+    {
+      "value": "BAL",
+      "label": "BAL - UPC - Công ty cổ phần Bao bì Bia – Rượu – Nước giải khát"
+    },
+    {
+      "value": "BAB",
+      "label": "BAB - UPC - Cổ phiếu Ngân hàng Thương mại cổ phần Bắc Á"
+    },
+    {
+      "value": "B82",
+      "label": "B82 - UPC - Cổ phiếu CTCP 482"
+    },
+    {
+      "value": "AVF",
+      "label": "AVF - UPC - Cổ phiếu CTCP Việt An"
+    },
+    {
+      "value": "AVC",
+      "label": "AVC - UPC - Cổ phiếu Công ty cổ phần Thủy Điện A Vương"
+    },
+    {
+      "value": "AUM",
+      "label": "AUM - UPC - Cổ phiếu Công ty cổ phần Vinacafe Sơn Thành"
+    },
+    {
+      "value": "ATS",
+      "label": "ATS - HNX - Cổ phiếu Công ty cổ phần Suất ăn công nghiệp Atesco"
+    },
+    {
+      "value": "ATG",
+      "label": "ATG - HOSE - Cổ phiếu Công ty cổ phần An Trường An"
+    },
+    {
+      "value": "ATD",
+      "label": "ATD - UPC - CÔNG TY CỔ PHẦN 28 ĐÀ NẴNG"
+    },
+    {
+      "value": "ATB",
+      "label": "ATB - UPC - Cổ phiếu Công ty cổ phần An Thịnh"
+    },
+    {
+      "value": "ATA",
+      "label": "ATA - UPC - Cổ phiếu CTCP NTACO"
+    },
+    {
+      "value": "AST",
+      "label": "AST - HOSE - Co phieu Cong ty co phan Dich vu Hang khong Taseco"
+    },
+    {
+      "value": "ASP",
+      "label": "ASP - HOSE - Cổ phiếu CTCP Tập đoàn Dầu khí An Pha"
+    },
+    {
+      "value": "ASM",
+      "label": "ASM - HOSE - Cổ phiếu CTCP Tập đoàn Sao Mai"
+    },
+    {
+      "value": "ASD",
+      "label": "ASD - UPC - Công ty cổ phần Sông Đà Hà Nội"
+    },
+    {
+      "value": "ASA",
+      "label": "ASA - UPC - Cổ phiếu Công ty cổ phần Hàng tiêu dùng ASA"
+    },
+    {
+      "value": "ART",
+      "label": "ART - HNX - Cổ phiếu Công ty cổ phần Chứng khoán Artex"
+    },
+    {
+      "value": "ARM",
+      "label": "ARM - HNX - Cổ phiếu CTCP Xuất nhập khẩu Hàng Không"
+    },
+    {
+      "value": "AQN",
+      "label": "AQN - UPC - Co phieu Cong ty co phan 28 Quang Ngai"
+    },
+    {
+      "value": "APT",
+      "label": "APT - UPC - Co phieu Cong ty co phan Kinh doanh Thuy Hai San Sai Gon"
+    },
+    {
+      "value": "APS",
+      "label": "APS - HNX - Cổ phiếu CTCP Chứng khoán Châu Á - Thái Bình Dương"
+    },
+    {
+      "value": "APP",
+      "label": "APP - HNX - Cổ phiếu CTCP Phát triển Phụ gia & Sản phẩm Dầu mỏ"
+    },
+    {
+      "value": "APL",
+      "label": "APL - UPC - Cổ phiếu Công ty cổ phần Cơ khí và thiết bị áp lực – VVMI"
+    },
+    {
+      "value": "API",
+      "label": "API - HNX - Cổ phiếu CTCP Đầu tư Châu Á - Thái Bình Dương"
+    },
+    {
+      "value": "APG",
+      "label": "APG - HOSE - Cổ phiếu CTCP Chứng khoán An Phát"
+    },
+    {
+      "value": "APF",
+      "label": "APF - UPC - Cổ phiếu Công ty cổ phần nông sản thực phẩm Quảng Ngãi"
+    },
+    {
+      "value": "APC",
+      "label": "APC - HOSE - Cổ phiếu CTCP Chiếu xạ An Phú"
+    },
+    {
+      "value": "ANV",
+      "label": "ANV - HOSE - Cổ phiếu CTCP Nam Việt"
+    },
+    {
+      "value": "ANT",
+      "label": "ANT - UPC - Cổ phiếu Công ty cổ phần Rau quả thực phẩm An Giang"
+    },
+    {
+      "value": "AMV",
+      "label": "AMV - HNX - Cổ phiếu CTCP Sản xuất Kinh doanh dược & trang thiết bị Y tế Việt Mỹ"
+    },
+    {
+      "value": "AMS",
+      "label": "AMS - UPC - Cổ phiếu Công ty cổ phần Cơ khí Xây dựng AMECC"
+    },
+    {
+      "value": "AMP",
+      "label": "AMP - UPC - Cổ phiếu Công ty cổ phần Armephaco"
+    },
+    {
+      "value": "AME",
+      "label": "AME - HNX - Cổ phiếu Công ty cổ phần Alphanam E&C"
+    },
+    {
+      "value": "AMD",
+      "label": "AMD - HOSE - Cổ phiếu Công ty cổ phần Đầu tư và Khoáng sản FLC AMD"
+    },
+    {
+      "value": "AMC",
+      "label": "AMC - HNX - Cổ phiếu CTCP Khoáng sản Á Châu"
+    },
+    {
+      "value": "ALV",
+      "label": "ALV - UPC - Cổ phiếu Công ty cổ phần Đầu tư Phát triển Hạ tầng ALV"
+    },
+    {
+      "value": "ALT",
+      "label": "ALT - HNX - Cổ phiếu CTCP Văn hóa Tân Bình"
+    },
+    {
+      "value": "AGX",
+      "label": "AGX - UPC - Cổ phiếu Công ty cổ phần Thực phẩm Nông sản Xuất khẩu Sài Gòn"
+    },
+    {
+      "value": "AGR",
+      "label": "AGR - HOSE - Cổ phiếu CTCP Chứng khoán Ngân hàng Nông nghiệp & Phát triển Nông thôn Việt Nam"
+    },
+    {
+      "value": "AGP",
+      "label": "AGP - UPC - Cổ phiếu Công ty cổ phần Dược phẩm Agimexpharm"
+    },
+    {
+      "value": "AGM",
+      "label": "AGM - HOSE - Cổ phiếu CTCP Xuất nhập khẩu An Giang"
+    },
+    {
+      "value": "AGF",
+      "label": "AGF - HOSE - Cổ phiếu CTCP Xuất nhập khẩu Thủy sản An Giang"
+    },
+    {
+      "value": "AG1",
+      "label": "AG1 - UPC - Cổ phiếu Công ty cổ phần 28.1"
+    },
+    {
+      "value": "AFX",
+      "label": "AFX - UPC - Cổ phiếu Công ty cổ phần Xuất nhập khẩu Nông sản Thực phẩm An Giang"
+    },
+    {
+      "value": "AFC",
+      "label": "AFC - UPC - Cổ phiếu Công ty cổ phần Nông Lâm Nghiệp Bình Dương"
+    },
+    {
+      "value": "ADS",
+      "label": "ADS - HOSE - Cổ phiếu Công ty cổ phần Damsan"
+    },
+    {
+      "value": "ADP",
+      "label": "ADP - UPC - Cổ phiếu CTCP Sơn Á Đông"
+    },
+    {
+      "value": "ADC",
+      "label": "ADC - HNX - Cổ phiếu CTCP Mỹ thuật và Truyền Thông"
+    },
+    {
+      "value": "ACV",
+      "label": "ACV - UPC - Cổ phiếu Tổng Công ty Cảng hàng không Việt Nam - CTCP"
+    },
+    {
+      "value": "ACS",
+      "label": "ACS - UPC - Cổ phiếu Công ty cổ phần Xây lắp Thương mại 2"
+    },
+    {
+      "value": "ACM",
+      "label": "ACM - HNX - Cổ phiếu Công ty cổ phần Tập đoàn Khoáng sản Á Cường"
+    },
+    {
+      "value": "ACL",
+      "label": "ACL - HOSE - Cổ phiếu CTCP Xuất nhập khẩu Thủy sản Cửu Long An Giang"
+    },
+    {
+      "value": "ACE",
+      "label": "ACE - UPC - Cổ phiếu CTCP Bê tông Ly tâm An Giang"
+    },
+    {
+      "value": "ACC",
+      "label": "ACC - HOSE - Cổ phiếu CTCP Bê tông Becamex"
+    },
+    {
+      "value": "ACB",
+      "label": "ACB - HNX - Cổ phiếu Ngân hàng TMCP Á Châu"
+    },
+    {
+      "value": "AC4",
+      "label": "AC4 - UPC - Cổ phiếu Công ty cổ phần ACC - 244"
+    },
+    {
+      "value": "ABT",
+      "label": "ABT - HOSE - Cổ phiếu CTCP Xuất nhập khẩu Bến Tre"
+    },
+    {
+      "value": "ABR",
+      "label": "ABR - UPC - Cổ phiếu Công ty cổ phần Đầu tư Nhãn Hiệu Việt"
+    },
+    {
+      "value": "ABI",
+      "label": "ABI - UPC - Cổ phiếu CTCP Bảo hiểm Ngân hàng Nông Nghiệp"
+    },
+    {
+      "value": "ABC",
+      "label": "ABC - UPC - Công ty cổ phần truyền thông VMG"
+    },
+    {
+      "value": "AAV",
+      "label": "AAV - HNX - Cổ phiếu Công ty cổ phần Việt Tiên Sơn Địa ốc"
+    },
+    {
+      "value": "AAM",
+      "label": "AAM - HOSE - Cổ phiếu CTCP Thủy sản MeKong"
+    },
+    {
+      "value": "AAA",
+      "label": "AAA - HOSE - Cổ phiếu CTCP Nhựa An Phát Xanh"
+    },
+    {
+      "value": "A32",
+      "label": "A32 - UPC - Co phieu Cong ty co phan 32"
+    }
+  ]

@@ -1,0 +1,61 @@
+.table {
+  color: inherit;
+  margin-bottom: 0;
+}
+.table th, .table td {
+    border-top: unset;
+}
+
+// .modal-content {
+// 	border: 1px solid rgba(138, 117, 117, 0.2);
+// }
+.form-control:focus {
+  color: inherit;
+  background-color: var(--main__background__color);
+  box-shadow: none;
+}
+.input-group-text.input-group-text-custom {
+	border: 0
+}
+.btn-group > .btn:focus, .btn-group > .btn:active, .btn-group > .btn.active, .btn-group-vertical > .btn:focus, .btn-group-vertical > .btn:active, .btn-group-vertical > .btn.active {
+  z-index: unset;
+}
+.btn-group {
+  display: flex;
+  align-items: center;
+}
+
+.modal-header, .modal-footer {
+  align-items: center;
+  justify-content: center;
+  border: unset;
+}
+
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-link.active:hover {
+    color: var(--main__content__color);
+    background-color: var(--sidebar__background__color);
+    cursor: context-menu;
+    border-color: #17a290;
+    border-bottom: 5px solid #17a290;
+}
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+    border-color: #17a290;
+    border-bottom: 5px solid #17a290;
+}
+
+.modal-content {
+  border: 1px solid var(--third__border__color);
+}
+.card {
+  border: unset;
+  background-color: inherit;
+}
+.change-password .card {
+    margin-bottom: 20px;
+}
+
+.card-body {
+  min-height: unset;
+}

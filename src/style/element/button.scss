@@ -1,0 +1,124 @@
+// button element 
+@import '../tools/mixins';
+
+button {
+    
+}
+
+.btn-cancel {
+    background-color: #5E678D;
+    color: white;
+    border-color: #5E678D;
+}
+
+
+.btn-info:not(:disabled):not(.disabled).active,
+.btn-info:not(:disabled):not(.disabled):active,
+.show > .btn-info.dropdown-toggle {
+    color: var(--main__content__color);
+    background-color: var(--altisss_green);
+    border-color: var(--altisss_green);
+}
+.btn.btn-info {
+    background-color: var(--altisss_green);
+    border: none;
+    @include transition(all 0.3s ease);
+
+    // -webkit-transition: all 0.3s ease;
+    // -moz-transition: all 0.3s ease;
+    // -ms-transition: all 0.3s ease;
+    // -o-transition: all 0.3s ease;
+    // transition: all 0.3s ease;
+}
+.btn.btn-info:hover,
+.btn.btn-info:active,
+.btn.btn-info.hover {
+    background-color: var(--state__floor__color);
+    border: none;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.btn.btn-danger {
+    background-color: #ef6378;
+    border: none;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.btn.btn-danger:hover,
+.btn.btn-danger:active,
+.btn.btn-danger.hover,
+.btn.btn-danger.active {
+    background-color: #ef6378;
+    border-color: none;
+    @include transition(all 0.3s ease);
+
+    // -webkit-transition: all 0.3s ease;
+    // -moz-transition: all 0.3s ease;
+    // -ms-transition: all 0.3s ease;
+    // -o-transition: all 0.3s ease;
+    // transition: all 0.3s ease;
+}
+
+.btn-secondary {
+    color: var(--btn-secondary-color);
+    background-color: var(--altisss_button);
+    border: 1px solid var(--altisss_button);
+}
+
+.btn-secondary:not(:disabled):not(.disabled):active, 
+.btn-secondary:not(:disabled):not(.disabled).active, 
+.show > .btn-secondary.dropdown-toggle {
+    background-color: var(--altisss_green);
+    border-color: var(--altisss_green);
+
+    @include transition(all 0.3s ease);
+}
+
+
+.btn.btn-secondary:hover,
+.btn.btn-secondary:active,
+.btn.btn-secondary.hover,
+.btn.btn-secondary.active {
+    background-color: var(--altisss_green);
+    border-color: var(--altisss_green);
+
+    @include transition(all 0.3s ease);
+
+    // -webkit-transition: all 0.3s ease;
+    // -moz-transition: all 0.3s ease;
+    // -ms-transition: all 0.3s ease;
+    // -o-transition: all 0.3s ease;
+    // transition: all 0.3s ease;
+}
+
+.btn-cancel.fixButton:hover {
+    background-color: #8794c9 !important;
+    color: whitesmoke;
+}
+.btn-wizard {
+    background-color: var(--altisss_green);
+    color: white;
+}
+.btn.btn-wizard:hover {
+    background-color: #289183;
+    color: whitesmoke;
+}
+.disabled.btn.btn-wizard:hover {
+    background: #eceeef;
+    color: rgba(85, 85, 85, 0.7);
+}
+
+.btn.btn-cancel:hover {
+    background-color: #737ead;
+    color: white;
+    border-color: #737ead;
+}
+.btn-xm {
+    border-radius: 2px;
+    color: inherit;
+    border-color: hsla(0,0%,93.3%,.44);
+}

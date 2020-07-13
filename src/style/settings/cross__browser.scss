@@ -1,0 +1,18 @@
+//Cross Browser settings
+// Do app làm trên nền electron nhân chromium nên crossbrowser
+// là không cần thiết
+
+//   ::placeholder {
+//     color: var(--component__light_blue);
+//     opacity: 1; /* Firefox */
+//   }
+
+//   :-ms-input-placeholder {
+//     /* Internet Explorer 10-11 */
+//     color: var(--component__light_blue);
+//   }
+
+//   ::-ms-input-placeholder {
+//     /* Microsoft Edge */
+//     color: var(--component__light_blue);
+//   }

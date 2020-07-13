@@ -1,0 +1,24 @@
+//Input Type Radio
+input[type="radio"] {
+  margin-right: 2px;
+  margin-bottom: 0px;
+  margin-left: 2px;
+  margin-top: 2px;
+}
+
+input[type="radio"]:checked ~ .check {
+border: 2px solid var(--component__green);
+}
+
+input[type="radio"]:checked ~ .check::before {
+background: var(--component__green);
+}
+
+input[type="radio"]:checked ~ label {
+color: var(--text__green);
+}
+
+td input[type="radio"] {
+    position: absolute;
+    visibility: hidden;
+}

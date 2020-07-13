@@ -1,0 +1,68 @@
+{
+    "global": {},
+    "floating": {},
+    "borders": [],
+    "layout": {
+        "type": "row",
+        "weight": 100,
+        "children": [
+            {
+                "type": "row",
+                "weight": 50,
+                "children": [
+                    {
+                        "type": "tabset",
+                        "weight": 100,
+                        "height": 500,
+                        "selected": 0,
+                        "children": [
+                            {
+                                "type": "tab",
+                                "name": "common_index_chart_info",
+                                "component": "common_index_chart_info0",
+                                "config": {
+                                    "component": "common_index_chart_info0",
+                                    "index1": 0,
+                                    "index2": 0
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "tabset",
+                        "selected": 0,
+                        "children": [
+                            {
+                                "type": "tab",
+                                "name": "overview_market_tab",
+                                "component": "OVERVIEW_MARKET_TAB0",
+                                "config": {
+                                    "component": "OVERVIEW_MARKET_TAB0",
+                                    "index1": 0,
+                                    "index2": 3
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "tabset",
+                "weight": 50,
+                "selected": 0,
+                "children": [
+                    {
+                        "type": "tab",
+                        "name": "history_market_tab",
+                        "component": "HISTORY_MARKET_TAB0",
+                        "config": {
+                            "component": "HISTORY_MARKET_TAB0",
+                            "index1": 0,
+                            "index2": 4
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

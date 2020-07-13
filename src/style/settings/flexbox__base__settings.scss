@@ -1,0 +1,18 @@
+// Các class cơ sở của hệ thống layout bằng flex-box
+
+
+.flexbox__row__wrap {
+    min-width: unset;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.flexbox__row__nowrap {
+    min-width: unset;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: nowrap;
+}

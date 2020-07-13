@@ -1,0 +1,286 @@
+// Color (primary, secondary, and primary color variants)
+// Surfaces (backgrounds and components)
+// States (ví dụ như error, warning, success, giá lên xuống, ...)
+// Content (typography and iconography)
+
+
+:root {
+    //Main color boostrap
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+
+    //Main color custom altisss
+    --altisss_main_dark_color: #1F2329;
+    --altisss_main_light_color: silver;
+    --altisss_light: #E1E1E1;
+    --altisss_light_green: #67A96C;
+    --altisss_light_gray: #AAAAAA;
+    --altisss_light_blue: #9E9DB6;
+    --altisss_deep_gray: #323a4b;
+    --altisss_marqueen_dark: #3a3421ed;
+    --altisss_green: #17a290;
+
+
+
+    // States (ví dụ như error, warning, success, giá lên xuống, ...)
+    --state__down__color: #ff3737 ;
+    --state__up__color: #00ff77;
+    --state__ceil__color: #f618fb;
+    --state__floor__color: #00d3b8;
+    --state__basic__color: #f2c94c;
+
+
+    //Surface, border or component color
+    --component__main_dark: var(--altisss_main_dark_color);
+    --component__main_light: var(--altisss_main_light_color);
+    --component__green: var(--altisss_light_green);
+    --component__gray: var(--altisss_light_gray);
+    --component__light: var(--altisss_light);
+    --component__light_blue: var(--altisss_light_blue);
+    --component__white: var(--white);
+    --component__deep_gray: var(--altisss_deep_gray);
+
+
+    // Content (typography and iconography)
+    --text__main_dark: var(--altisss_main_dark_color);
+    --text__green: var(--altisss_light_green);
+    --text__gray: var(--altisss_light_gray);
+
+    // react-select
+    --component__search_background: '#273040'
+
+}
+
+.dark-theme {
+    //Surface, border or component color
+    --main__background__color: var(--altisss_main_dark_color);
+    --secondary__background__color: var(--altisss_deep_gray);
+    --third__background__color: var(--altisss_light_blue);
+    //Sidebar color --------------
+    --sidebar__background__color: #273040;
+    //Flexlayout color -----------
+    --flexlayout__background: #25282e;
+    --flexlayout__select: #212630;
+    --flexlayout__maximize: #2e3d4c;
+    // Marqee color --------------
+    --marqee__background__color: #2a2d34;
+    //------------------
+    --main__border__color: #55555575;
+    --secondary__border__color: var(--gray);
+    --third__border__color: #d7b21c; // dùng cho border form, modal
+    //------------------
+    --main__table__background: #273040;
+    --secondary__table__background: var(--main__background__color);
+    --third__table__background: #232931;
+    --hover__table__background: rgba(45,132,168,.5)!important;
+    //------------------- scrollbar
+    --scrollbar__thumb: #666;
+    --scrollbar__track: #36324a;
+    //------------------- form
+    --form__background: #232931;
+
+    --altisss_button: #3b4552;
+
+    // States (ví dụ như error, warning, success, giá lên xuống, ...)
+    --state__down__color: #ff3737;      //giá xuống
+    --state__up__color: #0f7;        //giá lên
+    --state__ceil__color: #f618fb;      //giá trần
+    --state__floor__color: rgb(82, 211, 249);     //giá sàn
+    --state__basic__color: #f2c94c;     //giá tham chiếu
+    --flash_up: blue;
+    --flash_down: red;
+
+    // Content (typography and iconography)
+    --main__content__color: var(--altisss_main_light_color);
+    --secondary__content__color: #17a290;
+ 
+    //-- color for priceboard
+    // --hover__background_pb: #2D84A8;
+    // --color__table_pb: rgb(255, 255, 255);
+    // --color__up_pb: rgb(11, 223, 57);
+    // --color__down_pb: rgb(255, 0, 23);
+    // --color__ref_pb: rgb(253, 255, 18);
+    // --odd_background_pb: rgb(5, 4, 15);
+    // --even_background_pb: rgb(23, 18, 37);
+    // --hilight_background_pb: #282828;
+
+    // --hover__background_pb: #315e7175;
+    // --color__table_pb: rgb(255, 255, 255);
+    // --color__up_pb: rgb(11, 223, 57);
+    // --color__down_pb: rgb(255, 0, 23);
+    // --color__ref_pb: rgb(253, 255, 18);
+    // --odd_background_pb: var(--third__table__background);
+    // --even_background_pb: var(--secondary__table__background);
+    // --cell__hightlight_even: #2d343e75;
+    // --cell__hightlight_odd: #2c343e;
+
+    --hover__background_pb: #004D40 !important;
+    --color__table_pb: rgb(238, 232, 232);
+    --color__up_pb: rgb(11, 223, 57);
+    --color__down_pb: rgb(255, 17, 38);
+    --color__ref_pb: rgb(253, 255, 18);
+    --odd_background_pb: var(--third__table__background);
+    --even_background_pb: var(--secondary__table__background);
+    --cell__hightlight_even: #2d343e75;
+    --cell__hightlight_odd: #2C343E;
+    --border__pb: #343434;
+    --shadow__pb: #0d0f27;
+
+    // place-order
+    --border__sell_buy: #303030;
+    --btn-secondary-color: #d3d3d3;
+
+    --checkbox__bg: #14181f;
+    --icon: white;
+    --overview__border-right: #6b5d5d;
+}
+
+.light-theme {
+    //Surface, border or component color
+    --main__background__color: #FFFFFF;
+    --secondary__background__color: #BDC1C5;
+    --third__background__color: #E8EAED;
+    //Sidebar color --------------
+    --sidebar__background__color: #f1f3f4;
+        //Flexlayout color -----------
+    --flexlayout__background: #FFFFFF;
+    --flexlayout__select: #DCDCDC;
+    --flexlayout__maximize: #DCDCDC;
+    // Marqee color --------------
+    --marqee__background__color: #F1F3F4;
+    //------------------
+    --main__border__color: var(--altisss_light);
+    --secondary__border__color: var(--altisss_light);
+    --third__border__color: #d7b21c;
+    //------------------
+    --main__table__background: #eee;
+    --secondary__table__background: #f1f3f4;
+    --third__table__background: transparent;
+    --hover__table__background: #BDCFEE;
+    //------------------- scrollbar
+    --scrollbar__thumb: #9e9db6;
+    --scrollbar__track: rgb(221, 221, 221);
+    //------------------- form
+    --form__background: #f8f9fa;
+
+    --altisss_button: #d7d7d7;
+
+    // States (ví dụ như error, warning, success, giá lên xuống, ...)
+    --state__down__color: #ff3737;      //giá xuống
+    --state__up__color: #03bb4a;        //giá lên
+    --state__ceil__color: #f618fb;      //giá trần
+    --state__floor__color: #00d3b8;     //giá sàn
+    --state__basic__color: #f2c94c;     //giá tham chiếu
+    --flash_up: blue;
+    --flash_down: red;
+
+    // Content (typography and iconography)
+    --main__content__color: #4D4F51;
+    --secondary__content__color: var(--altisss_deep_gray);
+
+
+    //priceboard
+    --hover__background_pb: #D9ECFF !important;
+    --color__table_pb: #4D4F51;
+    --color__up_pb: rgb(11, 223, 57);
+    --color__down_pb: rgb(255, 17, 38);
+    --color__ref_pb: rgb(253, 255, 18);
+    --odd_background_pb: var(--secondary__table__background);
+    --even_background_pb: var(--third__table__background);
+    --cell__hightlight_even: #f8f9fa;
+    --cell__hightlight_odd: rgb(241, 243, 244);
+    --border__pb: #e4e4e4;
+    --shadow__pb: #c1c1c1;
+
+    // place-order
+    --border__sell_buy: #d7d7d7;
+    --btn-secondary-color: #848181;
+
+    --checkbox__bg: #c5c5c5;
+    --icon: #b7b5b5;
+    --overview__border-right: #dcdada;
+}
+
+.dark-theme-china {
+    //Surface, border or component color
+    --main__background__color: var(--altisss_main_dark_color);
+    --secondary__background__color: var(--altisss_deep_gray);
+    --third__background__color: var(--altisss_light_blue);
+    //Sidebar color --------------
+    --sidebar__background__color: #273040;
+    //------------------
+    --main__border__color: var(--gray);
+    --secondary__border__color: var(--gray);
+    --third__border__color: #d7b21c;
+    //------------------
+    --main__table__background: #273040;
+    --secondary__table__background: #232931;
+    --third__table__background: transparent;
+    --hover__table__background: #2D84A8;
+
+    // States (ví dụ như error, warning, success, giá lên xuống, ...)
+    --state__down__color: #ff3737;      //giá xuống
+    --state__up__color: #00ff77;        //giá lên
+    --state__ceil__color: #f618fb;      //giá trần
+    --state__floor__color: #00d3b8;     //giá sàn
+    --state__basic__color: #f2c94c;     //giá tham chiếu
+    --flash_up: red;
+    --flash_down: blue;
+
+    // Content (typography and iconography)
+    --main__content__color: var(--altisss_main_light_color);
+    --secondary__content__color: var(--altisss_light_gray);
+
+
+}
+
+.light-theme-china {
+    //Surface, border or component color
+    --main__background__color: var(--altisss_main_light_color);
+    --secondary__background__color: #bdc1c5;
+    --third__background__color: var(--altisss_deep_gray);
+    //Sidebar color --------------
+    --sidebar__background__color: #f1f3f4;
+    //------------------
+    --main__border__color: var(--gray);
+    --secondary__border__color: var(--gray);
+    --third__border__color: #d7b21c;
+    //------------------
+    --main__table__background: #273040;
+    --secondary__table__background: #232931;
+    --third__table__background: transparent;
+    --hover__table__background: #2D84A8;
+
+    // States (ví dụ như error, warning, success, giá lên xuống, ...)
+    --state__down__color:  #00ff77;      //giá xuống
+    --state__up__color: #ff3737;        //giá lên
+    --state__ceil__color: #f618fb;      //giá trần
+    --state__floor__color: #00d3b8;     //giá sàn
+    --state__basic__color: #f2c94c;     //giá tham chiếu
+    --flash_up: red;
+    --flash_down: blue;
+
+    // Content (typography and iconography)
+    --main__content__color: var(--altisss_main_dark_color);
+    --secondary__content__color: var(--altisss_deep_gray);
+
+}

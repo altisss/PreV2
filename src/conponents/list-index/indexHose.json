@@ -1,0 +1,25 @@
+[{
+  "key": "VN30",
+  "value": "Chỉ số VN30"
+}, {
+  "key": "VN100",
+  "value": "Chỉ số VN100"
+}, {
+  "key": "VNX50",
+  "value": "Chỉ số VNX50"
+}, {
+  "key": "VNXALL",
+  "value": "VNXAllShare"
+}, {
+  "key": "VNFIN",
+  "value": "Chỉ số VNFinancials/Tài chính"
+}, {
+  "key": "VNREAL",
+  "value": "Chỉ số VNReal Estate/Bất động sản"
+}, {
+  "key": "VNSML",
+  "value": "Chỉ số VNSmallcap"
+}, {
+  "key": "VNMID",
+  "value": "Chỉ số VNMidcap"
+}]

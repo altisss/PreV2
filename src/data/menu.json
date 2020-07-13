@@ -1,0 +1,187 @@
+[
+    {
+      "title": "market_info",
+      "routerLink": " ",
+      "icon": "fa fa-bar-chart-o",
+      "subMenu": [
+        {
+          "title": "overview_market_tab",
+          "routerLink": "OVERVIEW_MARKET_TAB"
+        },
+        {
+          "title": "history_market_tab",
+          "routerLink": "HISTORY_MARKET_TAB"
+        },
+        {
+          "title": "liquid_market_tab",
+          "routerLink": "LIQUID_MARKET_TAB"
+        },
+        {
+          "title": "trade_foreigner_tab",
+          "routerLink": "TRADE_FOREIGNER_TAB"
+        },
+        {
+          "title": "own_foreiger_tab",
+          "routerLink": "OWN_FOREIGER_TAB"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "sb_right_list_info",
+          "routerLink": "right-info"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "sb_orderAdvert",
+          "routerLink": "advertis-order"
+        }
+      ]
+    },
+    {
+      "title": "transaction_stock",
+      "routerLink": " ",
+      "icon": "fa fa-exchange",
+      "subMenu": [
+        {
+          "title": "place_advOrder_order",
+          "routerLink": "advance-order"
+        },
+        {
+          "title": "rgt_sell_oddlot",
+          "routerLink": "oddlot-order"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "sb_confirm_order_tickets",
+          "routerLink": "confirm-order"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "sb_transfer_share_title",
+          "routerLink": "stock-transfer"
+        },
+        {
+          "title": "right_for_buy",
+          "routerLink": "right-forbuy"
+        }
+      ]
+    },
+    {
+      "title": "transaction_cash",
+      "routerLink": " ",
+      "icon": "fa fa-credit-card",
+      "subMenu": [
+        {
+          "title": "bank_online",
+          "routerLink": "bank-connection"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "sb_deposite_msg",
+          "routerLink": "deposit-inform"
+        },
+        {
+          "title": "sb_withdraw_req",
+          "routerLink": "cash-withdraw"
+        },
+        {
+          "title": "sb_transfer_cash_title",
+          "routerLink": "cash-transfer"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "sb_cash_advance",
+          "routerLink": "cashin-advance"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "sb_margin_repay",
+          "routerLink": "repay-margin"
+        },
+        {
+          "title": "sb_exten_ctrmargin",
+          "routerLink": "extend-contract"
+        }
+      ]
+    },
+    {
+      "title": "sb_portfolioMng",
+      "routerLink": " ",
+      "icon": "fa fa-dollar",
+      "subMenu": [{
+          "title": "sb_assetsMng",
+          "routerLink": "asset-manage"
+        },
+        {
+          "title": "sb_assetMargin",
+          "routerLink": "asset-margin"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "sb_transactionSmt",
+          "routerLink": "transaction-info"
+        }
+      ]
+    },
+    {
+      "title": "features_other",
+      "routerLink": "",
+      "icon": "fa fa-ellipsis-h",
+      "subMenu": [{
+        "title": "common_change_login_pass",
+        "routerLink": "change-login"
+      },
+      {
+        "title": "common_change_order_pass",
+        "routerLink": "change-order"
+      },
+      {
+        "title": "divider-top",
+        "routerLink": ""
+      },
+      {
+        "title": "reset_container",
+        "routerLink": "reset-container"
+      },
+      {
+        "title": "divider-top",
+        "routerLink": ""
+      },
+      {
+        "title": "dark_theme",
+        "routerLink": "dark-theme"
+      },
+      {
+        "title": "light_theme",
+        "routerLink": "light-theme"
+      },
+      {
+        "title": "divider-top",
+        "routerLink": ""
+      }
+    ]
+    }
+  ]

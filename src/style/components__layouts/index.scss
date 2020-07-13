@@ -1,0 +1,24 @@
+//Components – Chỉ định đến từng component UI cụ thể. Đây là nơi chúng ta dành phần lớn thời gian để làm việc và các component UI của tôi thường bao gồm cả Object và Component.
+// Tìm hiểu thêm về ITCSS ở file cssdocument.md
+
+
+//-------------------- Các css cũ từ web chưa tách xong
+@import './main-style.scss';
+@import './wizard__rewrite.scss';
+//-------------------- Component là file css tùy chỉnh cho các component 
+// dùng chung ở nhiều màn hình
+@import './components/priceboard.component.scss';
+@import './components/placeorder.component.scss';
+@import './components/div-bottom-elm.component.scss';
+@import './components/header-style.component.scss';
+@import './components/left-sidebar-style.component.scss';
+@import './components/vote__modal.component.scss';
+@import './components/optiontable.component.scss';
+@import './components/wizard__modal.component.scss';
+@import './components/modal__notify.component.scss';
+//-------------------- Mỗi màn hình tương ứng với một file css layout 
+// chỉ ảnh hưởng trên màn hình đó
+@import './main__content.layout.scss';
+@import './layouts/asset__manage.layout.scss';
+@import './layouts/bank__connection.layout.scss';
+@import './layouts/stock-info.layout.scss';

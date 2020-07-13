@@ -1,0 +1,17 @@
+[ {"key": "c1_ol", "value": true, "disable": false, "name": "time" },
+  {"key": "c17_ol", "value": false, "disable": false, "name": "order_number" },
+  {"key": "c0_ol", "value": false, "disable": false, "name": "origin_order_number" },
+  {"key": "c11_ol", "value": true, "disable": false, "name": "order_status" }, 
+  {"key": "c4_ol", "value": true, "disable": false, "name": "short_symbol" },
+  {"key": "c22_ol", "value": true, "disable": false, "name": "sell_buy_tp" },
+  {"key": "c3_ol", "value": true, "disable": false, "name": "order" }, 
+  {"key": "c6_ol", "value": true, "disable": false, "name": "price_plc" }, 
+  {"key": "c7_ol", "value": true, "disable": false, "name": "qty_wait_match" }, 
+  {"key": "c8_ol", "value": true, "disable": false, "name": "sum_match_qty" }, 
+  {"key": "c9_ol", "value": true, "disable": false, "name": "avg_match_price" }, 
+  {"key": "c10_ol", "value": true, "disable": false, "name": "sum_match_value" }, 
+  {"key": "c19_ol", "value": true, "disable": false, "name": "order_tp" }, 
+  {"key": "c12_ol", "value": false, "disable": false, "name": "exchanges_order_number" }, 
+  {"key": "c21_ol", "value": false, "disable": false, "name": "common_chanel" },
+  {"key": "c23_ol", "value": false, "disable": false, "name": "person_place_order" }
+]

@@ -1,0 +1,31 @@
+  // override React tabs
+  
+  
+  
+  .react-tabs__tab:focus:after {
+    background: unset;
+  }
+  .react-tabs__tab-panel--selected {
+    display: block;
+    border-top: unset !important;
+    border: 1px solid var(--secondary__background__color);
+  }
+  .react-tabs__tab-list {
+    border-bottom: 1px solid var(--secondary__background__color);
+    margin: 0;
+  }
+  .react-tabs__tab {
+    color: var(--main__content__color);
+  }
+  .react-tabs__tab--selected {
+    background: var(--secondary__background__color);
+    border-color: var(--secondary__background__color);
+    border-bottom: 1px solid var(--secondary__background__color);
+    color: var(--main__content__color);
+  }
+  .market-index .react-tabs__tab--selected {
+    background: inherit;
+    border-color: var(--secondary__background__color);
+    border-bottom: 1px solid var(--secondary__background__color);
+    color: var(--main__content__color);
+  }

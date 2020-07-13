@@ -1,0 +1,16 @@
+[ {"key": "c17_advOrd", "value": true, "disable": false, "name": "order_number" },
+  {"key": "c4_advOrd", "value": true, "disable": false, "name": "short_symbol" }, 
+  {"key": "c3_advOrd", "value": true, "disable": false, "name": "sell_buy_tp" }, 
+  {"key": "c5_advOrd", "value": true, "disable": false, "name": "order_tp" }, 
+  {"key": "c21_advOrd", "value": true, "disable": false, "name": "session" }, 
+  {"key": "c6_advOrd", "value": true, "disable": false, "name": "qty" }, 
+  {"key": "c7_advOrd", "value": true, "disable": false, "name": "price" }, 
+  {"key": "c9_advOrd", "value": true, "disable": false, "name": "effective_date" }, 
+  {"key": "c10_advOrd", "value": true, "disable": false, "name": "expired_date" }, 
+  {"key": "c19_advOrd", "value": true, "disable": false, "name": "order_status" }, 
+  {"key": "c20_advOrd", "value": true, "disable": false, "name": "common_chanel" }, 
+  {"key": "c14_advOrd", "value": true, "disable": false, "name": "processe_content" }, 
+  {"key": "c11_advOrd", "value": true, "disable": false, "name": "place_order_person" },
+  {"key": "c12_advOrd", "value": true, "disable": false, "name": "place_order_time" }, 
+  {"key": "c18_advOrd", "value": true, "disable": false, "name": "time_put_order" }
+]

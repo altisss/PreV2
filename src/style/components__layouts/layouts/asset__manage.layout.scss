@@ -1,0 +1,11 @@
+.AssetManage__layout, .AssetMargin__layout {
+    display: block;
+    height: 100%;
+    overflow: auto;
+    .form-horizontal {
+        width: 99%;
+    }
+}
+.width-assets {
+    min-width: 1224px;
+}

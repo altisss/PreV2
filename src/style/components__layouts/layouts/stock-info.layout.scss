@@ -1,0 +1,19 @@
+// src/layout/stock-info-layout
+
+
+// stock info
+
+.stock-info {
+    font-size: 1rem;
+
+    .react-stockcharts-tooltip {
+        fill: var(--secondary__background__color);
+    }
+}
+.stockInfoExtent {
+    table.tableStockInfo {
+        background-color: var(--main__background__color);
+    }
+}
+
+//

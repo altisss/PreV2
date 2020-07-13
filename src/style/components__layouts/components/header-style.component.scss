@@ -1,0 +1,185 @@
+#header__section {
+    height: 82px;
+    clear: both;
+    position: absolute;
+    min-width: 1140px;
+    width: 100vw;
+
+    background: var(--main__background__color);
+    color: var(--main__content__color);
+
+    display: flex;
+
+    .header__marquee {
+      cursor: pointer;
+      width: 10vw;
+      .col-sm-12 {
+        padding: 0;
+      }
+        // margin-top: 34px;
+    }
+
+    .header__acount_info__element {
+      height: 38px;
+      padding: 2px 0;
+      float: left;
+      min-width: 456px;
+    }
+
+    .header__logo {
+        width: 200px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        .header__logo--img {
+          height: 35px;
+          margin: auto 2px;
+        }
+    }
+
+    .header__ribbon {
+        width: 100%;
+        font-size: 1.1rem;
+        height: 82px;
+        clear: both;
+        padding-left: 10px;
+        overflow: hidden;
+        padding-top: 10px;
+
+        .form-inline {
+          height: 100%;
+        }
+      
+        .form-control.acntTopDiv {
+          background: var(--main__background__color);
+          border: 1px solid var(--component__gray);
+        }
+        .acntValue {
+          color: var(--state__floor__color);
+        }
+        .acntTopDiv.disabled {
+          border: none;
+          height: 26px !important;
+          font-size: 1.1rem;
+        }
+        .fa.fa-eye {
+          color: var(--component__light_blue);
+        }
+        .acntTopDiv {
+          color: var(--main__content__color);
+        }
+        .notify-top {
+          color: var(--state__basic__color);
+        }
+        .login-logout-top {
+          color: var(--state__down__color);
+        }
+    }
+
+    .notifi-maque-wrap {
+      border-radius: 29px;
+      background-color: var(--marqee__background__color);
+      padding-top: 3px;
+      height: 46px;
+      display: flex;
+    }
+
+    span.control-span.color_not_notify {
+      color: var(--main__content__color);
+    }
+    .color-active {
+      color: var(--component__green);
+    }
+
+    .serverTime {
+      font-size: 1.2rem;
+      font-family: monospace;
+    }
+
+    .menu-item-element {
+      position: relative;
+      padding: 6px 16px;
+    }
+
+    .acntTopDiv {
+      height: 25px !important;
+      padding: 3px 5px !important;
+      color: #eaf191;
+      background-color: inherit;
+      border: 0;
+      border-width: 0;
+      font-size: 1.1rem;
+      box-sizing: border-box;
+      border-radius: 2px;
+    }
+
+    .acntValue {
+      color: #eaf191;
+    }
+
+    .control-span {
+      display: inline-block;
+      width: auto;
+      vertical-align: middle;
+      margin-top: 2px;
+      border: 0;
+      outline: none;
+      background-color: inherit;
+      cursor: default;
+      margin-right: 5px
+    }
+
+    .load-wrapp {
+        float: left;
+        width: 84px;
+        p {padding: 0 0 20px;}
+        &:last-child {margin-right: 0;}
+        .letter {
+            float: left;
+            color: red;
+            font-weight: 600;
+        }
+        .load-animation .letter {
+          animation-name: loadingF;
+          animation-duration: 1.6s;
+          animation-iteration-count: infinite;
+          animation-direction: linear;
+        }
+        @keyframes loadingF {
+          0% {opacity: 0;}
+          100% {opacity: 1;}
+        }
+        .l-1 {animation-delay: .48s;}
+        .l-2 {animation-delay: .6s;}
+        .l-3 {animation-delay: .72s;}
+        .l-4 {animation-delay: .84s;}
+        .l-5 {animation-delay: .96s;}
+        .l-6 {animation-delay: 1.08s;}
+        .l-7 {animation-delay: 1.2s;}
+        .l-8 {animation-delay: 1.32s;}
+        .l-9 {animation-delay: 1.44s;}
+        .l-10 {animation-delay: 1.56s;}
+        .l-11 {animation-delay: 1.68s;}
+        .l-12 {animation-delay: 1.80s;}
+    }
+}
+
+@media (max-width: 1000px) {
+  #header__section {
+    .header__marquee {
+      display: none;
+    }
+  }
+}
+
+
+
+
+// -- Cho menu child
+
+
+
+
+
+

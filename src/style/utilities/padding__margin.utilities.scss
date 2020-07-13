@@ -1,0 +1,18 @@
+// Ghi đè các css khác
+
+
+.no-padding {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.no-padding-left {
+  padding-left: 0 !important;
+}
+.no-padding-right {
+  padding-right: 0 !important;
+}
+
+.marginAuto {
+  margin: auto 0;
+}

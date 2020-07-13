@@ -1,0 +1,13 @@
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 1rem;
+    border:var(--state__down__color);
+}
+
+.dropdown {
+    position: relative;
+    display: block;
+  }
+
+  .dropdown:hover .dropbtn {background-color: #3e8e41;}

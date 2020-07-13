@@ -1,0 +1,2001 @@
+{
+  "active_code": "888",
+  "028": {
+    "url_mkt": ["http://trading.nsi.vn:80"],
+    "url_mkt_public": ["http://trading.nsi.vn:80"],
+    "url_trading": ["http://trading.nsi.vn:80"],
+    "domain": "http://trading.nsi.vn:80",
+    "domain_public": "http://trading.nsi.vn:80",
+    "comp_nm": "NSI",
+    "comp_full": "Công ty Cổ phần Chứng khoán Quốc Gia - NSI",
+    "comp_full_e": "National Securities Incorporation",
+    "comp_full_cn": "Công ty Cổ phần Chứng khoán Quốc Gia - NSI",
+    "copyright": "©2018 - Bản quyền Công ty Cổ phần Chứng khoán Quốc Gia - NSI",
+    "copyright_e": "©2008 National Securities Incorporation. Powered by",
+    "copyright_cn": "©2018 - Bản quyền Công ty Cổ phần Chứng khoán Quốc Gia - NSI",
+    "public": false,
+    "expiretime": 30,
+    "debug": true,
+    "hnx_30": true,
+    "hotLine": "",
+    "hotLine_e": "",
+    "hotLine_cn": "Hot line",
+    "hotLinePhone": "+84 4 944 5474",
+    "loginLogo": "028_login_logo.png",
+    "logo_nm": "nsi_logo",
+    "favicon": "028_favicon.ico",
+    "webtitle": "NSI - Web Trading System",
+    "webtitle_public": "NSI - Price Board Public",
+    "navbarLogoLink": "https://www.nsi.com.vn/",
+    "openLinkAndroid": "altisss://beta",
+    "storeLinkAndroid": "https://play.google.com/store/apps/details?id=vn.altisss.bsimts",
+    "openLinkIos": "altisss://betatrade",
+    "storeLinkIos": "https://itunes.apple.com/vn/app/beta-trade/id1404151104?mt=8",
+    "buy_stockplus": false,
+    "stockplus_link": "http://demostock.stox.vn/",
+    "discexpire": 30,
+    "riskdisclosure_link": "../assets/NSI_BanCongBoRuiRoGDTT.pdf",
+    "third_sign": "vntic",
+    "latencyTime": 7
+  },
+  "061": {
+    "url_mkt": ["http://trading.ivs.vn:80"],
+    "url_mkt_public": ["http://trading.ivs.vn:80"],
+    "url_trading": ["http://trading.ivs.vn:80"],
+    "domain": ["http://trading.ivs.vn:80"],
+    "domain_public": ["http://trading.ivs.vn:80"],
+    "comp_nm": "IVS",
+    "comp_full": "Công Ty Chứng Khoán Đầu Tư Việt Nam (IVS)",
+    "comp_full_e": "Công Ty Chứng Khoán Đầu Tư Việt Nam (IVS)",
+    "comp_full_cn": "Công Ty Chứng Khoán Đầu Tư Việt Nam (IVS)",
+    "copyright": "©2018 - Bản quyền của Công ty Cổ phần Công nghệ cao Altisss",
+    "copyright_e": "©2018 - Bản quyền của Công ty Cổ phần Công nghệ cao Altisss",
+    "copyright_cn": "©2018 - Bản quyền của Công ty Cổ phần Công nghệ cao Altisss - Tiếng Hoa",
+    "public": false,
+    "expiretime": 1,
+    "debug": false,
+    "hnx_30": true,
+    "hotLine": "",
+    "hotLine_e": "",
+    "hotLine_cn": "",
+    "hotLinePhone": "(024) 35730073",
+    "logo_nm": "061_logo",
+    "favicon": "061_favicon.ico",
+    "webtitle": "IVS - Web Trading System",
+    "webtitle_public": "IVS - Price Board Public",
+    "loginLogo": "061_login_logo.png",
+    "navbarLogoLink": "https://www.ivs.vn/",
+    "openLinkAndroid": "",
+    "storeLinkAndroid": "",
+    "openLinkIos": "",
+    "storeLinkIos": "",
+    "buy_stockplus": true,
+    "stockplus_link": "",
+    "discexpire": 30,
+    "riskdisclosure_link": "https://www.ivs.vn/",
+    "latencyTime": 200
+  },
+  "888": {
+    "url_mkt": ["http://dev.altisss.vn"],
+    "url_mkt_public": ["http://dev.altisss.vn"],
+    "url_trading": ["http://dev.altisss.vn"],
+    "domain": "http://dev.altisss.vn",
+    "domain_public": "http://dev.altisss.vn",
+    "comp_nm": "Altisss",
+    "comp_full": "Công ty Cổ phần Công nghệ cao Altisss",
+    "comp_full_e": "Công ty Cổ phần Công nghệ cao Altisss",
+    "comp_full_cn": "Công ty Cổ phần Công nghệ cao Altisss - Tiếng Hoa",
+    "copyright": "©2018 - Bản quyền của Công ty Cổ phần Công nghệ cao Altisss",
+    "copyright_e": "©2018 - Bản quyền của Công ty Cổ phần Công nghệ cao Altisss",
+    "copyright_cn": "©2018 - Bản quyền của Công ty Cổ phần Công nghệ cao Altisss - Tiếng Hoa",
+    "public": false,
+    "expiretime": 30,
+    "debug": true,
+    "hotLine": "",
+    "hotLine_e": "",
+    "hotLine_cn": "Hot line - Tiếng Hoa",
+    "hotLinePhone": "88886666666",
+    "logo_nm": "alt_logo",
+    "favicon": "alt_favicon.ico",
+    "webtitle": "Altisss - Web Trading System",
+    "loginLogo": "alt_login_logo.png",
+    "navbarLogoLink": "http://altisss.vn",
+    "openLinkAndroid": "altisss://beta",
+    "storeLinkAndroid": "https://play.google.com/store/apps/details?id=vn.altisss.bsimts",
+    "openLinkIos": "altisss://betatrade",
+    "storeLinkIos": "https://itunes.apple.com/vn/app/beta-trade/id1404151104?mt=8",
+    "buy_stockplus": true,
+    "stockplus_link": "http://demostock.stox.vn/",
+    "discexpire": 30,
+    "riskdisclosure_link": "http://altisss.vn",
+    "third_sign": "vntic",
+    "latencyTime": 7,
+    "userGuild": true
+  },
+  "020": {
+    "url_mkt": ["https://tradingtest3.vise.com.vn"],
+    "url_mkt_public": ["https://tradingtest3.vise.com.vn"],
+    "url_trading": ["https://tradingtest3.vise.com.vn"],
+    "domain": "https://tradingtest3.vise.com.vn",
+    "domain_public": "https://tradingtest3.vise.com.vn",
+    "comp_nm": "VISE",
+    "comp_full": "Công ty Cổ phần Chứng khoán VISE",
+    "comp_full_e": "VISE SECURITIES INC",
+    "copyright": "©2018 - Bản quyền của Công ty Cổ phần Chứng khoán VISE - Phát triển bởi",
+    "copyright_e": "Copyright © 2018 VISE SECURITIES INC. All rights reserved. Powered by",
+    "public": false,
+    "expiretime": 30,
+    "debug": true,
+    "hotLine": "Hotline: (84-38) 3837606",
+    "hotLine_e": "Hotline: (84-38) 3837606",
+    "hotLinePhone": "383837606",
+    "logo_nm": "020_logo",
+    "favicon": "020_favicon.ico",
+    "webtitle": "VISE - Web Trading System",
+    "loginLogo": "020_login_logo.png",
+    "navbarLogoLink": "https://vise.com.vn",
+    "buy_stockplus": false,
+    "stockplus_link": "http://demostock.stox.vn",
+    "discexpire": 30,
+    "link_playStore": "https://play.google.com/store/apps/details?id=vn.com.vise.trading&amp;hl=vi",
+    "link_appStore": "https://itunes.apple.com/vn/app/vise-trading/id1444593114",
+    "link_premium": "https://www.vise.com.vn/app/VISE%20PREMIUM.exe",
+    "riskdisclosure_link": "https://vise.com.vn/CBRR.pdf",
+    "latencyTime": 7
+  },
+  "102": {
+    "url_mkt": ["http://103.17.239.79:80"],
+    "url_mkt_public": ["http://103.17.239.79:80"],
+    "url_trading": ["http://103.17.239.79:80"],
+    "url": [
+      "http://103.17.239.79:80"
+    ],
+    "url_public": [
+      "http://103.17.239.79:80"
+    ],
+    "domain": "https://trading.vn-cs.com",
+    "domain_public": "https://priceboard.vn-cs.com.vn",
+    "comp_nm": "VN-CS",
+    "comp_full": "Công ty Cổ Phần Chứng Khoán Kiến Thiết Việt Nam",
+    "comp_full_e": "VN-CS SECURITIES INC",
+    "comp_full_cn": "VN-CS SECURITIES INC (Dịch tiếng Hoa)",
+    "copyright": "©2018 - Bản quyền của Công ty Cổ Phần Chứng Khoán Kiến Thiết Việt Nam - Phát triển bởi",
+    "copyright_e": "Copyright © 2018 VN-CS SECURITIES INC. All rights reserved. Powered by",
+    "copyright_cn": "Copyright © 2018 VN-CS SECURITIES INC. All rights reserved. Powered by (Dịch tiếng Hoa)",
+    "public": false,
+    "expiretime": 30,
+    "debug": true,
+    "hotLine": "Hotline: (+84) 24 3926 0099",
+    "hotLine_e": "Hotline: (+84) 24 3926 0099",
+    "hotLine_cn": "Hotline: (+84) 24 3926 0099",
+    "hotLinePhone": "(+84) 24 3926 0099",
+    "logo_nm": "102_logo",
+    "favicon": "102_favicon.ico",
+    "webtitle": "VNCS - Web Trading System",
+    "loginLogo": "102_login_logo.png",
+    "navbarLogoLink": "https://www.vn-cs.com",
+    "buy_stockplus": false,
+    "stockplus_link": "http://demostock.stox.vn",
+    "discexpire": 30,
+    "sec_web_link": "https://www.vn-cs.com",
+    "riskdisclosure_link": "https://vn-cs.com/data/data/vncs/files/ban_cong_bo_rui_ro_%2001_03_2019.pdf",
+    "third_sign": "vntic",
+    "latencyTime": 7
+  },
+  "023": {
+    "url": ["115.165.166.55:5551"],
+    "url_public": ["115.165.166.55:5551"],
+    "domain": "http://115.165.166.55:5551",
+    "domain_public": "http://115.165.166.55:5551",
+    "comp_nm": "VSC",
+    "comp_full": "Công ty Cổ phần Chứng khoán Việt",
+    "comp_full_e": "VIET SECURITIES INC",
+    "copyright": "©2018 - Bản quyền của Công ty Cổ phần Chứng khoán Việt - Phát triển bởi",
+    "copyright_e": "Copyright © 2018 VIET SECURITIES INC. All rights reserved. Powered by",
+    "public": false,
+    "expiretime": 30,
+    "debug": false,
+    "hotLine": "Hotline: (84-38) 3837606",
+    "hotLine_e": "Hotline: (84-38) 3837606",
+    "hotLinePhone": "383837606",
+    "logo_nm": "023_logo",
+    "favicon": "023_favicon.ico",
+    "webtitle": "VSC - Web Trading System",
+    "loginLogo": "023_login_logo.png",
+    "navbarLogoLink": "https://www.viseco.vn",
+    "openLinkAndroid": "altisss://beta",
+    "storeLinkAndroid": "https://play.google.com/store/apps/details?id=vn.altisss.bsimts",
+    "openLinkIos": "altisss://betatrade",
+    "storeLinkIos": "https://itunes.apple.com/vn/app/beta-trade/id1404151104?mt=8",
+    "buy_stockplus": true,
+    "stockplus_link": "http://demostock.stox.vn",
+    "discexpire": 30,
+    "riskdisclosure_link": "https://vise.com.vn/CBRR.pdf",
+    "latencyTime": 7
+  },
+  "075": {
+    "url_mkt": ["http://tradingtest.bsi.com.vn:80"],
+    "url_mkt_public": ["http://tradingtest.bsi.com.vn:80"],
+    "url_trading": ["http://tradingtest.bsi.com.vn:80"],
+    "domain": "http://tradingtest.bsi.com.vn:80",
+    "domain_public": "http://tradingtest.bsi.com.vn:80",
+    "comp_nm": "BETA",
+    "comp_full": "Công ty Cổ phần Chứng khoán BETA",
+    "comp_full_e": "BETA SECURITIES INC",
+    "copyright": "©2018 - Bản quyền của Công ty Cổ phần Chứng khoán BETA - Phát triển bởi",
+    "copyright_e": "Copyright © 2018 BETA SECURITIES INC. All rights reserved. Powered by",
+    "public": false,
+    "expiretime": 30,
+    "debug": false,
+
+    "hotLine": "Hotline: (028) 3914 2929 - Ấn phím 3",
+    "hotLine_e": "Hotline: (028) 3914 2929 - Press key #3",
+    "hotLinePhone": "02839142929",
+    "logo_nm": "075_logo",
+    "favicon": "075_favicon.ico",
+    "webtitle": "BETA - Web Trading System",
+    "loginLogo": "075_login_logo.png",
+    "navbarLogoLink": "http://www.bsi.com.vn",
+    "openLinkAndroid": "altisss://beta",
+    "storeLinkAndroid": "https://play.google.com/store/apps/details?id=vn.altisss.bsimts",
+    "openLinkIos": "altisss://betatrade",
+    "storeLinkIos": "https://itunes.apple.com/vn/app/beta-trade/id1404151104?mt=8",
+    "buy_stockplus": true,
+    "stockplus_link": "http://demostock.stox.vn",
+    "discexpire": 30,
+    "bkvLicenseKey": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PExpY2Vuc2UgaWQ9IkwwMDEiPjxUZW5QaGFuTWVtPkJrYXZDQSBTaWduZXIgUGx1Z2luPC9UZW5QaGFuTWVtPjxOZ3VvaUNhcD5Ca2F2IENvcnBvcmF0aW9uPC9OZ3VvaUNhcD48RG9uVmlEdW9jQ2FwPkNLIEJldGE8L0RvblZpRHVvY0NhcD48SGFuU3VEdW5nPjxOZ2F5Q2FwPjEwLTA2LTIwMTk8L05nYXlDYXA+PE5nYXlIZXRIYW4+MTAtMDYtMjAyMjwvTmdheUhldEhhbj48L0hhblN1RHVuZz48UXV5ZW5TdUR1bmc+PFVuZ0R1bmc+dHJhZGluZy5ic2kuY29tLnZuPC9VbmdEdW5nPjxNb2R1bGVYTUw+MTwvTW9kdWxlWE1MPjxNb2R1bGVQREY+MTwvTW9kdWxlUERGPjxNb2R1bGVDTVM+MTwvTW9kdWxlQ01TPjxNb2R1bGVPT1hNTD4xPC9Nb2R1bGVPT1hNTD48TW9kdWxlQ2VydGlmaWNhdGVVdGlscz4xPC9Nb2R1bGVDZXJ0aWZpY2F0ZVV0aWxzPjxNb2R1bGVJbXBvcnRDZXJ0PjE8L01vZHVsZUltcG9ydENlcnQ+PC9RdXllblN1RHVuZz48U2lnbmF0dXJlIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwLzA5L3htbGRzaWcjIj48U2lnbmVkSW5mbz48Q2Fub25pY2FsaXphdGlvbk1ldGhvZCBBbGdvcml0aG09Imh0dHA6Ly93d3cudzMub3JnL1RSLzIwMDEvUkVDLXhtbC1jMTRuLTIwMDEwMzE1I1dpdGhDb21tZW50cyIvPjxTaWduYXR1cmVNZXRob2QgQWxnb3JpdGhtPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwLzA5L3htbGRzaWcjcnNhLXNoYTEiLz48UmVmZXJlbmNlIFVSST0iIj48VHJhbnNmb3Jtcz48VHJhbnNmb3JtIEFsZ29yaXRobT0iaHR0cDovL3d3dy53My5vcmcvMjAwMC8wOS94bWxkc2lnI2VudmVsb3BlZC1zaWduYXR1cmUiLz48L1RyYW5zZm9ybXM+PERpZ2VzdE1ldGhvZCBBbGdvcml0aG09Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvMDkveG1sZHNpZyNzaGExIi8+PERpZ2VzdFZhbHVlPlhDWHJ2eU0yd2VqZGNXS0dyRDBUUGVzRVh3UT08L0RpZ2VzdFZhbHVlPjwvUmVmZXJlbmNlPjwvU2lnbmVkSW5mbz48U2lnbmF0dXJlVmFsdWU+a0dHcjM1YzhxUGdXWG9HZDBzbzN1cEhNTEZnU3YzczJKdXBBUkZZcGdQTEtrczVWWG1yZjdhb3hlSDhEcHJjMjBTV25rS1FSTmMvVw0KNys0Z1pqZC9wcVBLQUdtTm1IY2lCdGh0NTM5WHJMREpUc0RRN09lNUp1Y0JmajhzbEs0QisvWmN6RmhoQzF3Z3R5dVNuWkdPakZiSQ0KQnZCUjczQmtlU2lkVXlzbzIxUUlZS3kzRDhDTDFYWnJBTE5JZDlxenNUckNNOXllckZtR0tLQlRmb3RYZmlkTjl0aHhWclQ5elhaMA0KZTRkcU9EMmV5MTRKV2NEWXUrU1ZpN2xsV1dmQnl6cmRUZHZKWks4QWxPMGQyNzNaYVhua0xibWFZVXBmUEp3U2hmSmFuR3VXQ2ZUMw0KMkV1WE91MHNvTHMyRkpwQ2paZVB2dmk0V0k5eWRNb0p6ZWRIMlE9PTwvU2lnbmF0dXJlVmFsdWU+PEtleUluZm8+PFg1MDlEYXRhPjxYNTA5U3ViamVjdE5hbWU+Qz1WTixTVD1Iw6AgTuG7mWksTD1D4bqndSBHaeG6pXksTz1Dw7RuZyB0eSBD4buVIHBo4bqnbiBCa2F2LE9VPUJhbiBBTk0sQ049QmthdkNBIExpY2Vuc2UsVUlEPU1TVDowMTAxMzYwNjk3LUJrYXZDQUxpY2Vuc2U8L1g1MDlTdWJqZWN0TmFtZT48WDUwOUNlcnRpZmljYXRlPk1JSUUxakNDQTc2Z0F3SUJBZ0lRVkFOZ2ZXZGdYMEFWR0h1WUpNNUVyakFOQmdrcWhraUc5dzBCQVFVRkFEQkpNUXN3Q1FZRFZRUUcNCkV3SldUakVPTUF3R0ExVUVCeE1GU0dGdWIya3hHVEFYQmdOVkJBb1RFRUpyWVhZZ1EyOXljRzl5WVhScGIyNHhEekFOQmdOVkJBTVQNCkJrSnJZWFpEUVRBZUZ3MHhPREE0TURrd09EUXdNakphRncweU1EQTFNVFV3TXpNMU5EaGFNSUcxTVN3d0tnWUtDWkltaVpQeUxHUUINCkFRd2NUVk5VT2pBeE1ERXpOakEyT1RjdFFtdGhka05CVEdsalpXNXpaVEVYTUJVR0ExVUVBd3dPUW10aGRrTkJJRXhwWTJWdWMyVXgNCkVEQU9CZ05WQkFzTUIwSmhiaUJCVGsweElqQWdCZ05WQkFvTUdVUER0RzVuSUhSNUlFUGh1NVVnY0dqaHVxZHVJRUpyWVhZeEZUQVQNCkJnTlZCQWNNREVQaHVxZDFJRWRwNGJxbGVURVNNQkFHQTFVRUNBd0pTTU9nSUU3aHU1bHBNUXN3Q1FZRFZRUUdFd0pXVGpDQ0FTSXcNCkRRWUpLb1pJaHZjTkFRRUJCUUFEZ2dFUEFEQ0NBUW9DZ2dFQkFQTGRRMmNUZ1k5UmJ5M081R0VZdTdjaDF5UldBU0JXZGNkcVhqYVoNCkxiTGJxRVdZTDBUK0F2QTRxQWtxQ0Fkd3M5MG5la0dWNk1aN3NUdSswSytyMUEvbFJzQTA4RG1GNzMvQkM1bUNHT2VveG5iQ2FBWisNCkhDa3k0NGxJUXlBaDBPTXVRSWVIT09lbzBSSFg4YlZVejNlQnRkYmhmZlNULzNhYjJ3T2RpWkVhWnpJTkZoUEpkakhNdGJtalhSUC8NCjVHNXpkMUZ6RUZiRXJMNUVQejdTVzR6S0syYnd6RHJKODlQazBGNm5tU0xOTmRNM0lsZEU2aHBmUVg3eHlwV1ZaTXlyM0N1dEZKS08NCjk0cXBWUloyYXVtNStDR2VLVzhIejkwdDdUT0c1UTE4SVB1SnVqOXhUZEZQeGJoWmtNM2NPa2FuZU0wcURIbHRoSzdaNWhIM3gra0MNCkF3RUFBYU9DQVVzd2dnRkhNREVHQ0NzR0FRVUZCd0VCQkNVd0l6QWhCZ2dyQmdFRkJRY3dBWVlWYUhSMGNEb3ZMMjlqYzNBdVltdGgNCmRtTmhMblp1TUIwR0ExVWREZ1FXQkJUbUdlVWtHWXlOYkFjYlBFdk4vTEpmK2JSeGxqQU1CZ05WSFJNQkFmOEVBakFBTUI4R0ExVWQNCkl3UVlNQmFBRkI2d0QwaVgzOUREWjZkR2hEdFlPNGdOVTVTR01IOEdBMVVkSHdSNE1IWXdkS0Fqb0NHR0gyaDBkSEE2THk5amNtd3UNClltdGhkbU5oTG5adUwwSnJZWFpEUVM1amNteWlUYVJMTUVreER6QU5CZ05WQkFNTUJrSnJZWFpEUVRFWk1CY0dBMVVFQ2d3UVFtdGgNCmRpQkRiM0p3YjNKaGRHbHZiakVPTUF3R0ExVUVCd3dGU0dGdWIya3hDekFKQmdOVkJBWVRBbFpPTUE0R0ExVWREd0VCL3dRRUF3SUUNCjhEQXpCZ05WSFNVRUxEQXFCZ2dyQmdFRkJRY0RBUVlJS3dZQkJRVUhBd0lHQ0NzR0FRVUZCd01FQmdvckJnRUVBWUkzQ2dNTU1BMEcNCkNTcUdTSWIzRFFFQkJRVUFBNElCQVFDU0JOd05VblNpMnoxS0srUDVDdWRnU2liS0l6SW92bGYwMmExSEgrUzFmcVRWZ3M1NHBXR3cNCkVGd0FYcGpvYUF1TmQ3aGpHV0xyRUZEcUhKZzZkY1NwYXNWaUN1YUYxNitkSW5TaGF6VjZDVk54NFoxdmx5dUhvMERQckV6RG9VR3MNCkdnRm9zdHQ0cjNkNWduWG5JaGtIZ3JkN2xtbE82cTJhWnpJMzRNRzZoeVk1V3h6bmdmb002MG5PN2dWeHAvdGZvZUUwaEVRNDdBblANCnE0MG93STRBeVUvdXI0RDNrakNsS21YcjJwdXVLOThlTFVNZmFVQ2UxMmsyWjd3RE5adzh4VkNtWFFnT3JoS3kwTWRXVFhLOUVwUzcNCjhUQmRSY2VyNzZuVm9EMWcwbmlzZ2YvQWRsejVWanhmVUl2ZzFaZHN2QUo1d2dyZGhTTFUzZlh2Rlc0TDwvWDUwOUNlcnRpZmljYXRlPjxYNTA5Q2VydGlmaWNhdGU+TUlJRU56Q0NBeCtnQXdJQkFnSUtZUXJ4VkFBQUFBQUFEekFOQmdrcWhraUc5dzBCQVFVRkFEQitNUXN3Q1FZRFZRUUdFd0pXVGpFeg0KTURFR0ExVUVDaE1xVFdsdWFYTjBjbmtnYjJZZ1NXNW1iM0p0WVhScGIyNGdZVzVrSUVOdmJXMTFibWxqWVhScGIyNXpNUnN3R1FZRA0KVlFRTEV4Sk9ZWFJwYjI1aGJDQkRRU0JEWlc1MFpYSXhIVEFiQmdOVkJBTVRGRTFKUXlCT1lYUnBiMjVoYkNCU2IyOTBJRU5CTUI0WA0KRFRFMU1EVXhOVEF6TWpVME9Gb1hEVEl3TURVeE5UQXpNelUwT0Zvd1NURUxNQWtHQTFVRUJoTUNWazR4RGpBTUJnTlZCQWNUQlVoaA0KYm05cE1Sa3dGd1lEVlFRS0V4QkNhMkYySUVOdmNuQnZjbUYwYVc5dU1ROHdEUVlEVlFRREV3WkNhMkYyUTBFd2dnRWlNQTBHQ1NxRw0KU0liM0RRRUJBUVVBQTRJQkR3QXdnZ0VLQW9JQkFRRERqWXkyQnpvNXIzM3Zsd1lUcDdxeFd4NGRwZnBpemFmNmVRNnh6RURQZVJRTg0Kam1tVzYvUkZnM2QxdHY4a2NTV1d4NktodW1JTHp6WmR2ZkVSWE1rUXBUR3VlcXEzNXpHN2Q5R1Vsa21JVkR5Y1E0Vnd2b3hxOU1UVw0KTm5yUXNZbi9BUnFpeDF1RTBaT3NZbnljM2NjU2kwcktaa2dPcnlCR1hVZGttdXpITzFYTWs4SUdOMkFMaGcwSXIwbFkrRGRDbTR0ZQ0KZWFzYjBzWWRjYlVEd0hKUHRnMWtFSmUxVDJtWFN3WUNOSEJ2N0xnN2luQytBUmZ4b0MwQWxhSGFaVVB6SEhCbVd0eUpSMldId3VZcA0KRE1FNFJtOE5KdTBvZkc3QitOblpncTFzMmFHS1htNGN4NEU5NXhQSm52SzNlNnduanhhQTUvM1hDWmEvR1dRbEJSSTFBZ01CQUFHag0KZ2Vzd2dlZ3dFZ1lEVlIwVEFRSC9CQWd3QmdFQi93SUJBREFMQmdOVkhROEVCQU1DQVlZd0hRWURWUjBPQkJZRUZCNndEMGlYMzlERA0KWjZkR2hEdFlPNGdOVTVTR01COEdBMVVkSXdRWU1CYUFGTTFpY2VSaHZmNDk3TEpBWU5PQmRkMDZyR3ZHTUR3R0ExVWRId1ExTURNdw0KTWFBdm9DMkdLMmgwZEhBNkx5OXdkV0pzYVdNdWNtOXZkR05oTG1kdmRpNTJiaTlqY213dmJXbGpibkpqWVM1amNtd3dSd1lJS3dZQg0KQlFVSEFRRUVPekE1TURjR0NDc0dBUVVGQnpBQ2hpdG9kSFJ3T2k4dmNIVmliR2xqTG5KdmIzUmpZUzVuYjNZdWRtNHZZM0owTDIxcA0KWTI1eVkyRXVZM0owTUEwR0NTcUdTSWIzRFFFQkJRVUFBNElCQVFCVWVVbXVyK2tiOHBaVW92aXBTYnJIVFROMVhpelFJWGFrbDRvWA0KWlZGT3B6YVROblNRV05OQW82TWNVTkYyTkwxcTR4R2VGY3FibndjMWRZR2phanJ4MFNmYUtvMkZrYmg2NTZXYnhHVDFtcUUvdXdqKw0KeHMrejlkZ2NyTCt6U1NUK2hHa2F1Y3RhQUpLTFpUWUFiU0gvNFYxZWRkQzdlMGJQSVZvNWluTllSaXZQeTFNSXV3NE5GR2g5czhtbA0KbnNQNmJpVzBodDhlcm5NeDVZSG5RZndkTStLK2FyemRpSkRMenJOUFJmbzdnU3k1MGMza0pqZlVGWXhiU2RnVFVYQ0REVzduNHhZNQ0Kb3RQTjhCTkNBMlREYmJIc21iSlh2M1JhNUIycmU3MzRiMEZQbXp6MUJhbllPYW0yTkFvNyt5SDc1Y0poWWllSlI2TnN3c2hka1N6QzwvWDUwOUNlcnRpZmljYXRlPjxYNTA5Q2VydGlmaWNhdGU+TUlJRDF6Q0NBcitnQXdJQkFnSVFHK1J6aWg4K3dJOUhuNmJQTmNXWUlqQU5CZ2txaGtpRzl3MEJBUVVGQURCK01Rc3dDUVlEVlFRRw0KRXdKV1RqRXpNREVHQTFVRUNoTXFUV2x1YVhOMGNua2diMllnU1c1bWIzSnRZWFJwYjI0Z1lXNWtJRU52YlcxMWJtbGpZWFJwYjI1eg0KTVJzd0dRWURWUVFMRXhKT1lYUnBiMjVoYkNCRFFTQkRaVzUwWlhJeEhUQWJCZ05WQkFNVEZFMUpReUJPWVhScGIyNWhiQ0JTYjI5MA0KSUVOQk1CNFhEVEE0TURVeE5qQXhNVEkwT1ZvWERUUXdNRFV4TmpBeE1qQXpNbG93ZmpFTE1Ba0dBMVVFQmhNQ1ZrNHhNekF4QmdOVg0KQkFvVEtrMXBibWx6ZEhKNUlHOW1JRWx1Wm05eWJXRjBhVzl1SUdGdVpDQkRiMjF0ZFc1cFkyRjBhVzl1Y3pFYk1Ca0dBMVVFQ3hNUw0KVG1GMGFXOXVZV3dnUTBFZ1EyVnVkR1Z5TVIwd0d3WURWUVFERXhSTlNVTWdUbUYwYVc5dVlXd2dVbTl2ZENCRFFUQ0NBU0l3RFFZSg0KS29aSWh2Y05BUUVCQlFBRGdnRVBBRENDQVFvQ2dnRUJBS0UvV1ZFTy9qRC9ZZHVXZUJTTDIwTThOcjVocjl5MVAyQWUwdzBCUWEzNA0KeVlwQ2pzanRNb1pIeGY2MTkrcldSRGNRRXNOSUNGRlF1dVZYNmM0MXlZNGNjd21GTTB6aHV6aXNqcTIzRXdRdVpvRlhMY3o3R3YwdQ0Kbkl2OUNVRHdZQmViY1VWdGZlUGJLdEs3bXQzcnpGN2tBTi9WYkRDRm03MVhmeTNVSk5PQSsrQW9VYjZ3MW1FSHpPV2dSK2VSYlMrSA0KV09pMHJjR3hSclBjV2gwNENkbjd0U2VZbmw3ODhmUkkvK2loTy85UU05a21xN0taWXAzTWU4aFNUWjVjUW90dmRINzhsQlBlQ3RMdw0KdFdyNGxreFFuT1loanNIbGx3Rk96Wit3UUJsOEcxbHZYRGdabWpmYTBZRTVGakx2Z2Eyd0lXc1JsOExCQ0wxdkkxd0VEOU1DQXdFQQ0KQWFOUk1FOHdDd1lEVlIwUEJBUURBZ0dHTUE4R0ExVWRFd0VCL3dRRk1BTUJBZjh3SFFZRFZSME9CQllFRk0xaWNlUmh2ZjQ5N0xKQQ0KWU5PQmRkMDZyR3ZHTUJBR0NTc0dBUVFCZ2pjVkFRUURBZ0VBTUEwR0NTcUdTSWIzRFFFQkJRVUFBNElCQVFCTW5jMStJeUNBSENqUA0KOFBISjN4SEtzbWxUby9KZkRMTmxuQzlVNFJ4UUt1QlZGOFFYdnFpVFVVYXFodTBrWkM5UEU0Nnd0QlNjZkVPK0xVNWpVbXpiMW5BWA0KV1VkYm9scXp4NVo2dGczMUxRM1paRHF2MEZRNjBSTm90dm80RGdYcjRQd3c5MHliWCtMdVozdjRZdXAwcjNKVVROVDZYb3ZzNjdnbg0KZ1N5WWp2ZktvRkdXYzhZWGlmbjBVNWMvVjhQYlZTaEpjMDlLTnlwbmhNVVR2c2JKN2dsSFlyK29zdXA4NVY4azJ6dTRkRFd3NFlXUA0KaXBkSWp1ZDRaNG5MNWFRQzdGdFhvYm5IbHJmQjZlVmRqcG1tcHlXYUhiRE8xanRyTS9LK1NlRXQxb2VCdVhhdXAvek5zOFoyTXE5Tg0KVUZKc0xRMnl2ZGRRNWROMVk1OWR6UXFaPC9YNTA5Q2VydGlmaWNhdGU+PC9YNTA5RGF0YT48L0tleUluZm8+PC9TaWduYXR1cmU+PC9MaWNlbnNlPg==",
+    "riskdisclosure_link": "https://www.bsi.com.vn/cong-bo-rui-ro.html",
+    "latencyTime": 7
+  },
+  "082": {
+    "url": ["https://webtrading.hbse.com.vn"],
+    "url_public": ["http://priceboard.hbse.com.vn"],
+    "domain": "http://10.176.1.15",
+    "domain_public": "http://priceboard.hbse.com.vn",
+    "comp_nm": "HBS",
+    "comp_full": "Công ty Cổ phần Chứng khoán Hòa Bình",
+    "comp_full_e": "HOA BINH SECURITIES INC",
+    "copyright": "©2018 - Bản quyền của Công ty Cổ phần Chứng khoán Hòa Bình",
+    "copyright_e": "Copyright © 2018 HOA BINH SECURITIES INC. All rights reserved. Powered by",
+    "public": false,
+    "expiretime": 30,
+    "debug": false,
+    "hotLine": "Hotline: 024.39368866 (ext 0)",
+    "hotLine_e": "Hotline: 024.39368866 (ext 0)",
+    "hotLinePhone": "02439368866",
+    "logo_nm": "082_logo",
+    "favicon": "082_favicon.ico",
+    "webtitle": "HBS - Web Trading System",
+    "loginLogo": "082_login_logo.png",
+    "navbarLogoLink": "http://altisss.vn",
+    "openLinkAndroid": "altisss://beta",
+    "storeLinkAndroid": "https://play.google.com/store/apps/details?id=vn.altisss.bsimts",
+    "openLinkIos": "altisss://betatrade",
+    "storeLinkIos": "https://itunes.apple.com/vn/app/beta-trade/id1404151104?mt=8",
+    "buy_stockplus": true,
+    "stockplus_link": "http://demostock.stox.vn",
+    "discexpire": 30,
+    "sec_web_link": "http://hbse.com.vn",
+    "riskdisclosure_link": "http://hbse.com.vn/News/2019/9/17/182417.aspx",
+    "latencyTime": 7
+  },
+
+  "menu": {
+    "888": [
+      {
+        "title": "market_info",
+        "routerLink": " ",
+        "icon": "fa fa-bar-chart-o",
+        "subMenu": [
+          {
+            "title": "overview_market_tab",
+            "routerLink": "OVERVIEW_MARKET_TAB"
+          },
+          {
+            "title": "history_market_tab",
+            "routerLink": "HISTORY_MARKET_TAB"
+          },
+          {
+            "title": "liquid_market_tab",
+            "routerLink": "LIQUID_MARKET_TAB"
+          },
+          {
+            "title": "trade_foreigner_tab",
+            "routerLink": "TRADE_FOREIGNER_TAB"
+          },
+          {
+            "title": "own_foreiger_tab",
+            "routerLink": "OWN_FOREIGER_TAB"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_right_list_info",
+            "routerLink": "right-info"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_orderAdvert",
+            "routerLink": "advertis-order"
+          }
+        ]
+      },
+      {
+        "title": "transaction_stock",
+        "routerLink": " ",
+        "icon": "fa fa-exchange",
+        "subMenu": [
+          {
+            "title": "place_advOrder_order",
+            "routerLink": "advance-order"
+          },
+          {
+            "title": "rgt_sell_oddlot",
+            "routerLink": "oddlot-order"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_confirm_order_tickets",
+            "routerLink": "confirm-order"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_transfer_share_title",
+            "routerLink": "stock-transfer"
+          },
+          {
+            "title": "right_for_buy",
+            "routerLink": "right-forbuy"
+          }
+        ]
+      },
+      {
+        "title": "transaction_cash",
+        "routerLink": " ",
+        "icon": "fa fa-credit-card",
+        "subMenu": [
+          {
+            "title": "bank_online",
+            "routerLink": "bank-connection"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_deposite_msg",
+            "routerLink": "deposit-inform"
+          },
+          {
+            "title": "sb_withdraw_req",
+            "routerLink": "cash-withdraw"
+          },
+          {
+            "title": "sb_transfer_cash_title",
+            "routerLink": "cash-transfer"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_cash_advance",
+            "routerLink": "cashin-advance"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_margin_repay",
+            "routerLink": "repay-margin"
+          },
+          {
+            "title": "sb_exten_ctrmargin",
+            "routerLink": "extend-contract"
+          }
+        ]
+      },
+      {
+        "title": "sb_portfolioMng",
+        "routerLink": " ",
+        "icon": "fa fa-dollar",
+        "subMenu": [{
+            "title": "sb_assetsMng",
+            "routerLink": "asset-manage"
+          },
+          {
+            "title": "sb_assetMargin",
+            "routerLink": "asset-margin"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_transactionSmt",
+            "routerLink": "transaction-info"
+          }
+        ]
+      },
+      {
+        "title": "features_other",
+        "routerLink": "",
+        "icon": "fa fa-ellipsis-h",
+        "subMenu": [{
+          "title": "common_change_login_pass",
+          "routerLink": "change-login"
+        },
+        {
+          "title": "common_change_order_pass",
+          "routerLink": "change-order"
+        },
+        {
+          "title": "common_config_info",
+          "routerLink": "config-info"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "reset_container",
+          "routerLink": "reset-container"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "dark_theme",
+          "routerLink": "dark-theme"
+        },
+        {
+          "title": "light_theme",
+          "routerLink": "light-theme"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "dark_theme_china",
+          "routerLink": "dark-theme-china"
+        },
+        {
+          "title": "light_theme_china",
+          "routerLink": "light-theme-china"
+        }
+      ]
+      }
+    ],
+    "061": [
+      {
+        "title": "market_info",
+        "routerLink": " ",
+        "icon": "fa fa-bar-chart-o",
+        "subMenu": [
+          {
+            "title": "overview_market_tab",
+            "routerLink": "OVERVIEW_MARKET_TAB"
+          },
+          {
+            "title": "history_market_tab",
+            "routerLink": "HISTORY_MARKET_TAB"
+          },
+          {
+            "title": "liquid_market_tab",
+            "routerLink": "LIQUID_MARKET_TAB"
+          },
+          {
+            "title": "trade_foreigner_tab",
+            "routerLink": "TRADE_FOREIGNER_TAB"
+          },
+          {
+            "title": "own_foreiger_tab",
+            "routerLink": "OWN_FOREIGER_TAB"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_right_list_info",
+            "routerLink": "right-info"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_orderAdvert",
+            "routerLink": "advertis-order"
+          }
+        ]
+      },
+      {
+        "title": "transaction_stock",
+        "routerLink": " ",
+        "icon": "fa fa-exchange",
+        "subMenu": [
+          {
+            "title": "place_advOrder_order",
+            "routerLink": "advance-order"
+          },
+          {
+            "title": "rgt_sell_oddlot",
+            "routerLink": "oddlot-order"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_confirm_order_tickets",
+            "routerLink": "confirm-order"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_transfer_share_title",
+            "routerLink": "stock-transfer"
+          },
+          {
+            "title": "right_for_buy",
+            "routerLink": "right-forbuy"
+          }
+        ]
+      },
+      {
+        "title": "transaction_cash",
+        "routerLink": " ",
+        "icon": "fa fa-credit-card",
+        "subMenu": [
+          {
+            "title": "bank_online",
+            "routerLink": "bank-connection"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_deposite_msg",
+            "routerLink": "deposit-inform"
+          },
+          {
+            "title": "sb_withdraw_req",
+            "routerLink": "cash-withdraw"
+          },
+          {
+            "title": "sb_transfer_cash_title",
+            "routerLink": "cash-transfer"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_cash_advance",
+            "routerLink": "cashin-advance"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_margin_repay",
+            "routerLink": "repay-margin"
+          },
+          {
+            "title": "sb_exten_ctrmargin",
+            "routerLink": "extend-contract"
+          }
+        ]
+      },
+      {
+        "title": "sb_portfolioMng",
+        "routerLink": " ",
+        "icon": "fa fa-dollar",
+        "subMenu": [{
+            "title": "sb_assetsMng",
+            "routerLink": "asset-manage"
+          },
+          {
+            "title": "sb_assetMargin",
+            "routerLink": "asset-margin"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_transactionSmt",
+            "routerLink": "transaction-info"
+          }
+        ]
+      },
+      {
+        "title": "features_other",
+        "routerLink": "",
+        "icon": "fa fa-ellipsis-h",
+        "subMenu": [{
+          "title": "common_change_login_pass",
+          "routerLink": "change-login"
+        },
+        {
+          "title": "common_change_order_pass",
+          "routerLink": "change-order"
+        },
+        {
+          "title": "common_config_info",
+          "routerLink": "config-info"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "reset_container",
+          "routerLink": "reset-container"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "dark_theme",
+          "routerLink": "dark-theme"
+        },
+        {
+          "title": "light_theme",
+          "routerLink": "light-theme"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "dark_theme_china",
+          "routerLink": "dark-theme-china"
+        },
+        {
+          "title": "light_theme_china",
+          "routerLink": "light-theme-china"
+        }
+      ]
+      }
+    ],
+    "075": [
+      {
+        "title": "market_info",
+        "routerLink": " ",
+        "icon": "fa fa-bar-chart-o",
+        "subMenu": [
+          {
+            "title": "overview_market_tab",
+            "routerLink": "OVERVIEW_MARKET_TAB"
+          },
+          {
+            "title": "history_market_tab",
+            "routerLink": "HISTORY_MARKET_TAB"
+          },
+          {
+            "title": "liquid_market_tab",
+            "routerLink": "LIQUID_MARKET_TAB"
+          },
+          {
+            "title": "trade_foreigner_tab",
+            "routerLink": "TRADE_FOREIGNER_TAB"
+          },
+          {
+            "title": "own_foreiger_tab",
+            "routerLink": "OWN_FOREIGER_TAB"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_right_list_info",
+            "routerLink": "right-info"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_orderAdvert",
+            "routerLink": "advertis-order"
+          }
+        ]
+      },
+      {
+        "title": "transaction_stock",
+        "routerLink": " ",
+        "icon": "fa fa-exchange",
+        "subMenu": [
+          {
+            "title": "place_advOrder_order",
+            "routerLink": "advance-order"
+          },
+          {
+            "title": "rgt_sell_oddlot",
+            "routerLink": "oddlot-order"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_confirm_order_tickets",
+            "routerLink": "confirm-order"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_transfer_share_title",
+            "routerLink": "stock-transfer"
+          },
+          {
+            "title": "right_for_buy",
+            "routerLink": "right-forbuy"
+          }
+        ]
+      },
+      {
+        "title": "transaction_cash",
+        "routerLink": " ",
+        "icon": "fa fa-credit-card",
+        "subMenu": [
+          {
+            "title": "bank_online",
+            "routerLink": "bank-connection"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_deposite_msg",
+            "routerLink": "deposit-inform"
+          },
+          {
+            "title": "sb_withdraw_req",
+            "routerLink": "cash-withdraw"
+          },
+          {
+            "title": "sb_transfer_cash_title",
+            "routerLink": "cash-transfer"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_cash_advance",
+            "routerLink": "cashin-advance"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_margin_repay",
+            "routerLink": "repay-margin"
+          },
+          {
+            "title": "sb_exten_ctrmargin",
+            "routerLink": "extend-contract"
+          }
+        ]
+      },
+      {
+        "title": "sb_portfolioMng",
+        "routerLink": " ",
+        "icon": "fa fa-dollar",
+        "subMenu": [{
+            "title": "sb_assetsMng",
+            "routerLink": "asset-manage"
+          },
+          {
+            "title": "sb_assetMargin",
+            "routerLink": "asset-margin"
+          }
+        ]
+      },
+      {
+        "title": "features_other",
+        "routerLink": "",
+        "icon": "fa fa-ellipsis-h",
+        "subMenu": [{
+          "title": "common_change_login_pass",
+          "routerLink": "change-login"
+        },
+        {
+          "title": "common_change_order_pass",
+          "routerLink": "change-order"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "reset_container",
+          "routerLink": "reset-container"
+        },
+        {
+          "title": "dark_theme",
+          "routerLink": "dark-theme"
+        },
+        {
+          "title": "light_theme",
+          "routerLink": "light-theme"
+        }
+      ]
+      }
+    ],
+    "102": [
+      {
+        "title": "market_info",
+        "routerLink": " ",
+        "icon": "fa fa-bar-chart-o",
+        "subMenu": [
+          {
+            "title": "overview_market_tab",
+            "routerLink": "OVERVIEW_MARKET_TAB"
+          },
+          {
+            "title": "history_market_tab",
+            "routerLink": "HISTORY_MARKET_TAB"
+          },
+          {
+            "title": "liquid_market_tab",
+            "routerLink": "LIQUID_MARKET_TAB"
+          },
+          {
+            "title": "trade_foreigner_tab",
+            "routerLink": "TRADE_FOREIGNER_TAB"
+          },
+          {
+            "title": "own_foreiger_tab",
+            "routerLink": "OWN_FOREIGER_TAB"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_right_list_info",
+            "routerLink": "right-info"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_orderAdvert",
+            "routerLink": "advertis-order"
+          }
+        ]
+      },
+      {
+        "title": "transaction_stock",
+        "routerLink": " ",
+        "icon": "fa fa-exchange",
+        "subMenu": [
+          {
+            "title": "place_advOrder_order",
+            "routerLink": "advance-order"
+          },
+          {
+            "title": "rgt_sell_oddlot",
+            "routerLink": "oddlot-order"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_confirm_order_tickets",
+            "routerLink": "confirm-order"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_transfer_share_title",
+            "routerLink": "stock-transfer"
+          },
+          {
+            "title": "right_for_buy",
+            "routerLink": "right-forbuy"
+          }
+        ]
+      },
+      {
+        "title": "transaction_cash",
+        "routerLink": " ",
+        "icon": "fa fa-credit-card",
+        "subMenu": [
+          {
+            "title": "bank_online",
+            "routerLink": "bank-connection"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_deposite_msg",
+            "routerLink": "deposit-inform"
+          },
+          {
+            "title": "sb_withdraw_req",
+            "routerLink": "cash-withdraw"
+          },
+          {
+            "title": "sb_transfer_cash_title",
+            "routerLink": "cash-transfer"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_cash_advance",
+            "routerLink": "cashin-advance"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_margin_repay",
+            "routerLink": "repay-margin"
+          },
+          {
+            "title": "sb_exten_ctrmargin",
+            "routerLink": "extend-contract"
+          }
+        ]
+      },
+      {
+        "title": "sb_portfolioMng",
+        "routerLink": " ",
+        "icon": "fa fa-dollar",
+        "subMenu": [{
+            "title": "sb_assetsMng",
+            "routerLink": "asset-manage"
+          },
+          {
+            "title": "sb_assetMargin",
+            "routerLink": "asset-margin"
+          },
+          {
+            "title": "sb_margin_list_info",
+            "routerLink": "margin-list-info"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_transactionSmt",
+            "routerLink": "transaction-info"
+          }
+        ]
+      },
+      {
+        "title": "features_other",
+        "routerLink": "",
+        "icon": "fa fa-ellipsis-h",
+        "subMenu": [{
+          "title": "common_change_login_pass",
+          "routerLink": "change-login"
+        },
+        {
+          "title": "common_change_order_pass",
+          "routerLink": "change-order"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "reset_container",
+          "routerLink": "reset-container"
+        },
+        {
+          "title": "dark_theme",
+          "routerLink": "dark-theme"
+        },
+        {
+          "title": "light_theme",
+          "routerLink": "light-theme"
+        }
+      ]
+      }
+    ],
+    "082": [
+      {
+        "title": "market_info",
+        "routerLink": " ",
+        "icon": "fa fa-bar-chart-o",
+        "subMenu": [
+          {
+            "title": "overview_market_tab",
+            "routerLink": "OVERVIEW_MARKET_TAB"
+          },
+          {
+            "title": "history_market_tab",
+            "routerLink": "HISTORY_MARKET_TAB"
+          },
+          {
+            "title": "liquid_market_tab",
+            "routerLink": "LIQUID_MARKET_TAB"
+          },
+          {
+            "title": "trade_foreigner_tab",
+            "routerLink": "TRADE_FOREIGNER_TAB"
+          },
+          {
+            "title": "own_foreiger_tab",
+            "routerLink": "OWN_FOREIGER_TAB"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_right_list_info",
+            "routerLink": "right-info"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_orderAdvert",
+            "routerLink": "advertis-order"
+          }
+        ]
+      },
+      {
+        "title": "transaction_stock",
+        "routerLink": " ",
+        "icon": "fa fa-exchange",
+        "subMenu": [
+          {
+            "title": "place_advOrder_order",
+            "routerLink": "advance-order"
+          },
+          {
+            "title": "rgt_sell_oddlot",
+            "routerLink": "oddlot-order"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_confirm_order_tickets",
+            "routerLink": "confirm-order"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_transfer_share_title",
+            "routerLink": "stock-transfer"
+          },
+          {
+            "title": "right_for_buy",
+            "routerLink": "right-forbuy"
+          }
+        ]
+      },
+      {
+        "title": "transaction_cash",
+        "routerLink": " ",
+        "icon": "fa fa-credit-card",
+        "subMenu": [
+          {
+            "title": "bank_online",
+            "routerLink": "bank-connection"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_deposite_msg",
+            "routerLink": "deposit-inform"
+          },
+          {
+            "title": "sb_withdraw_req",
+            "routerLink": "cash-withdraw"
+          },
+          {
+            "title": "sb_transfer_cash_title",
+            "routerLink": "cash-transfer"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_cash_advance",
+            "routerLink": "cashin-advance"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_margin_repay",
+            "routerLink": "repay-margin"
+          },
+          {
+            "title": "sb_exten_ctrmargin",
+            "routerLink": "extend-contract"
+          }
+        ]
+      },
+      {
+        "title": "sb_portfolioMng",
+        "routerLink": " ",
+        "icon": "fa fa-dollar",
+        "subMenu": [{
+            "title": "sb_assetsMng",
+            "routerLink": "asset-manage"
+          },
+          {
+            "title": "sb_assetMargin",
+            "routerLink": "asset-margin"
+          }
+        ]
+      },
+      {
+        "title": "features_other",
+        "routerLink": "",
+        "icon": "fa fa-ellipsis-h",
+        "subMenu": [{
+          "title": "common_change_login_pass",
+          "routerLink": "change-login"
+        },
+        {
+          "title": "common_change_order_pass",
+          "routerLink": "change-order"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "reset_container",
+          "routerLink": "reset-container"
+        },
+        {
+          "title": "dark_theme",
+          "routerLink": "dark-theme"
+        },
+        {
+          "title": "light_theme",
+          "routerLink": "light-theme"
+        }
+      ]
+      }
+    ],
+    
+    "020": [
+      {
+        "title": "market_info",
+        "routerLink": " ",
+        "icon": "fa fa-bar-chart-o",
+        "subMenu": [
+          {
+            "title": "overview_market_tab",
+            "routerLink": "OVERVIEW_MARKET_TAB"
+          },
+          {
+            "title": "history_market_tab",
+            "routerLink": "HISTORY_MARKET_TAB"
+          },
+          {
+            "title": "liquid_market_tab",
+            "routerLink": "LIQUID_MARKET_TAB"
+          },
+          {
+            "title": "trade_foreigner_tab",
+            "routerLink": "TRADE_FOREIGNER_TAB"
+          },
+          {
+            "title": "own_foreiger_tab",
+            "routerLink": "OWN_FOREIGER_TAB"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_right_list_info",
+            "routerLink": "right-info"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_orderAdvert",
+            "routerLink": "advertis-order"
+          }
+        ]
+      },
+      {
+        "title": "transaction_stock",
+        "routerLink": " ",
+        "icon": "fa fa-exchange",
+        "subMenu": [
+          {
+            "title": "place_advOrder_order",
+            "routerLink": "advance-order"
+          },
+          {
+            "title": "rgt_sell_oddlot",
+            "routerLink": "oddlot-order"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_confirm_order_tickets",
+            "routerLink": "confirm-order"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_transfer_share_title",
+            "routerLink": "stock-transfer"
+          },
+          {
+            "title": "right_for_buy",
+            "routerLink": "right-forbuy"
+          }
+        ]
+      },
+      {
+        "title": "transaction_cash",
+        "routerLink": " ",
+        "icon": "fa fa-credit-card",
+        "subMenu": [
+          {
+            "title": "bank_online",
+            "routerLink": "bank-connection"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_deposite_msg",
+            "routerLink": "deposit-inform"
+          },
+          {
+            "title": "sb_withdraw_req",
+            "routerLink": "cash-withdraw"
+          },
+          {
+            "title": "sb_transfer_cash_title",
+            "routerLink": "cash-transfer"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_cash_advance",
+            "routerLink": "cashin-advance"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_margin_repay",
+            "routerLink": "repay-margin"
+          },
+          {
+            "title": "sb_exten_ctrmargin",
+            "routerLink": "extend-contract"
+          }
+        ]
+      },
+      {
+        "title": "sb_portfolioMng",
+        "routerLink": " ",
+        "icon": "fa fa-dollar",
+        "subMenu": [{
+            "title": "sb_assetsMng",
+            "routerLink": "asset-manage"
+          },
+          {
+            "title": "sb_assetMargin",
+            "routerLink": "asset-margin"
+          },
+          {
+            "title": "sb_margin_list_info",
+            "routerLink": "margin-list-info"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_transactionSmt",
+            "routerLink": "transaction-info"
+          }
+        ]
+      },
+      {
+        "title": "features_other",
+        "routerLink": "",
+        "icon": "fa fa-ellipsis-h",
+        "subMenu": [{
+          "title": "common_change_login_pass",
+          "routerLink": "change-login"
+        },
+        {
+          "title": "common_change_order_pass",
+          "routerLink": "change-order"
+        },
+        {
+          "title": "common_config_info",
+          "routerLink": "config-info"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "reset_container",
+          "routerLink": "reset-container"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "dark_theme",
+          "routerLink": "dark-theme"
+        },
+        {
+          "title": "light_theme",
+          "routerLink": "light-theme"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        }
+      ]
+      }
+    ],
+    "028": [
+      {
+        "title": "market_info",
+        "routerLink": " ",
+        "icon": "fa fa-bar-chart-o",
+        "subMenu": [
+          {
+            "title": "overview_market_tab",
+            "routerLink": "OVERVIEW_MARKET_TAB"
+          },
+          {
+            "title": "history_market_tab",
+            "routerLink": "HISTORY_MARKET_TAB"
+          },
+          {
+            "title": "liquid_market_tab",
+            "routerLink": "LIQUID_MARKET_TAB"
+          },
+          {
+            "title": "trade_foreigner_tab",
+            "routerLink": "TRADE_FOREIGNER_TAB"
+          },
+          {
+            "title": "own_foreiger_tab",
+            "routerLink": "OWN_FOREIGER_TAB"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_right_list_info",
+            "routerLink": "right-info"
+          }
+        ]
+      },
+      {
+        "title": "transaction_cash",
+        "routerLink": " ",
+        "icon": "fa fa-credit-card",
+        "subMenu": [
+          {
+            "title": "sb_deposite_msg",
+            "routerLink": "deposit-inform"
+          },
+          {
+            "title": "sb_withdraw_req",
+            "routerLink": "cash-withdraw"
+          },
+          {
+            "title": "sb_transfer_cash_title",
+            "routerLink": "cash-transfer"
+          },
+          {
+            "title": "divider-top",
+            "routerLink": ""
+          },
+          {
+            "title": "sb_cash_advance",
+            "routerLink": "cashin-advance"
+          }
+        ]
+      },
+      {
+        "title": "sb_portfolioMng",
+        "routerLink": " ",
+        "icon": "fa fa-dollar",
+        "subMenu": [{
+            "title": "sb_assetsMng",
+            "routerLink": "asset-manage"
+          },
+
+          {
+
+            "title": "divider-top",
+
+            "routerLink": ""
+
+          },
+
+          {
+
+            "title": "sb_transactionSmt",
+
+            "routerLink": "transaction-info"
+
+          }
+        ]
+      },
+      {
+        "title": "features_other",
+        "routerLink": "",
+        "icon": "fa fa-ellipsis-h",
+        "subMenu": [{
+          "title": "common_change_login_pass",
+          "routerLink": "change-login"
+        },
+        {
+          "title": "common_change_order_pass",
+          "routerLink": "change-order"
+        },
+
+        {
+
+          "title": "common_config_info",
+
+          "routerLink": "config-info"
+
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "reset_container",
+          "routerLink": "reset-container"
+        },
+        {
+          "title": "divider-top",
+          "routerLink": ""
+        },
+        {
+          "title": "dark_theme",
+          "routerLink": "dark-theme"
+        },
+        {
+          "title": "light_theme",
+          "routerLink": "light-theme"
+        }
+      ]
+      }
+    ]
+  },
+
+  "styleContainer": {
+    "075": {
+      "color_brand" : "#484646",
+      "color_brand_2": "#f0c518",
+      "body": {
+        "font": "tahoma,helvetica,arial,sans-serif"
+      },
+      "topElmUp": {
+        "backgroundColor": "",
+        "color": " ",
+        "colorHover": ""
+      },
+      "topElmDown": {
+        "backgroundColor": "",
+        "color": " ",
+        "color_hover": ""
+      },
+      "sideBar": {
+        "backgroundColor": "#242424",
+        "color": "",
+        "colorHover": "",
+        "backgroundColor_focus": "#409047"
+      },
+      "sideBar_title": {
+        "background": "#444444",
+        "color": "#e2dede"
+      },
+      "modalHeader": {
+        "backgroundColor": "",
+        "color": " "
+      },
+      "modalSearch": {
+        "backgroundColor": "#f8f9fa",
+        "color": " "
+      },
+      "modalData": {
+        "backgroundColor": "whitesmoke",
+        "color": " "
+      },
+      "modal": {
+        "backgroundColor": "",
+        "color": "",
+        "thead_background": "",
+        "border_table_td": "",
+        "border_table_th": "",
+        "background_odd": ""
+      },
+      "priceboard": {
+        "price_ceil_color": "var(--state__ceil__color)",
+        "price_floor_color": "var(--state__floor__color)",
+        "price_basic_color": "#fc0",
+        "price_basic_less": "red",
+        "price_basic_over": "#0f0",
+        "row_hover": "#363636",
+        "row_focus": "#737373",
+        "thead_th_border_color": "#343434",
+        "thead_th_border": "1px solid #666",
+        "row_odd": "#181818",
+        "row_even": "#252525",
+        "thead_th_backgroundcolor": "#252525",
+        "thead_th_color": "var(--component__light)",
+        "font": "tahoma,helvetica,arial,sans-serif"
+      },
+      "div_bottom": {
+        "tab_content_background": "#222",
+        "table_background": "#222",
+        "nav_tabs_background": "#323232",
+        "color": "#e2dede",
+        "search_background": "#242424",
+        "thead_background": "#242424",
+        "border_table_td": "1px solid #606060",
+        "border_table_th": "1px solid #606060",
+        "border_table": "1px solid #606060",
+        "background_odd": "#333",
+        "background_even": "#00000008"
+      }
+    },
+    "888": {
+      "color_brand" : "#484646",
+      "color_brand_2": "#f0c518",
+      "body": {
+        "font": "tahoma,helvetica,arial,sans-serif"
+      },
+      "topElmUp": {
+        "backgroundColor": "",
+        "color": " ",
+        "colorHover": ""
+      },
+      "topElmDown": {
+        "backgroundColor": "",
+        "color": " ",
+        "color_hover": ""
+      },
+      "sideBar": {
+        "backgroundColor": "#242424",
+        "color": "#d0cece",
+        "colorHover": "",
+        "backgroundColor_focus": "#6c757d",
+        "background_search": "var(--component__main_dark)",
+        "border_search": "1px solid var(--component__light_blue)",
+        "color_placehoder_search": "var(--component__light_blue)"
+      },
+      "sideBar_title": {
+        "background": "#444444",
+        "color": "#d0cece"
+      },
+      "modalHeader": {
+        "backgroundColor": "",
+        "color": " "
+      },
+      "modalSearch": {
+        "backgroundColor": "#f8f9fa",
+        "color": " "
+      },
+      "modalData": {
+        "backgroundColor": "whitesmoke",
+        "color": " "
+      },
+      "modal": {
+        "backgroundColor": "",
+        "color": "",
+        "thead_background": "",
+        "border_table_td": "",
+        "border_table_th": "",
+        "background_odd": ""
+      },
+      "priceboard": {
+        "price_ceil_color": "var(--state__ceil__color)",
+        "price_floor_color": "var(--state__floor__color)",
+        "price_basic_color": "#fc0",
+        "price_basic_less": "red",
+        "price_basic_over": "#0f0",
+        "row_hover": "#36324A",
+        "row_focus": "#36324A",
+        "thead_th_border_color": "#343434",
+        "thead_th_border": "1px solid #666",
+        "row_odd": "#181818",
+        "row_even": "#252525",
+        "thead_th_backgroundcolor": "#252525",
+        "thead_th_color": "var(--component__light)",
+        "font": "tahoma,helvetica,arial,sans-serif"
+      },
+      "div_bottom": {
+        "tab_content_background": "#242424",
+        "table_background": "#242424",
+        "nav_tabs_background": "#323232",
+        "color": "#d0cece",
+        "search_background": "#333",
+        "thead_background": "#242424",
+        "border_table_td": "1px solid #606060",
+        "border_table_th": "1px solid #606060",
+        "border_table": "1px solid #606060",
+        "background_odd": "#333",
+        "background_even": ""
+      }
+    },
+    "102": {
+      "color_brand" : "#484646",
+      "color_brand_2": "#f0c518",
+      "body": {
+        "font": "tahoma,helvetica,arial,sans-serif"
+      },
+      "topElmUp": {
+        "backgroundColor": "",
+        "color": " ",
+        "colorHover": ""
+      },
+      "topElmDown": {
+        "backgroundColor": "",
+        "color": " ",
+        "color_hover": ""
+      },
+      "sideBar": {
+        "backgroundColor": "#242424",
+        "color": "",
+        "colorHover": "",
+        "backgroundColor_focus": "#409047"
+      },
+      "sideBar_title": {
+        "background": "#444444",
+        "color": "#e2dede"
+      },
+      "modalHeader": {
+        "backgroundColor": "",
+        "color": " "
+      },
+      "modalSearch": {
+        "backgroundColor": "#f8f9fa",
+        "color": " "
+      },
+      "modalData": {
+        "backgroundColor": "whitesmoke",
+        "color": " "
+      },
+      "modal": {
+        "backgroundColor": "",
+        "color": "",
+        "thead_background": "",
+        "border_table_td": "",
+        "border_table_th": "",
+        "background_odd": ""
+      },
+      "priceboard": {
+        "price_ceil_color": "var(--state__ceil__color)",
+        "price_floor_color": "var(--state__floor__color)",
+        "price_basic_color": "#fc0",
+        "price_basic_less": "red",
+        "price_basic_over": "#0f0",
+        "row_hover": "#363636",
+        "row_focus": "#737373",
+        "thead_th_border_color": "#343434",
+        "thead_th_border": "1px solid #666",
+        "row_odd": "#181818",
+        "row_even": "#252525",
+        "thead_th_backgroundcolor": "#252525",
+        "thead_th_color": "var(--component__light)",
+        "font": "tahoma,helvetica,arial,sans-serif"
+      },
+      "div_bottom": {
+        "tab_content_background": "#242424",
+        "table_background": "#242424",
+        "nav_tabs_background": "#323232",
+        "color": "#e2dede",
+        "search_background": "#333",
+        "thead_background": "#242424",
+        "border_table_td": "1px solid #606060",
+        "border_table_th": "1px solid #606060",
+        "border_table": "1px solid #606060",
+        "background_odd": "#333",
+        "background_even": ""
+      }
+    },
+    "082": {
+      "color_brand" : "#484646",
+      "color_brand_2": "#f0c518",
+      "body": {
+        "font": "tahoma,helvetica,arial,sans-serif"
+      },
+      "topElmUp": {
+        "backgroundColor": "",
+        "color": " ",
+        "colorHover": ""
+      },
+      "topElmDown": {
+        "backgroundColor": "",
+        "color": " ",
+        "color_hover": ""
+      },
+      "sideBar": {
+        "backgroundColor": "#242424",
+        "color": "#d0cece",
+        "colorHover": "",
+        "backgroundColor_focus": "#409047"
+      },
+      "sideBar_title": {
+        "background": "#444444",
+        "color": "#d0cece"
+      },
+      "modalHeader": {
+        "backgroundColor": "",
+        "color": " "
+      },
+      "modalSearch": {
+        "backgroundColor": "#f8f9fa",
+        "color": " "
+      },
+      "modalData": {
+        "backgroundColor": "whitesmoke",
+        "color": " "
+      },
+      "modal": {
+        "backgroundColor": "",
+        "color": "",
+        "thead_background": "",
+        "border_table_td": "",
+        "border_table_th": "",
+        "background_odd": ""
+      },
+      "priceboard": {
+        "price_ceil_color": "var(--state__ceil__color)",
+        "price_floor_color": "var(--state__floor__color)",
+        "price_basic_color": "#fc0",
+        "price_basic_less": "red",
+        "price_basic_over": "#0f0",
+        "row_hover": "#363636",
+        "row_focus": "#737373",
+        "thead_th_border_color": "#343434",
+        "thead_th_border": "1px solid #666",
+        "row_odd": "#181818",
+        "row_even": "#252525",
+        "thead_th_backgroundcolor": "#252525",
+        "thead_th_color": "var(--component__light)",
+        "font": "tahoma,helvetica,arial,sans-serif"
+      },
+      "div_bottom": {
+        "tab_content_background": "#242424",
+        "table_background": "#242424",
+        "nav_tabs_background": "#323232",
+        "color": "#d0cece",
+        "search_background": "#333",
+        "thead_background": "#242424",
+        "border_table_td": "1px solid #606060",
+        "border_table_th": "1px solid #606060",
+        "border_table": "1px solid #606060",
+        "background_odd": "#333",
+        "background_even": ""
+      }
+    },
+    "020": {
+      "color_brand" : "#484646",
+      "color_brand_2": "#f0c518",
+      "body": {
+        "font": "tahoma,helvetica,arial,sans-serif"
+      },
+      "topElmUp": {
+        "backgroundColor": "",
+        "color": " ",
+        "colorHover": ""
+      },
+      "topElmDown": {
+        "backgroundColor": "",
+        "color": " ",
+        "color_hover": ""
+      },
+      "sideBar": {
+        "backgroundColor": "#242424",
+        "color": "#d0cece",
+        "colorHover": "",
+        "backgroundColor_focus": "#409047"
+      },
+      "sideBar_title": {
+        "background": "#444444",
+        "color": "#d0cece"
+      },
+      "modalHeader": {
+        "backgroundColor": "",
+        "color": " "
+      },
+      "modalSearch": {
+        "backgroundColor": "#f8f9fa",
+        "color": " "
+      },
+      "modalData": {
+        "backgroundColor": "whitesmoke",
+        "color": " "
+      },
+      "modal": {
+        "backgroundColor": "",
+        "color": "",
+        "thead_background": "",
+        "border_table_td": "",
+        "border_table_th": "",
+        "background_odd": ""
+      },
+      "priceboard": {
+        "price_ceil_color": "var(--state__ceil__color)",
+        "price_floor_color": "var(--state__floor__color)",
+        "price_basic_color": "#fc0",
+        "price_basic_less": "red",
+        "price_basic_over": "#0f0",
+        "row_hover": "#363636",
+        "row_focus": "#737373",
+        "thead_th_border_color": "#343434",
+        "thead_th_border": "1px solid #666",
+        "row_odd": "#181818",
+        "row_even": "#252525",
+        "thead_th_backgroundcolor": "#252525",
+        "thead_th_color": "var(--component__light)",
+        "font": "tahoma,helvetica,arial,sans-serif"
+      },
+      "div_bottom": {
+        "tab_content_background": "#242424",
+        "table_background": "#242424",
+        "nav_tabs_background": "#323232",
+        "color": "#d0cece",
+        "search_background": "#333",
+        "thead_background": "#242424",
+        "border_table_td": "1px solid #606060",
+        "border_table_th": "1px solid #606060",
+        "border_table": "1px solid #606060",
+        "background_odd": "#333",
+        "background_even": ""
+      }
+    },
+    "028": {
+      "color_brand" : "#484646",
+      "color_brand_2": "#f0c518",
+      "body": {
+        "font": "tahoma,helvetica,arial,sans-serif"
+      },
+      "topElmUp": {
+        "backgroundColor": "",
+        "color": " ",
+        "colorHover": ""
+      },
+      "topElmDown": {
+        "backgroundColor": "",
+        "color": " ",
+        "color_hover": ""
+      },
+      "sideBar": {
+        "backgroundColor": "#242424",
+        "color": "#d0cece",
+        "colorHover": "",
+        "backgroundColor_focus": "#6c757d",
+        "background_search": "var(--component__main_dark)",
+        "border_search": "1px solid var(--component__light_blue)",
+        "color_placehoder_search": "var(--component__light_blue)"
+      },
+      "sideBar_title": {
+        "background": "#444444",
+        "color": "#d0cece"
+      },
+      "modalHeader": {
+        "backgroundColor": "",
+        "color": " "
+      },
+      "modalSearch": {
+        "backgroundColor": "#f8f9fa",
+        "color": " "
+      },
+      "modalData": {
+        "backgroundColor": "whitesmoke",
+        "color": " "
+      },
+      "modal": {
+        "backgroundColor": "",
+        "color": "",
+        "thead_background": "",
+        "border_table_td": "",
+        "border_table_th": "",
+        "background_odd": ""
+      },
+      "priceboard": {
+        "price_ceil_color": "var(--state__ceil__color)",
+        "price_floor_color": "var(--state__floor__color)",
+        "price_basic_color": "#fc0",
+        "price_basic_less": "red",
+        "price_basic_over": "#0f0",
+        "row_hover": "#36324A",
+        "row_focus": "#36324A",
+        "thead_th_border_color": "#343434",
+        "thead_th_border": "1px solid #666",
+        "row_odd": "#181818",
+        "row_even": "#252525",
+        "thead_th_backgroundcolor": "#252525",
+        "thead_th_color": "var(--component__light)",
+        "font": "tahoma,helvetica,arial,sans-serif"
+      },
+      "div_bottom": {
+        "tab_content_background": "#242424",
+        "table_background": "#242424",
+        "nav_tabs_background": "#323232",
+        "color": "#d0cece",
+        "search_background": "#333",
+        "thead_background": "#242424",
+        "border_table_td": "1px solid #606060",
+        "border_table_th": "1px solid #606060",
+        "border_table": "1px solid #606060",
+        "background_odd": "#333",
+        "background_even": ""
+      }
+    }
+  }
+}
